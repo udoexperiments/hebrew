@@ -1,0 +1,802 @@
+[
+    {
+        "english": "book [male]",
+        "hebrew_spoken_singular": "sefer",
+        "hebrew_letters_singular": "ספר",
+        "hebrew_spoken_plural": "sfarim",
+        "hebrew_letters_plural": "ספרים",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "house [male]",
+        "hebrew_spoken_singular": "bayit",
+        "hebrew_letters_singular": "בית",
+        "hebrew_spoken_plural": "batim",
+        "hebrew_letters_plural": "בתים",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "dog [male]",
+        "hebrew_spoken_singular": "kelev",
+        "hebrew_letters_singular": "כלב",
+        "hebrew_spoken_plural": "klavim",
+        "hebrew_letters_plural": "כלבים",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "cat [male]",
+        "hebrew_spoken_singular": "chatul",
+        "hebrew_letters_singular": "חתול",
+        "hebrew_spoken_plural": "chatulim",
+        "hebrew_letters_plural": "חתולים",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "car [female]",
+        "hebrew_spoken_singular": "mechonit",
+        "hebrew_letters_singular": "מכונית",
+        "hebrew_spoken_plural": "mechoniot",
+        "hebrew_letters_plural": "מכוניות",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "tree [male]",
+        "hebrew_spoken_singular": "etz",
+        "hebrew_letters_singular": "עץ",
+        "hebrew_spoken_plural": "etzim",
+        "hebrew_letters_plural": "עצים",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "chair [male]",
+        "hebrew_spoken_singular": "kise",
+        "hebrew_letters_singular": "כיסא",
+        "hebrew_spoken_plural": "kisot",
+        "hebrew_letters_plural": "כיסאות",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "table [male]",
+        "hebrew_spoken_singular": "shulchan",
+        "hebrew_letters_singular": "שולחן",
+        "hebrew_spoken_plural": "shulchanot",
+        "hebrew_letters_plural": "שולחנות",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "window [male]",
+        "hebrew_spoken_singular": "chalon",
+        "hebrew_letters_singular": "חלון",
+        "hebrew_spoken_plural": "chalonot",
+        "hebrew_letters_plural": "חלונות",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "door [female]",
+        "hebrew_spoken_singular": "delet",
+        "hebrew_letters_singular": "דלת",
+        "hebrew_spoken_plural": "dlatot",
+        "hebrew_letters_plural": "דלתות",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "child [male]",
+        "hebrew_spoken_singular": "yeled",
+        "hebrew_letters_singular": "ילד",
+        "hebrew_spoken_plural": "yeladim",
+        "hebrew_letters_plural": "ילדים",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "woman [female]",
+        "hebrew_spoken_singular": "isha",
+        "hebrew_letters_singular": "אישה",
+        "hebrew_spoken_plural": "nashim",
+        "hebrew_letters_plural": "נשים",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "man [male]",
+        "hebrew_spoken_singular": "ish",
+        "hebrew_letters_singular": "איש",
+        "hebrew_spoken_plural": "anashim",
+        "hebrew_letters_plural": "אנשים",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "water [male]",
+        "hebrew_spoken_singular": "mayim",
+        "hebrew_letters_singular": "מים",
+        "hebrew_spoken_plural": "mayim",
+        "hebrew_letters_plural": "מים",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "bread [male]",
+        "hebrew_spoken_singular": "lechem",
+        "hebrew_letters_singular": "לחם",
+        "hebrew_spoken_plural": "lechamim",
+        "hebrew_letters_plural": "לחמים",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "apple [male]",
+        "hebrew_spoken_singular": "tapuach",
+        "hebrew_letters_singular": "תפוח",
+        "hebrew_spoken_plural": "tapuchim",
+        "hebrew_letters_plural": "תפוחים",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "school [male]",
+        "hebrew_spoken_singular": "beit sefer",
+        "hebrew_letters_singular": "בית ספר",
+        "hebrew_spoken_plural": "batei sefer",
+        "hebrew_letters_plural": "בתי ספר",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "teacher [female]",
+        "hebrew_spoken_singular": "moreh",
+        "hebrew_letters_singular": "מורה",
+        "hebrew_spoken_plural": "morim",
+        "hebrew_letters_plural": "מורים",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "student [male]",
+        "hebrew_spoken_singular": "talmid",
+        "hebrew_letters_singular": "תלמיד",
+        "hebrew_spoken_plural": "talmidim",
+        "hebrew_letters_plural": "תלמידים",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "city [male]",
+        "hebrew_spoken_singular": "ir",
+        "hebrew_letters_singular": "עיר",
+        "hebrew_spoken_plural": "arim",
+        "hebrew_letters_plural": "ערים",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "street [male]",
+        "hebrew_spoken_singular": "rechov",
+        "hebrew_letters_singular": "רחוב",
+        "hebrew_spoken_plural": "rechovot",
+        "hebrew_letters_plural": "רחובות",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "flower [male]",
+        "hebrew_spoken_singular": "perach",
+        "hebrew_letters_singular": "פרח",
+        "hebrew_spoken_plural": "prachim",
+        "hebrew_letters_plural": "פרחים",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "bird [female]",
+        "hebrew_spoken_singular": "tzipor",
+        "hebrew_letters_singular": "ציפור",
+        "hebrew_spoken_plural": "tziporim",
+        "hebrew_letters_plural": "ציפורים",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "computer [male]",
+        "hebrew_spoken_singular": "machshev",
+        "hebrew_letters_singular": "מחשב",
+        "hebrew_spoken_plural": "machshevim",
+        "hebrew_letters_plural": "מחשבים",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "bookstore [female]",
+        "hebrew_spoken_singular": "sifria",
+        "hebrew_letters_singular": "ספרייה",
+        "hebrew_spoken_plural": "sifriot",
+        "hebrew_letters_plural": "ספריות",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "restaurant [female]",
+        "hebrew_spoken_singular": "mis'ada",
+        "hebrew_letters_singular": "מסעדה",
+        "hebrew_spoken_plural": "mis'adot",
+        "hebrew_letters_plural": "מסעדות",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "friend [male]",
+        "hebrew_spoken_singular": "chaver",
+        "hebrew_letters_singular": "חבר",
+        "hebrew_spoken_plural": "chaverim",
+        "hebrew_letters_plural": "חברים",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "doctor [male]",
+        "hebrew_spoken_singular": "rofe",
+        "hebrew_letters_singular": "רופא",
+        "hebrew_spoken_plural": "rofim",
+        "hebrew_letters_plural": "רופאים",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "nurse [female]",
+        "hebrew_spoken_singular": "achot",
+        "hebrew_letters_singular": "אחות",
+        "hebrew_spoken_plural": "achayot",
+        "hebrew_letters_plural": "אחיות",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "airplane [male]",
+        "hebrew_spoken_singular": "matos",
+        "hebrew_letters_singular": "מטוס",
+        "hebrew_spoken_plural": "matosim",
+        "hebrew_letters_plural": "מטוסים",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "bus [male]",
+        "hebrew_spoken_singular": "otobus",
+        "hebrew_letters_singular": "אוטובוס",
+        "hebrew_spoken_plural": "otobusim",
+        "hebrew_letters_plural": "אוטובוסים",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "train [female]",
+        "hebrew_spoken_singular": "rakevet",
+        "hebrew_letters_singular": "רכבת",
+        "hebrew_spoken_plural": "rakavot",
+        "hebrew_letters_plural": "רכבות",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "fish [female]",
+        "hebrew_spoken_singular": "dag",
+        "hebrew_letters_singular": "דג",
+        "hebrew_spoken_plural": "dagim",
+        "hebrew_letters_plural": "דגים",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "shirt [female]",
+        "hebrew_spoken_singular": "chultza",
+        "hebrew_letters_singular": "חולצה",
+        "hebrew_spoken_plural": "chultzot",
+        "hebrew_letters_plural": "חולצות",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "pants [plural]",
+        "hebrew_spoken_singular": "michnasayim",
+        "hebrew_letters_singular": "מכנסיים",
+        "hebrew_spoken_plural": "michnasayim",
+        "hebrew_letters_plural": "מכנסיים",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "shoe [female]",
+        "hebrew_spoken_singular": "na'al",
+        "hebrew_letters_singular": "נעל",
+        "hebrew_spoken_plural": "na'alayim",
+        "hebrew_letters_plural": "נעליים",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "hat [male]",
+        "hebrew_spoken_singular": "kova",
+        "hebrew_letters_singular": "כובע",
+        "hebrew_spoken_plural": "kova'im",
+        "hebrew_letters_plural": "כובעים",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "glasses [plural]",
+        "hebrew_spoken_singular": "mishkafayim",
+        "hebrew_letters_singular": "משקפיים",
+        "hebrew_spoken_plural": "mishkafayim",
+        "hebrew_letters_plural": "משקפיים",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "watch [male]",
+        "hebrew_spoken_singular": "sha'on",
+        "hebrew_letters_singular": "שעון",
+        "hebrew_spoken_plural": "she'onim",
+        "hebrew_letters_plural": "שעונים",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "key [male]",
+        "hebrew_spoken_singular": "mafteach",
+        "hebrew_letters_singular": "מפתח",
+        "hebrew_spoken_plural": "maftechot",
+        "hebrew_letters_plural": "מפתחות",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "room [male]",
+        "hebrew_spoken_singular": "cheder",
+        "hebrew_letters_singular": "חדר",
+        "hebrew_spoken_plural": "chadarim",
+        "hebrew_letters_plural": "חדרים",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "kitchen [male]",
+        "hebrew_spoken_singular": "mitbach",
+        "hebrew_letters_singular": "מטבח",
+        "hebrew_spoken_plural": "mitbachim",
+        "hebrew_letters_plural": "מטבחים",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "bathroom [male]",
+        "hebrew_spoken_singular": "shirutim",
+        "hebrew_letters_singular": "שירותים",
+        "hebrew_spoken_plural": "shirutim",
+        "hebrew_letters_plural": "שירותים",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "bed [female]",
+        "hebrew_spoken_singular": "mita",
+        "hebrew_letters_singular": "מיטה",
+        "hebrew_spoken_plural": "mitot",
+        "hebrew_letters_plural": "מיטות",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "lamp [female]",
+        "hebrew_spoken_singular": "menora",
+        "hebrew_letters_singular": "מנורה",
+        "hebrew_spoken_plural": "menorot",
+        "hebrew_letters_plural": "מנורות",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "picture [female]",
+        "hebrew_spoken_singular": "tmuna",
+        "hebrew_letters_singular": "תמונה",
+        "hebrew_spoken_plural": "tmunot",
+        "hebrew_letters_plural": "תמונות",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "wall [male]",
+        "hebrew_spoken_singular": "kir",
+        "hebrew_letters_singular": "קיר",
+        "hebrew_spoken_plural": "kirot",
+        "hebrew_letters_plural": "קירות",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "floor [female]",
+        "hebrew_spoken_singular": "ritzpa",
+        "hebrew_letters_singular": "רצפה",
+        "hebrew_spoken_plural": "ritzpot",
+        "hebrew_letters_plural": "רצפות",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "ceiling [female]",
+        "hebrew_spoken_singular": "tikra",
+        "hebrew_letters_singular": "תקרה",
+        "hebrew_spoken_plural": "tikrot",
+        "hebrew_letters_plural": "תקרות",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "garden [female]",
+        "hebrew_spoken_singular": "gina",
+        "hebrew_letters_singular": "גינה",
+        "hebrew_spoken_plural": "ginot",
+        "hebrew_letters_plural": "גינות",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "park [male]",
+        "hebrew_spoken_singular": "park",
+        "hebrew_letters_singular": "פארק",
+        "hebrew_spoken_plural": "parkim",
+        "hebrew_letters_plural": "פארקים",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "beach [male]",
+        "hebrew_spoken_singular": "chof",
+        "hebrew_letters_singular": "חוף",
+        "hebrew_spoken_plural": "chofim",
+        "hebrew_letters_plural": "חופים",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "mountain [male]",
+        "hebrew_spoken_singular": "har",
+        "hebrew_letters_singular": "הר",
+        "hebrew_spoken_plural": "harim",
+        "hebrew_letters_plural": "הרים",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "river [male]",
+        "hebrew_spoken_singular": "nahar",
+        "hebrew_letters_singular": "נהר",
+        "hebrew_spoken_plural": "neharot",
+        "hebrew_letters_plural": "נהרות",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "sea [male]",
+        "hebrew_spoken_singular": "yam",
+        "hebrew_letters_singular": "ים",
+        "hebrew_spoken_plural": "yamim",
+        "hebrew_letters_plural": "ימים",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "sky [male]",
+        "hebrew_spoken_singular": "shamayim",
+        "hebrew_letters_singular": "שמים",
+        "hebrew_spoken_plural": "shamayim",
+        "hebrew_letters_plural": "שמים",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "sun [female]",
+        "hebrew_spoken_singular": "shemesh",
+        "hebrew_letters_singular": "שמש",
+        "hebrew_spoken_plural": "shemashot",
+        "hebrew_letters_plural": "שמשות",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "moon [female]",
+        "hebrew_spoken_singular": "yare'ach",
+        "hebrew_letters_singular": "ירח",
+        "hebrew_spoken_plural": "yerechim",
+        "hebrew_letters_plural": "ירחים",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "star [male]",
+        "hebrew_spoken_singular": "kochav",
+        "hebrew_letters_singular": "כוכב",
+        "hebrew_spoken_plural": "kochavim",
+        "hebrew_letters_plural": "כוכבים",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "cloud [male]",
+        "hebrew_spoken_singular": "anan",
+        "hebrew_letters_singular": "ענן",
+        "hebrew_spoken_plural": "ananim",
+        "hebrew_letters_plural": "עננים",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "fruit [male]",
+        "hebrew_spoken_singular": "pri",
+        "hebrew_letters_singular": "פרי",
+        "hebrew_spoken_plural": "perot",
+        "hebrew_letters_plural": "פירות",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "vegetable [male]",
+        "hebrew_spoken_singular": "yerek",
+        "hebrew_letters_singular": "ירק",
+        "hebrew_spoken_plural": "yerakot",
+        "hebrew_letters_plural": "ירקות",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "meat [male]",
+        "hebrew_spoken_singular": "basar",
+        "hebrew_letters_singular": "בשר",
+        "hebrew_spoken_plural": "basarim",
+        "hebrew_letters_plural": "בשרים",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "milk [male]",
+        "hebrew_spoken_singular": "chalav",
+        "hebrew_letters_singular": "חלב",
+        "hebrew_spoken_plural": "no plural",
+        "hebrew_letters_plural": "no plural",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "egg [female]",
+        "hebrew_spoken_singular": "beitza",
+        "hebrew_letters_singular": "ביצה",
+        "hebrew_spoken_plural": "beitzim",
+        "hebrew_letters_plural": "ביצים",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "cheese [female]",
+        "hebrew_spoken_singular": "gvina",
+        "hebrew_letters_singular": "גבינה",
+        "hebrew_spoken_plural": "gvinot",
+        "hebrew_letters_plural": "גבינות",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "soup [male]",
+        "hebrew_spoken_singular": "marak",
+        "hebrew_letters_singular": "מרק",
+        "hebrew_spoken_plural": "merakim",
+        "hebrew_letters_plural": "מרקים",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "salad [male]",
+        "hebrew_spoken_singular": "salat",
+        "hebrew_letters_singular": "סלט",
+        "hebrew_spoken_plural": "salatim",
+        "hebrew_letters_plural": "סלטים",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "juice [male]",
+        "hebrew_spoken_singular": "mitz",
+        "hebrew_letters_singular": "מיץ",
+        "hebrew_spoken_plural": "mitzim",
+        "hebrew_letters_plural": "מיצים",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "coffee [male]",
+        "hebrew_spoken_singular": "kafe",
+        "hebrew_letters_singular": "קפה",
+        "hebrew_spoken_plural": "no plural",
+        "hebrew_letters_plural": "no plural",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "restaurant [female]",
+        "hebrew_spoken_singular": "mis'ada",
+        "hebrew_letters_singular": "מסעדה",
+        "hebrew_spoken_plural": "mis'adot",
+        "hebrew_letters_plural": "מסעדות",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "store [female]",
+        "hebrew_spoken_singular": "chanut",
+        "hebrew_letters_singular": "חנות",
+        "hebrew_spoken_plural": "chanuyot",
+        "hebrew_letters_plural": "חנויות",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "market [male]",
+        "hebrew_spoken_singular": "shuk",
+        "hebrew_letters_singular": "שוק",
+        "hebrew_spoken_plural": "shvakim",
+        "hebrew_letters_plural": "שווקים",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "mall [male]",
+        "hebrew_spoken_singular": "kanyon",
+        "hebrew_letters_singular": "קניון",
+        "hebrew_spoken_plural": "kanyonim",
+        "hebrew_letters_plural": "קניונים",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "bank [male]",
+        "hebrew_spoken_singular": "bank",
+        "hebrew_letters_singular": "בנק",
+        "hebrew_spoken_plural": "bankim",
+        "hebrew_letters_plural": "בנקים",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "post office [male]",
+        "hebrew_spoken_singular": "do'ar",
+        "hebrew_letters_singular": "דואר",
+        "hebrew_spoken_plural": "no plural",
+        "hebrew_letters_plural": "no plural",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "hospital [male]",
+        "hebrew_spoken_singular": "beit cholim",
+        "hebrew_letters_singular": "בית חולים",
+        "hebrew_spoken_plural": "batei cholim",
+        "hebrew_letters_plural": "בתי חולים",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "library [female]",
+        "hebrew_spoken_singular": "sifriya",
+        "hebrew_letters_singular": "ספרייה",
+        "hebrew_spoken_plural": "sifriyot",
+        "hebrew_letters_plural": "ספריות",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "museum [male]",
+        "hebrew_spoken_singular": "muze'on",
+        "hebrew_letters_singular": "מוזיאון",
+        "hebrew_spoken_plural": "muze'onim",
+        "hebrew_letters_plural": "מוזיאונים",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "theater [male]",
+        "hebrew_spoken_singular": "te'atron",
+        "hebrew_letters_singular": "תיאטרון",
+        "hebrew_spoken_plural": "te'atronim",
+        "hebrew_letters_plural": "תיאטרונים",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "family [female]",
+        "hebrew_spoken_singular": "mishpacha",
+        "hebrew_letters_singular": "משפחה",
+        "hebrew_spoken_plural": "mishpachot",
+        "hebrew_letters_plural": "משפחות",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "mother [female]",
+        "hebrew_spoken_singular": "ima",
+        "hebrew_letters_singular": "אמא",
+        "hebrew_spoken_plural": "imahot",
+        "hebrew_letters_plural": "אמהות",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "father [male]",
+        "hebrew_spoken_singular": "aba",
+        "hebrew_letters_singular": "אבא",
+        "hebrew_spoken_plural": "abot",
+        "hebrew_letters_plural": "אבות",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "sister [female]",
+        "hebrew_spoken_singular": "achot",
+        "hebrew_letters_singular": "אחות",
+        "hebrew_spoken_plural": "achayot",
+        "hebrew_letters_plural": "אחיות",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "brother [male]",
+        "hebrew_spoken_singular": "ach",
+        "hebrew_letters_singular": "אח",
+        "hebrew_spoken_plural": "achim",
+        "hebrew_letters_plural": "אחים",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "grandmother [female]",
+        "hebrew_spoken_singular": "savta",
+        "hebrew_letters_singular": "סבתא",
+        "hebrew_spoken_plural": "savtot",
+        "hebrew_letters_plural": "סבתות",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "grandfather [male]",
+        "hebrew_spoken_singular": "saba",
+        "hebrew_letters_singular": "סבא",
+        "hebrew_spoken_plural": "sabim",
+        "hebrew_letters_plural": "סבים",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "aunt [female]",
+        "hebrew_spoken_singular": "doda",
+        "hebrew_letters_singular": "דודה",
+        "hebrew_spoken_plural": "dodot",
+        "hebrew_letters_plural": "דודות",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "uncle [male]",
+        "hebrew_spoken_singular": "dod",
+        "hebrew_letters_singular": "דוד",
+        "hebrew_spoken_plural": "dodim",
+        "hebrew_letters_plural": "דודים",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "cousin [male]",
+        "hebrew_spoken_singular": "ben dod",
+        "hebrew_letters_singular": "בן דוד",
+        "hebrew_spoken_plural": "bnei dod",
+        "hebrew_letters_plural": "בני דוד",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "husband [male]",
+        "hebrew_spoken_singular": "ba'al",
+        "hebrew_letters_singular": "בעל",
+        "hebrew_spoken_plural": "ba'alim",
+        "hebrew_letters_plural": "בעלים",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "wife [female]",
+        "hebrew_spoken_singular": "isha",
+        "hebrew_letters_singular": "אישה",
+        "hebrew_spoken_plural": "nashim",
+        "hebrew_letters_plural": "נשים",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "son [male]",
+        "hebrew_spoken_singular": "ben",
+        "hebrew_letters_singular": "בן",
+        "hebrew_spoken_plural": "banim",
+        "hebrew_letters_plural": "בנים",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "daughter [female]",
+        "hebrew_spoken_singular": "bat",
+        "hebrew_letters_singular": "בת",
+        "hebrew_spoken_plural": "banot",
+        "hebrew_letters_plural": "בנות",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "baby [male]",
+        "hebrew_spoken_singular": "tinok",
+        "hebrew_letters_singular": "תינוק",
+        "hebrew_spoken_plural": "tinokot",
+        "hebrew_letters_plural": "תינוקות",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "boy [male]",
+        "hebrew_spoken_singular": "yeled",
+        "hebrew_letters_singular": "ילד",
+        "hebrew_spoken_plural": "yeladim",
+        "hebrew_letters_plural": "ילדים",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "girl [female]",
+        "hebrew_spoken_singular": "yalda",
+        "hebrew_letters_singular": "ילדה",
+        "hebrew_spoken_plural": "yeladot",
+        "hebrew_letters_plural": "ילדות",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "friend [male]",
+        "hebrew_spoken_singular": "chaver",
+        "hebrew_letters_singular": "חבר",
+        "hebrew_spoken_plural": "chaverim",
+        "hebrew_letters_plural": "חברים",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "friend [female]",
+        "hebrew_spoken_singular": "chavera",
+        "hebrew_letters_singular": "חברה",
+        "hebrew_spoken_plural": "chaverot",
+        "hebrew_letters_plural": "חברות",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "neighbor [male]",
+        "hebrew_spoken_singular": "shachen",
+        "hebrew_letters_singular": "שכן",
+        "hebrew_spoken_plural": "shchenim",
+        "hebrew_letters_plural": "שכנים",
+        "lesson": "Lesson 5"
+    }
+]

@@ -1,0 +1,794 @@
+[
+    {
+        "english": "Big",
+        "hebrew_spoken_male": "Gadol",
+        "hebrew_letters_male": "גדול",
+        "hebrew_spoken_female": "Gdola",
+        "hebrew_letters_female": "גדולה",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Small",
+        "hebrew_spoken_male": "Katan",
+        "hebrew_letters_male": "קטן",
+        "hebrew_spoken_female": "Ktana",
+        "hebrew_letters_female": "קטנה",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Fast",
+        "hebrew_spoken_male": "Maher",
+        "hebrew_letters_male": "מהיר",
+        "hebrew_spoken_female": "Mehera",
+        "hebrew_letters_female": "מהירה",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Slow",
+        "hebrew_spoken_male": "Le'at",
+        "hebrew_letters_male": "לאט",
+        "hebrew_spoken_female": "Le'at",
+        "hebrew_letters_female": "לאט",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Strong",
+        "hebrew_spoken_male": "Chazak",
+        "hebrew_letters_male": "חזק",
+        "hebrew_spoken_female": "Chazaka",
+        "hebrew_letters_female": "חזקה",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Weak",
+        "hebrew_spoken_male": "Chalash",
+        "hebrew_letters_male": "חלש",
+        "hebrew_spoken_female": "Chalasha",
+        "hebrew_letters_female": "חלשה",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Happy",
+        "hebrew_spoken_male": "Sameach",
+        "hebrew_letters_male": "שמח",
+        "hebrew_spoken_female": "Smecha",
+        "hebrew_letters_female": "שמחה",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Sad",
+        "hebrew_spoken_male": "Atzuv",
+        "hebrew_letters_male": "עצוב",
+        "hebrew_spoken_female": "Atzuva",
+        "hebrew_letters_female": "עצובה",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Pretty",
+        "hebrew_spoken_male": "Yafe",
+        "hebrew_letters_male": "יפה",
+        "hebrew_spoken_female": "Yafa",
+        "hebrew_letters_female": "יפה",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Ugly",
+        "hebrew_spoken_male": "Mechoar",
+        "hebrew_letters_male": "מכוער",
+        "hebrew_spoken_female": "Mechoeret",
+        "hebrew_letters_female": "מכוערת",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Smart",
+        "hebrew_spoken_male": "Chakham",
+        "hebrew_letters_male": "חכם",
+        "hebrew_spoken_female": "Chakhama",
+        "hebrew_letters_female": "חכמה",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Stupid",
+        "hebrew_spoken_male": "Tipesh",
+        "hebrew_letters_male": "טיפש",
+        "hebrew_spoken_female": "Tipsha",
+        "hebrew_letters_female": "טיפשה",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Young",
+        "hebrew_spoken_male": "Tzair",
+        "hebrew_letters_male": "צעיר",
+        "hebrew_spoken_female": "Tzeira",
+        "hebrew_letters_female": "צעירה",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Old",
+        "hebrew_spoken_male": "Zaken",
+        "hebrew_letters_male": "זקן",
+        "hebrew_spoken_female": "Zkena",
+        "hebrew_letters_female": "זקנה",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "New",
+        "hebrew_spoken_male": "Chadash",
+        "hebrew_letters_male": "חדש",
+        "hebrew_spoken_female": "Chadasha",
+        "hebrew_letters_female": "חדשה",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Ancient",
+        "hebrew_spoken_male": "Atik",
+        "hebrew_letters_male": "עתיק",
+        "hebrew_spoken_female": "Atika",
+        "hebrew_letters_female": "עתיקה",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Good",
+        "hebrew_spoken_male": "Tov",
+        "hebrew_letters_male": "טוב",
+        "hebrew_spoken_female": "Tova",
+        "hebrew_letters_female": "טובה",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Bad",
+        "hebrew_spoken_male": "Ra",
+        "hebrew_letters_male": "רע",
+        "hebrew_spoken_female": "Ra'a",
+        "hebrew_letters_female": "רעה",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Expensive",
+        "hebrew_spoken_male": "Yakar",
+        "hebrew_letters_male": "יקר",
+        "hebrew_spoken_female": "Yekara",
+        "hebrew_letters_female": "יקרה",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Cheap",
+        "hebrew_spoken_male": "Zol",
+        "hebrew_letters_male": "זול",
+        "hebrew_spoken_female": "Zola",
+        "hebrew_letters_female": "זולה",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Long",
+        "hebrew_spoken_male": "Aroch",
+        "hebrew_letters_male": "ארוך",
+        "hebrew_spoken_female": "Aruka",
+        "hebrew_letters_female": "ארוכה",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "Short",
+        "hebrew_spoken_male": "Katzar",
+        "hebrew_letters_male": "קצר",
+        "hebrew_spoken_female": "Ktzaara",
+        "hebrew_letters_female": "קצערה",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "Wide",
+        "hebrew_spoken_male": "Rachav",
+        "hebrew_letters_male": "רחב",
+        "hebrew_spoken_female": "Rechava",
+        "hebrew_letters_female": "רחבה",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "Narrow",
+        "hebrew_spoken_male": "Tzar",
+        "hebrew_letters_male": "צר",
+        "hebrew_spoken_female": "Tzara",
+        "hebrew_letters_female": "צרה",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "Clean",
+        "hebrew_spoken_male": "Naki",
+        "hebrew_letters_male": "נקי",
+        "hebrew_spoken_female": "Nekiya",
+        "hebrew_letters_female": "נקייה",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "Dirty",
+        "hebrew_spoken_male": "Meluchlach",
+        "hebrew_letters_male": "מלוכלך",
+        "hebrew_spoken_female": "Meluchlechet",
+        "hebrew_letters_female": "מלוכלכת",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "Hard",
+        "hebrew_spoken_male": "Kashe",
+        "hebrew_letters_male": "קשה",
+        "hebrew_spoken_female": "Kasha",
+        "hebrew_letters_female": "קשה",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "Soft",
+        "hebrew_spoken_male": "Rach",
+        "hebrew_letters_male": "רך",
+        "hebrew_spoken_female": "Racha",
+        "hebrew_letters_female": "רכה",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "Heavy",
+        "hebrew_spoken_male": "Kaved",
+        "hebrew_letters_male": "כבד",
+        "hebrew_spoken_female": "Kveda",
+        "hebrew_letters_female": "כבדה",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "Light",
+        "hebrew_spoken_male": "Kal",
+        "hebrew_letters_male": "קל",
+        "hebrew_spoken_female": "Kala",
+        "hebrew_letters_female": "קלה",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "Cold",
+        "hebrew_spoken_male": "Kar",
+        "hebrew_letters_male": "קר",
+        "hebrew_spoken_female": "Kara",
+        "hebrew_letters_female": "קרה",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "Hot",
+        "hebrew_spoken_male": "Cham",
+        "hebrew_letters_male": "חם",
+        "hebrew_spoken_female": "Chama",
+        "hebrew_letters_female": "חמה",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "Hard",
+        "hebrew_spoken_male": "Kashe",
+        "hebrew_letters_male": "קשה",
+        "hebrew_spoken_female": "Kasha",
+        "hebrew_letters_female": "קשה",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "Soft",
+        "hebrew_spoken_male": "Rach",
+        "hebrew_letters_male": "רך",
+        "hebrew_spoken_female": "Racha",
+        "hebrew_letters_female": "רכה",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "Heavy",
+        "hebrew_spoken_male": "Kaved",
+        "hebrew_letters_male": "כבד",
+        "hebrew_spoken_female": "Kveda",
+        "hebrew_letters_female": "כבדה",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "Light (weight)",
+        "hebrew_spoken_male": "Kal",
+        "hebrew_letters_male": "קל",
+        "hebrew_spoken_female": "Kala",
+        "hebrew_letters_female": "קלה",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "Dark",
+        "hebrew_spoken_male": "Afel",
+        "hebrew_letters_male": "אפל",
+        "hebrew_spoken_female": "Afela",
+        "hebrew_letters_female": "אפלה",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "Bright",
+        "hebrew_spoken_male": "Bahir",
+        "hebrew_letters_male": "בהיר",
+        "hebrew_spoken_female": "Behira",
+        "hebrew_letters_female": "בהירה",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "Full",
+        "hebrew_spoken_male": "Male",
+        "hebrew_letters_male": "מלא",
+        "hebrew_spoken_female": "Mele'a",
+        "hebrew_letters_female": "מלאה",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "Empty",
+        "hebrew_spoken_male": "Rek",
+        "hebrew_letters_male": "ריק",
+        "hebrew_spoken_female": "Reka",
+        "hebrew_letters_female": "ריקה",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "Wide",
+        "hebrew_spoken_male": "Rachav",
+        "hebrew_letters_male": "רחב",
+        "hebrew_spoken_female": "Rachava",
+        "hebrew_letters_female": "רחבה",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Narrow",
+        "hebrew_spoken_male": "Tzar",
+        "hebrew_letters_male": "צר",
+        "hebrew_spoken_female": "Tzara",
+        "hebrew_letters_female": "צרה",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Thick",
+        "hebrew_spoken_male": "Aveh",
+        "hebrew_letters_male": "עבה",
+        "hebrew_spoken_female": "Ava",
+        "hebrew_letters_female": "עבה",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Thin",
+        "hebrew_spoken_male": "Dak",
+        "hebrew_letters_male": "דק",
+        "hebrew_spoken_female": "Daka",
+        "hebrew_letters_female": "דקה",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Deep",
+        "hebrew_spoken_male": "Amok",
+        "hebrew_letters_male": "עמוק",
+        "hebrew_spoken_female": "Amuka",
+        "hebrew_letters_female": "עמוקה",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Shallow",
+        "hebrew_spoken_male": "Radud",
+        "hebrew_letters_male": "רדוד",
+        "hebrew_spoken_female": "Raduda",
+        "hebrew_letters_female": "רדודה",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Clean",
+        "hebrew_spoken_male": "Naki",
+        "hebrew_letters_male": "נקי",
+        "hebrew_spoken_female": "Nekiya",
+        "hebrew_letters_female": "נקייה",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Dirty",
+        "hebrew_spoken_male": "Meluchlach",
+        "hebrew_letters_male": "מלוכלך",
+        "hebrew_spoken_female": "Meluchlechet",
+        "hebrew_letters_female": "מלוכלכת",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Busy",
+        "hebrew_spoken_male": "Asuk",
+        "hebrew_letters_male": "עסוק",
+        "hebrew_spoken_female": "Asuka",
+        "hebrew_letters_female": "עסוקה",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Free (available)",
+        "hebrew_spoken_male": "Panu'i",
+        "hebrew_letters_male": "פנוי",
+        "hebrew_spoken_female": "Pnuyah",
+        "hebrew_letters_female": "פנויה",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Friendly",
+        "hebrew_spoken_male": "Yediduti",
+        "hebrew_letters_male": "ידידותי",
+        "hebrew_spoken_female": "Yedidut",
+        "hebrew_letters_female": "ידידותית",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Mean",
+        "hebrew_spoken_male": "Rash",
+        "hebrew_letters_male": "רשע",
+        "hebrew_spoken_female": "Resha'it",
+        "hebrew_letters_female": "רשאית",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Generous",
+        "hebrew_spoken_male": "Nadiv",
+        "hebrew_letters_male": "נדיב",
+        "hebrew_spoken_female": "Nediva",
+        "hebrew_letters_female": "נדיבה",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Selfish",
+        "hebrew_spoken_male": "Anik",
+        "hebrew_letters_male": "אנוכי",
+        "hebrew_spoken_female": "Anika",
+        "hebrew_letters_female": "אנוכית",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Brave",
+        "hebrew_spoken_male": "Amits",
+        "hebrew_letters_male": "אמיץ",
+        "hebrew_spoken_female": "Amitza",
+        "hebrew_letters_female": "אמיצה",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Cowardly",
+        "hebrew_spoken_male": "Pachdan",
+        "hebrew_letters_male": "פחדן",
+        "hebrew_spoken_female": "Pachdanit",
+        "hebrew_letters_female": "פחדנית",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Polite",
+        "hebrew_spoken_male": "Menumas",
+        "hebrew_letters_male": "מנומס",
+        "hebrew_spoken_female": "Menumeset",
+        "hebrew_letters_female": "מנומסת",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Rude",
+        "hebrew_spoken_male": "Gass",
+        "hebrew_letters_male": "גס",
+        "hebrew_spoken_female": "Gassa",
+        "hebrew_letters_female": "גסה",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Honest",
+        "hebrew_spoken_male": "Yashar",
+        "hebrew_letters_male": "ישר",
+        "hebrew_spoken_female": "Yeshara",
+        "hebrew_letters_female": "ישרה",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Dishonest",
+        "hebrew_spoken_male": "Rama'i",
+        "hebrew_letters_male": "רמאי",
+        "hebrew_spoken_female": "Rama'it",
+        "hebrew_letters_female": "רמאית",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Loyal",
+        "hebrew_spoken_male": "Ne'eman",
+        "hebrew_letters_male": "נאמן",
+        "hebrew_spoken_female": "Ne'emanah",
+        "hebrew_letters_female": "נאמנה",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Disloyal",
+        "hebrew_spoken_male": "Boged",
+        "hebrew_letters_male": "בוגד",
+        "hebrew_spoken_female": "Bogedet",
+        "hebrew_letters_female": "בוגדת",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Tired",
+        "hebrew_spoken_male": "Ayef",
+        "hebrew_letters_male": "עייף",
+        "hebrew_spoken_female": "Ayefa",
+        "hebrew_letters_female": "עייפה",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Energetic",
+        "hebrew_spoken_male": "Malei meretz",
+        "hebrew_letters_male": "מלא מרץ",
+        "hebrew_spoken_female": "Mele'a meretz",
+        "hebrew_letters_female": "מלאת מרץ",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Hungry",
+        "hebrew_spoken_male": "Ra'ev",
+        "hebrew_letters_male": "רעב",
+        "hebrew_spoken_female": "Re'eva",
+        "hebrew_letters_female": "רעבה",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Thirsty",
+        "hebrew_spoken_male": "Tzame",
+        "hebrew_letters_male": "צמא",
+        "hebrew_spoken_female": "Tzme'a",
+        "hebrew_letters_female": "צמאה",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Bored",
+        "hebrew_spoken_male": "Meshu'amam",
+        "hebrew_letters_male": "משועמם",
+        "hebrew_spoken_female": "Meshu'amemet",
+        "hebrew_letters_female": "משועממת",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Excited",
+        "hebrew_spoken_male": "Nirgas",
+        "hebrew_letters_male": "נרגש",
+        "hebrew_spoken_female": "Nirgaset",
+        "hebrew_letters_female": "נרגשת",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Calm",
+        "hebrew_spoken_male": "Ragu'a",
+        "hebrew_letters_male": "רגוע",
+        "hebrew_spoken_female": "Ragu'a",
+        "hebrew_letters_female": "רגועה",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Quiet",
+        "hebrew_spoken_male": "Shaket",
+        "hebrew_letters_male": "שקט",
+        "hebrew_spoken_female": "Shketa",
+        "hebrew_letters_female": "שקטה",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Loud",
+        "hebrew_spoken_male": "Rashan",
+        "hebrew_letters_male": "רעשן",
+        "hebrew_spoken_female": "Rashanit",
+        "hebrew_letters_female": "רעשנית",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Neat",
+        "hebrew_spoken_male": "Mesudar",
+        "hebrew_letters_male": "מסודר",
+        "hebrew_spoken_female": "Mesuderet",
+        "hebrew_letters_female": "מסודרת",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Messy",
+        "hebrew_spoken_male": "Balagan",
+        "hebrew_letters_male": "בלגן",
+        "hebrew_spoken_female": "Balaganit",
+        "hebrew_letters_female": "בלגאנית",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Patient",
+        "hebrew_spoken_male": "Savlan",
+        "hebrew_letters_male": "סבלן",
+        "hebrew_spoken_female": "Savlanit",
+        "hebrew_letters_female": "סבלנית",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Impatient",
+        "hebrew_spoken_male": "Chasran savlanut",
+        "hebrew_letters_male": "חסר סבלנות",
+        "hebrew_spoken_female": "Chasrat savlanut",
+        "hebrew_letters_female": "חסרת סבלנות",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Strict",
+        "hebrew_spoken_male": "Kaved rosh",
+        "hebrew_letters_male": "כבד ראש",
+        "hebrew_spoken_female": "Kvedat rosh",
+        "hebrew_letters_female": "כבדת ראש",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Lenient",
+        "hebrew_spoken_male": "Makil",
+        "hebrew_letters_male": "מקיל",
+        "hebrew_spoken_female": "Makila",
+        "hebrew_letters_female": "מקילה",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Real",
+        "hebrew_spoken_male": "Amiti",
+        "hebrew_letters_male": "אמיתי",
+        "hebrew_spoken_female": "Amitit",
+        "hebrew_letters_female": "אמיתית",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Fake",
+        "hebrew_spoken_male": "Mezuyaf",
+        "hebrew_letters_male": "מזויף",
+        "hebrew_spoken_female": "Mezuyefet",
+        "hebrew_letters_female": "מזויפת",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Dangerous",
+        "hebrew_spoken_male": "Mesukan",
+        "hebrew_letters_male": "Mesukenet",
+        "hebrew_spoken_female": "מסוכן",
+        "hebrew_letters_female": "מסוכנת",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Safe",
+        "hebrew_spoken_male": "Batuach",
+        "hebrew_letters_male": "Betucha",
+        "hebrew_spoken_female": "בטוח",
+        "hebrew_letters_female": "בטוחה",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Difficult",
+        "hebrew_spoken_male": "Kashé",
+        "hebrew_letters_male": "Kasha",
+        "hebrew_spoken_female": "קשה",
+        "hebrew_letters_female": "קשה",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Easy",
+        "hebrew_spoken_male": "Kal",
+        "hebrew_letters_male": "Kala",
+        "hebrew_spoken_female": "קל",
+        "hebrew_letters_female": "קלה",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Delicious",
+        "hebrew_spoken_male": "Ta’im",
+        "hebrew_letters_male": "Te’ima",
+        "hebrew_spoken_female": "טעים",
+        "hebrew_letters_female": "טעימה",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Bitter",
+        "hebrew_spoken_male": "Mar",
+        "hebrew_letters_male": "Mara",
+        "hebrew_spoken_female": "מר",
+        "hebrew_letters_female": "מרה",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Sweet",
+        "hebrew_spoken_male": "Matok",
+        "hebrew_letters_male": "Metuka",
+        "hebrew_spoken_female": "מתוק",
+        "hebrew_letters_female": "מתוקה",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Salty",
+        "hebrew_spoken_male": "Maluach",
+        "hebrew_letters_male": "Melucha",
+        "hebrew_spoken_female": "מלוח",
+        "hebrew_letters_female": "מלוחה",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Spicy",
+        "hebrew_spoken_male": "Charif",
+        "hebrew_letters_male": "Charefa",
+        "hebrew_spoken_female": "חריף",
+        "hebrew_letters_female": "חריפה",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Sour",
+        "hebrew_spoken_male": "Chamutz",
+        "hebrew_letters_male": "Chamutza",
+        "hebrew_spoken_female": "חמוץ",
+        "hebrew_letters_female": "חמוצה",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Wet",
+        "hebrew_spoken_male": "Ratuv",
+        "hebrew_letters_male": "Retuva",
+        "hebrew_spoken_female": "רטוב",
+        "hebrew_letters_female": "רטובה",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Dry",
+        "hebrew_spoken_male": "Yavesh",
+        "hebrew_letters_male": "Yevesha",
+        "hebrew_spoken_female": "יבש",
+        "hebrew_letters_female": "יבשה",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Curly",
+        "hebrew_spoken_male": "Mesarbel",
+        "hebrew_letters_male": "Mesurbelet",
+        "hebrew_spoken_female": "מסולסל",
+        "hebrew_letters_female": "מסולסלת",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Straight",
+        "hebrew_spoken_male": "Yashar",
+        "hebrew_letters_male": "Yeshara",
+        "hebrew_spoken_female": "ישר",
+        "hebrew_letters_female": "ישרה",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Tight",
+        "hebrew_spoken_male": "Tzar",
+        "hebrew_letters_male": "Tzara",
+        "hebrew_spoken_female": "צר",
+        "hebrew_letters_female": "צרה",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Loose",
+        "hebrew_spoken_male": "Rafu’i",
+        "hebrew_letters_male": "Refuya",
+        "hebrew_spoken_female": "רפוי",
+        "hebrew_letters_female": "רפויה",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Heavy (emotionally)",
+        "hebrew_spoken_male": "Kaved",
+        "hebrew_letters_male": "Kveda",
+        "hebrew_spoken_female": "כבד",
+        "hebrew_letters_female": "כבדה",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Softhearted",
+        "hebrew_spoken_male": "Rach lev",
+        "hebrew_letters_male": "Rachat lev",
+        "hebrew_spoken_female": "רך לב",
+        "hebrew_letters_female": "רכת לב",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Coldhearted",
+        "hebrew_spoken_male": "Kar lev",
+        "hebrew_letters_male": "Karat lev",
+        "hebrew_spoken_female": "קר לב",
+        "hebrew_letters_female": "קרת לב",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Complicated",
+        "hebrew_spoken_male": "Mesubach",
+        "hebrew_letters_male": "Mesubechet",
+        "hebrew_spoken_female": "מסובך",
+        "hebrew_letters_female": "מסובכת",
+        "lesson": "Lesson 5"
+    }
+]

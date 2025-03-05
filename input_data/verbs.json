@@ -1,0 +1,912 @@
+[
+    {
+        "english": "to eat",
+        "hebrew_spoken_general": "Le'echol",
+        "hebrew_letters_general": "לאכול",
+        "hebrew_spoken_he": "Ochel",
+        "hebrew_letters_he": "אוכל",
+        "hebrew_spoken_she": "Ochelet",
+        "hebrew_letters_she": "אוכלת",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to drink",
+        "hebrew_spoken_general": "Lishtot",
+        "hebrew_letters_general": "לשתות",
+        "hebrew_spoken_he": "Shote",
+        "hebrew_letters_he": "שותה",
+        "hebrew_spoken_she": "Shotah",
+        "hebrew_letters_she": "שותה",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to sleep",
+        "hebrew_spoken_general": "Lishon",
+        "hebrew_letters_general": "לישון",
+        "hebrew_spoken_he": "Yashen",
+        "hebrew_letters_he": "ישן",
+        "hebrew_spoken_she": "Yashenah",
+        "hebrew_letters_she": "ישנה",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to run",
+        "hebrew_spoken_general": "Larutz",
+        "hebrew_letters_general": "לרוץ",
+        "hebrew_spoken_he": "Ratz",
+        "hebrew_letters_he": "רץ",
+        "hebrew_spoken_she": "Ratzah",
+        "hebrew_letters_she": "רצה",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to walk",
+        "hebrew_spoken_general": "Lalechet",
+        "hebrew_letters_general": "ללכת",
+        "hebrew_spoken_he": "Holech",
+        "hebrew_letters_he": "הולך",
+        "hebrew_spoken_she": "Holechet",
+        "hebrew_letters_she": "הולכת",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to write",
+        "hebrew_spoken_general": "Lichtov",
+        "hebrew_letters_general": "לכתוב",
+        "hebrew_spoken_he": "Kotev",
+        "hebrew_letters_he": "כותב",
+        "hebrew_spoken_she": "Kotevet",
+        "hebrew_letters_she": "כותבת",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to read",
+        "hebrew_spoken_general": "Likro",
+        "hebrew_letters_general": "לקרוא",
+        "hebrew_spoken_he": "Kore",
+        "hebrew_letters_he": "קורא",
+        "hebrew_spoken_she": "Koret",
+        "hebrew_letters_she": "קוראת",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to speak",
+        "hebrew_spoken_general": "Ledaber",
+        "hebrew_letters_general": "לדבר",
+        "hebrew_spoken_he": "Medaber",
+        "hebrew_letters_he": "מדבר",
+        "hebrew_spoken_she": "Medaberet",
+        "hebrew_letters_she": "מדברת",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to listen",
+        "hebrew_spoken_general": "Lehakshiv",
+        "hebrew_letters_general": "להקשיב",
+        "hebrew_spoken_he": "Makshiv",
+        "hebrew_letters_he": "מקשיב",
+        "hebrew_spoken_she": "Makshivah",
+        "hebrew_letters_she": "מקשיבה",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to see",
+        "hebrew_spoken_general": "Lirot",
+        "hebrew_letters_general": "לראות",
+        "hebrew_spoken_he": "Roe",
+        "hebrew_letters_he": "רואה",
+        "hebrew_spoken_she": "Ro'ah",
+        "hebrew_letters_she": "רואה",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to hear",
+        "hebrew_spoken_general": "Lishmoa",
+        "hebrew_letters_general": "לשמוע",
+        "hebrew_spoken_he": "Shomea",
+        "hebrew_letters_he": "שומע",
+        "hebrew_spoken_she": "Shoma'at",
+        "hebrew_letters_she": "שומעת",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to work",
+        "hebrew_spoken_general": "La'avod",
+        "hebrew_letters_general": "לעבוד",
+        "hebrew_spoken_he": "Oved",
+        "hebrew_letters_he": "עובד",
+        "hebrew_spoken_she": "Ovedet",
+        "hebrew_letters_she": "עובדת",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to learn",
+        "hebrew_spoken_general": "Lilmod",
+        "hebrew_letters_general": "ללמוד",
+        "hebrew_spoken_he": "Lomed",
+        "hebrew_letters_he": "לומד",
+        "hebrew_spoken_she": "Lomedet",
+        "hebrew_letters_she": "לומדת",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to teach",
+        "hebrew_spoken_general": "Lelamed",
+        "hebrew_letters_general": "ללמד",
+        "hebrew_spoken_he": "Melamed",
+        "hebrew_letters_he": "מלמד",
+        "hebrew_spoken_she": "Melamedet",
+        "hebrew_letters_she": "מלמדת",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to buy",
+        "hebrew_spoken_general": "Liknot",
+        "hebrew_letters_general": "לקנות",
+        "hebrew_spoken_he": "Kone",
+        "hebrew_letters_he": "קונה",
+        "hebrew_spoken_she": "Konah",
+        "hebrew_letters_she": "קונה",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to sell",
+        "hebrew_spoken_general": "Limkor",
+        "hebrew_letters_general": "למכור",
+        "hebrew_spoken_he": "Mocher",
+        "hebrew_letters_he": "מוכר",
+        "hebrew_spoken_she": "Mocheret",
+        "hebrew_letters_she": "מוכרת",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to love",
+        "hebrew_spoken_general": "Le'ehov",
+        "hebrew_letters_general": "לאהוב",
+        "hebrew_spoken_he": "Ohev",
+        "hebrew_letters_he": "אוהב",
+        "hebrew_spoken_she": "Ohevet",
+        "hebrew_letters_she": "אוהבת",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to hate",
+        "hebrew_spoken_general": "Lisno",
+        "hebrew_letters_general": "לשנוא",
+        "hebrew_spoken_he": "Sone",
+        "hebrew_letters_he": "שונא",
+        "hebrew_spoken_she": "Sonet",
+        "hebrew_letters_she": "שונאת",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to open",
+        "hebrew_spoken_general": "Liftoach",
+        "hebrew_letters_general": "לפתוח",
+        "hebrew_spoken_he": "Poteach",
+        "hebrew_letters_he": "פותח",
+        "hebrew_spoken_she": "Poteachat",
+        "hebrew_letters_she": "פותחת",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to close",
+        "hebrew_spoken_general": "Lisgor",
+        "hebrew_letters_general": "לסגור",
+        "hebrew_spoken_he": "Soger",
+        "hebrew_letters_he": "סוגר",
+        "hebrew_spoken_she": "Sogeret",
+        "hebrew_letters_she": "סוגרת",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to come",
+        "hebrew_spoken_general": "Lavo",
+        "hebrew_letters_general": "לבוא",
+        "hebrew_spoken_he": "Ba",
+        "hebrew_letters_he": "בא",
+        "hebrew_spoken_she": "Ba'ah",
+        "hebrew_letters_she": "באה",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to return",
+        "hebrew_spoken_general": "Lachzor",
+        "hebrew_letters_general": "לחזור",
+        "hebrew_spoken_he": "Chozer",
+        "hebrew_letters_he": "חוזר",
+        "hebrew_spoken_she": "Chozeret",
+        "hebrew_letters_she": "חוזרת",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to jump",
+        "hebrew_spoken_general": "Likfotz",
+        "hebrew_letters_general": "לקפוץ",
+        "hebrew_spoken_he": "Kofetz",
+        "hebrew_letters_he": "קופץ",
+        "hebrew_spoken_she": "Kofetzet",
+        "hebrew_letters_she": "קופצת",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to dance",
+        "hebrew_spoken_general": "Lirkod",
+        "hebrew_letters_general": "לרקוד",
+        "hebrew_spoken_he": "Roked",
+        "hebrew_letters_he": "רוקד",
+        "hebrew_spoken_she": "Rokedet",
+        "hebrew_letters_she": "רוקדת",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to fly",
+        "hebrew_spoken_general": "La'uf",
+        "hebrew_letters_general": "לעוף",
+        "hebrew_spoken_he": "Af",
+        "hebrew_letters_he": "עף",
+        "hebrew_spoken_she": "Afah",
+        "hebrew_letters_she": "עפה",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to swim",
+        "hebrew_spoken_general": "Lischot",
+        "hebrew_letters_general": "לשחות",
+        "hebrew_spoken_he": "Soche",
+        "hebrew_letters_he": "שוחה",
+        "hebrew_spoken_she": "Sochah",
+        "hebrew_letters_she": "שוחה",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to climb",
+        "hebrew_spoken_general": "Letapes",
+        "hebrew_letters_general": "לטפס",
+        "hebrew_spoken_he": "Metapes",
+        "hebrew_letters_he": "מטפס",
+        "hebrew_spoken_she": "Metapeset",
+        "hebrew_letters_she": "מטפסת",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to fall",
+        "hebrew_spoken_general": "Lipol",
+        "hebrew_letters_general": "ליפול",
+        "hebrew_spoken_he": "Nofel",
+        "hebrew_letters_he": "נופל",
+        "hebrew_spoken_she": "Nofelet",
+        "hebrew_letters_she": "נופלת",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to sit",
+        "hebrew_spoken_general": "Lashevet",
+        "hebrew_letters_general": "לשבת",
+        "hebrew_spoken_he": "Yoshev",
+        "hebrew_letters_he": "יושב",
+        "hebrew_spoken_she": "Yoshevet",
+        "hebrew_letters_she": "יושבת",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to stand",
+        "hebrew_spoken_general": "La'amod",
+        "hebrew_letters_general": "לעמוד",
+        "hebrew_spoken_he": "Omed",
+        "hebrew_letters_he": "עומד",
+        "hebrew_spoken_she": "Omedet",
+        "hebrew_letters_she": "עומדת",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to turn",
+        "hebrew_spoken_general": "Lifnot",
+        "hebrew_letters_general": "לפנות",
+        "hebrew_spoken_he": "Poneh",
+        "hebrew_letters_he": "פונה",
+        "hebrew_spoken_she": "Ponah",
+        "hebrew_letters_she": "פונה",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to stop",
+        "hebrew_spoken_general": "La'atzor",
+        "hebrew_letters_general": "לעצור",
+        "hebrew_spoken_he": "Otzer",
+        "hebrew_letters_he": "עוצר",
+        "hebrew_spoken_she": "Otzeret",
+        "hebrew_letters_she": "עוצרת",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to start",
+        "hebrew_spoken_general": "Latchil",
+        "hebrew_letters_general": "להתחיל",
+        "hebrew_spoken_he": "Matchil",
+        "hebrew_letters_he": "מתחיל",
+        "hebrew_spoken_she": "Matchilah",
+        "hebrew_letters_she": "מתחילה",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to continue",
+        "hebrew_spoken_general": "Lehamshich",
+        "hebrew_letters_general": "להמשיך",
+        "hebrew_spoken_he": "Mamshich",
+        "hebrew_letters_he": "ממשיך",
+        "hebrew_spoken_she": "Mamshichah",
+        "hebrew_letters_she": "ממשיכה",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to arrive",
+        "hebrew_spoken_general": "Lehagi'a",
+        "hebrew_letters_general": "להגיע",
+        "hebrew_spoken_he": "Magi'a",
+        "hebrew_letters_he": "מגיע",
+        "hebrew_spoken_she": "Magi'ah",
+        "hebrew_letters_she": "מגיעה",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to leave",
+        "hebrew_spoken_general": "Latzet",
+        "hebrew_letters_general": "לצאת",
+        "hebrew_spoken_he": "Yotze",
+        "hebrew_letters_he": "יוצא",
+        "hebrew_spoken_she": "Yotzet",
+        "hebrew_letters_she": "יוצאת",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to enter",
+        "hebrew_spoken_general": "Lehikanes",
+        "hebrew_letters_general": "להיכנס",
+        "hebrew_spoken_he": "Nichnas",
+        "hebrew_letters_he": "נכנס",
+        "hebrew_spoken_she": "Nichneset",
+        "hebrew_letters_she": "נכנסת",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to pass",
+        "hebrew_spoken_general": "La'avor",
+        "hebrew_letters_general": "לעבור",
+        "hebrew_spoken_he": "Over",
+        "hebrew_letters_he": "עובר",
+        "hebrew_spoken_she": "Overet",
+        "hebrew_letters_she": "עוברת",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to lead",
+        "hebrew_spoken_general": "Lehovil",
+        "hebrew_letters_general": "להוביל",
+        "hebrew_spoken_he": "Movil",
+        "hebrew_letters_he": "מוביל",
+        "hebrew_spoken_she": "Movilah",
+        "hebrew_letters_she": "מובילה",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to follow",
+        "hebrew_spoken_general": "La'akouv",
+        "hebrew_letters_general": "לעקוב",
+        "hebrew_spoken_he": "Okev",
+        "hebrew_letters_he": "עוקב",
+        "hebrew_spoken_she": "Okevet",
+        "hebrew_letters_she": "עוקבת",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to ask",
+        "hebrew_spoken_general": "Lish'ol",
+        "hebrew_letters_general": "לשאול",
+        "hebrew_spoken_he": "Shoel",
+        "hebrew_letters_he": "שואל",
+        "hebrew_spoken_she": "Sho'elet",
+        "hebrew_letters_she": "שואלת",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to answer",
+        "hebrew_spoken_general": "La'anot",
+        "hebrew_letters_general": "לענות",
+        "hebrew_spoken_he": "Oneh",
+        "hebrew_letters_he": "עונה",
+        "hebrew_spoken_she": "Onah",
+        "hebrew_letters_she": "עונה",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to tell",
+        "hebrew_spoken_general": "Lesaper",
+        "hebrew_letters_general": "לספר",
+        "hebrew_spoken_he": "Mesaper",
+        "hebrew_letters_he": "מספר",
+        "hebrew_spoken_she": "Mesaperet",
+        "hebrew_letters_she": "מספרת",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to explain",
+        "hebrew_spoken_general": "Lehasbir",
+        "hebrew_letters_general": "להסביר",
+        "hebrew_spoken_he": "Masbir",
+        "hebrew_letters_he": "מסביר",
+        "hebrew_spoken_she": "Masbirah",
+        "hebrew_letters_she": "מסבירה",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to think",
+        "hebrew_spoken_general": "Lachshov",
+        "hebrew_letters_general": "לחשוב",
+        "hebrew_spoken_he": "Choshev",
+        "hebrew_letters_he": "חושב",
+        "hebrew_spoken_she": "Choshevet",
+        "hebrew_letters_she": "חושבת",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to understand",
+        "hebrew_spoken_general": "Lehavin",
+        "hebrew_letters_general": "להבין",
+        "hebrew_spoken_he": "Mevin",
+        "hebrew_letters_he": "מבין",
+        "hebrew_spoken_she": "Mevinah",
+        "hebrew_letters_she": "מבינה",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to remember",
+        "hebrew_spoken_general": "Lizkor",
+        "hebrew_letters_general": "לזכור",
+        "hebrew_spoken_he": "Zocher",
+        "hebrew_letters_he": "זוכר",
+        "hebrew_spoken_she": "Zocheret",
+        "hebrew_letters_she": "זוכרת",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to forget",
+        "hebrew_spoken_general": "Lishkoach",
+        "hebrew_letters_general": "לשכוח",
+        "hebrew_spoken_he": "Shocheach",
+        "hebrew_letters_he": "שוכח",
+        "hebrew_spoken_she": "Shochachat",
+        "hebrew_letters_she": "שוכחת",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to know",
+        "hebrew_spoken_general": "Lada'at",
+        "hebrew_letters_general": "לדעת",
+        "hebrew_spoken_he": "Yode'a",
+        "hebrew_letters_he": "יודע",
+        "hebrew_spoken_she": "Yoda'at",
+        "hebrew_letters_she": "יודעת",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to believe",
+        "hebrew_spoken_general": "Leha'amin",
+        "hebrew_letters_general": "להאמין",
+        "hebrew_spoken_he": "Ma'amin",
+        "hebrew_letters_he": "מאמין",
+        "hebrew_spoken_she": "Ma'aminah",
+        "hebrew_letters_she": "מאמינה",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to agree",
+        "hebrew_spoken_general": "Lehaskim",
+        "hebrew_letters_general": "להסכים",
+        "hebrew_spoken_he": "Maskim",
+        "hebrew_letters_he": "מסכים",
+        "hebrew_spoken_she": "Maskimah",
+        "hebrew_letters_she": "מסכימה",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to argue",
+        "hebrew_spoken_general": "Lehitvake'ach",
+        "hebrew_letters_general": "להתווכח",
+        "hebrew_spoken_he": "Mitvake'ach",
+        "hebrew_letters_he": "מתווכח",
+        "hebrew_spoken_she": "Mitvaka'chat",
+        "hebrew_letters_she": "מתווכחת",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to lie",
+        "hebrew_spoken_general": "Leshaker",
+        "hebrew_letters_general": "לשקר",
+        "hebrew_spoken_he": "Meshaker",
+        "hebrew_letters_he": "משקר",
+        "hebrew_spoken_she": "Meshakeret",
+        "hebrew_letters_she": "משקרת",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to promise",
+        "hebrew_spoken_general": "Lehavti'ach",
+        "hebrew_letters_general": "להבטיח",
+        "hebrew_spoken_he": "Mavti'ach",
+        "hebrew_letters_he": "מבטיח",
+        "hebrew_spoken_she": "Mavti'cha",
+        "hebrew_letters_she": "מבטיחה",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to pray",
+        "hebrew_spoken_general": "Lehitpalel",
+        "hebrew_letters_general": "להתפלל",
+        "hebrew_spoken_he": "Mitpalel",
+        "hebrew_letters_he": "מתפלל",
+        "hebrew_spoken_she": "Mitpalelet",
+        "hebrew_letters_she": "מתפללת",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to sing",
+        "hebrew_spoken_general": "Lashir",
+        "hebrew_letters_general": "לשיר",
+        "hebrew_spoken_he": "Shar",
+        "hebrew_letters_he": "שר",
+        "hebrew_spoken_she": "Sharah",
+        "hebrew_letters_she": "שרה",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to shout",
+        "hebrew_spoken_general": "Litz'ok",
+        "hebrew_letters_general": "לצעוק",
+        "hebrew_spoken_he": "Tzo'ek",
+        "hebrew_letters_he": "צועק",
+        "hebrew_spoken_she": "Tzo'eket",
+        "hebrew_letters_she": "צועקת",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to whisper",
+        "hebrew_spoken_general": "Lilchosh",
+        "hebrew_letters_general": "ללחוש",
+        "hebrew_spoken_he": "Lochesh",
+        "hebrew_letters_he": "לוחש",
+        "hebrew_spoken_she": "Locheshet",
+        "hebrew_letters_she": "לוחשת",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to laugh",
+        "hebrew_spoken_general": "Litzchok",
+        "hebrew_letters_general": "לצחוק",
+        "hebrew_spoken_he": "Tzochek",
+        "hebrew_letters_he": "צוחק",
+        "hebrew_spoken_she": "Tzocheket",
+        "hebrew_letters_she": "צוחקת",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to cry",
+        "hebrew_spoken_general": "Livkot",
+        "hebrew_letters_general": "לבכות",
+        "hebrew_spoken_he": "Bocheh",
+        "hebrew_letters_he": "בוכה",
+        "hebrew_spoken_she": "Bochah",
+        "hebrew_letters_she": "בוכה",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to cook",
+        "hebrew_spoken_general": "Levashel",
+        "hebrew_letters_general": "לבשל",
+        "hebrew_spoken_he": "Mevashel",
+        "hebrew_letters_he": "מבשל",
+        "hebrew_spoken_she": "Mevashelet",
+        "hebrew_letters_she": "מבשלת",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to clean",
+        "hebrew_spoken_general": "Lenakot",
+        "hebrew_letters_general": "לנקות",
+        "hebrew_spoken_he": "Menake",
+        "hebrew_letters_he": "מנקה",
+        "hebrew_spoken_she": "Menakah",
+        "hebrew_letters_she": "מנקה",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to wash",
+        "hebrew_spoken_general": "Lirchotz",
+        "hebrew_letters_general": "לרחוץ",
+        "hebrew_spoken_he": "Rochetz",
+        "hebrew_letters_he": "רוחץ",
+        "hebrew_spoken_she": "Rochetzet",
+        "hebrew_letters_she": "רוחצת",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to dress",
+        "hebrew_spoken_general": "Lehitlabesh",
+        "hebrew_letters_general": "להתלבש",
+        "hebrew_spoken_he": "Mitlabesh",
+        "hebrew_letters_he": "מתלבש",
+        "hebrew_spoken_she": "Mitlabeshet",
+        "hebrew_letters_she": "מתלבשת",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to shower",
+        "hebrew_spoken_general": "Lehitkale'ach",
+        "hebrew_letters_general": "להתקלח",
+        "hebrew_spoken_he": "Mitkale'ach",
+        "hebrew_letters_he": "מתקלח",
+        "hebrew_spoken_she": "Mitkalachat",
+        "hebrew_letters_she": "מתקלחת",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to brush",
+        "hebrew_spoken_general": "Levaresh",
+        "hebrew_letters_general": "לברש",
+        "hebrew_spoken_he": "Mevaresh",
+        "hebrew_letters_he": "מברש",
+        "hebrew_spoken_she": "Mevareshet",
+        "hebrew_letters_she": "מברשת",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to use",
+        "hebrew_spoken_general": "Lehishtamesh",
+        "hebrew_letters_general": "להשתמש",
+        "hebrew_spoken_he": "Mishtamesh",
+        "hebrew_letters_he": "משתמש",
+        "hebrew_spoken_she": "Mishtameshet",
+        "hebrew_letters_she": "משתמשת",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to fix",
+        "hebrew_spoken_general": "Letaken",
+        "hebrew_letters_general": "לתקן",
+        "hebrew_spoken_he": "Metaken",
+        "hebrew_letters_he": "מתקן",
+        "hebrew_spoken_she": "Metakenet",
+        "hebrew_letters_she": "מתקנת",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to break",
+        "hebrew_spoken_general": "Lishbor",
+        "hebrew_letters_general": "לשבור",
+        "hebrew_spoken_he": "Shover",
+        "hebrew_letters_he": "שובר",
+        "hebrew_spoken_she": "Shoveret",
+        "hebrew_letters_she": "שוברת",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to build",
+        "hebrew_spoken_general": "Livnot",
+        "hebrew_letters_general": "לבנות",
+        "hebrew_spoken_he": "Boneh",
+        "hebrew_letters_he": "בונה",
+        "hebrew_spoken_she": "Bonah",
+        "hebrew_letters_she": "בונה",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to paint",
+        "hebrew_spoken_general": "Litzbo'a",
+        "hebrew_letters_general": "לצבוע",
+        "hebrew_spoken_he": "Tzove'a",
+        "hebrew_letters_he": "צובע",
+        "hebrew_spoken_she": "Tzova'at",
+        "hebrew_letters_she": "צובעת",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to draw",
+        "hebrew_spoken_general": "Letzayer",
+        "hebrew_letters_general": "לצייר",
+        "hebrew_spoken_he": "Metzayer",
+        "hebrew_letters_he": "מצייר",
+        "hebrew_spoken_she": "Metzayeret",
+        "hebrew_letters_she": "מציירת",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to wait",
+        "hebrew_spoken_general": "Lechakot",
+        "hebrew_letters_general": "לחכות",
+        "hebrew_spoken_he": "Mechakeh",
+        "hebrew_letters_he": "מחכה",
+        "hebrew_spoken_she": "Mechakah",
+        "hebrew_letters_she": "מחכה",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to search",
+        "hebrew_spoken_general": "Lechapes",
+        "hebrew_letters_general": "לחפש",
+        "hebrew_spoken_he": "Mechapes",
+        "hebrew_letters_he": "מחפש",
+        "hebrew_spoken_she": "Mechapeset",
+        "hebrew_letters_she": "מחפשת",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to find",
+        "hebrew_spoken_general": "Limtzo",
+        "hebrew_letters_general": "למצוא",
+        "hebrew_spoken_he": "Motze",
+        "hebrew_letters_he": "מוצא",
+        "hebrew_spoken_she": "Motzet",
+        "hebrew_letters_she": "מוצאת",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to lose",
+        "hebrew_spoken_general": "Le'abed",
+        "hebrew_letters_general": "לאבד",
+        "hebrew_spoken_he": "Me'abed",
+        "hebrew_letters_he": "מאבד",
+        "hebrew_spoken_she": "Me'abedet",
+        "hebrew_letters_she": "מאבדת",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to win",
+        "hebrew_spoken_general": "Lenatze'ach",
+        "hebrew_letters_general": "לנצח",
+        "hebrew_spoken_he": "Menatze'ach",
+        "hebrew_letters_he": "מנצח",
+        "hebrew_spoken_she": "Menatzachat",
+        "hebrew_letters_she": "מנצחת",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to try",
+        "hebrew_spoken_general": "Lenasot",
+        "hebrew_letters_general": "לנסות",
+        "hebrew_spoken_he": "Menase",
+        "hebrew_letters_he": "מנסה",
+        "hebrew_spoken_she": "Menasah",
+        "hebrew_letters_she": "מנסה",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to succeed",
+        "hebrew_spoken_general": "Lehatzli'ach",
+        "hebrew_letters_general": "להצליח",
+        "hebrew_spoken_he": "Matzli'ach",
+        "hebrew_letters_he": "מצליח",
+        "hebrew_spoken_she": "Matzli'cha",
+        "hebrew_letters_she": "מצליחה",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to fail",
+        "hebrew_spoken_general": "Lehikashel",
+        "hebrew_letters_general": "להיכשל",
+        "hebrew_spoken_he": "Nichshal",
+        "hebrew_letters_he": "נכשל",
+        "hebrew_spoken_she": "Nichshelet",
+        "hebrew_letters_she": "נכשלת",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to smile",
+        "hebrew_spoken_general": "Lechayech",
+        "hebrew_letters_general": "לחייך",
+        "hebrew_spoken_he": "Mechayech",
+        "hebrew_letters_he": "מחייך",
+        "hebrew_spoken_she": "Mechayechet",
+        "hebrew_letters_she": "מחייכת",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "to worry",
+        "hebrew_spoken_general": "Lid'og",
+        "hebrew_letters_general": "לדאוג",
+        "hebrew_spoken_he": "Do'eg",
+        "hebrew_letters_he": "דואג",
+        "hebrew_spoken_she": "Do'eget",
+        "hebrew_letters_she": "דואגת",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "to fear",
+        "hebrew_spoken_general": "Lefached",
+        "hebrew_letters_general": "לפחד",
+        "hebrew_spoken_he": "Mefached",
+        "hebrew_letters_he": "מפחד",
+        "hebrew_spoken_she": "Mefachedet",
+        "hebrew_letters_she": "מפחדת",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "to enjoy",
+        "hebrew_spoken_general": "Lehenot",
+        "hebrew_letters_general": "להנות",
+        "hebrew_spoken_he": "Nehene",
+        "hebrew_letters_he": "נהנה",
+        "hebrew_spoken_she": "Nehenet",
+        "hebrew_letters_she": "נהנת",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "to be angry",
+        "hebrew_spoken_general": "Lich'os",
+        "hebrew_letters_general": "לכעוס",
+        "hebrew_spoken_he": "Ko'es",
+        "hebrew_letters_he": "כועס",
+        "hebrew_spoken_she": "Ko'eset",
+        "hebrew_letters_she": "כועסת",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "to be happy",
+        "hebrew_spoken_general": "Lismo'ach",
+        "hebrew_letters_general": "לשמוח",
+        "hebrew_spoken_he": "Same'ach",
+        "hebrew_letters_he": "שמח",
+        "hebrew_spoken_she": "Smecha",
+        "hebrew_letters_she": "שמחה",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "to be sad",
+        "hebrew_spoken_general": "Le'atzev",
+        "hebrew_letters_general": "להתעצב",
+        "hebrew_spoken_he": "Atzuv",
+        "hebrew_letters_he": "עצוב",
+        "hebrew_spoken_she": "Atzuvah",
+        "hebrew_letters_she": "עצובה",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "to help",
+        "hebrew_spoken_general": "La'azor",
+        "hebrew_letters_general": "לעזור",
+        "hebrew_spoken_he": "Ozer",
+        "hebrew_letters_he": "עוזר",
+        "hebrew_spoken_she": "Ozeret",
+        "hebrew_letters_she": "עוזרת",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "to meet",
+        "hebrew_spoken_general": "Lehipagesh",
+        "hebrew_letters_general": "להיפגש",
+        "hebrew_spoken_he": "Nifgash",
+        "hebrew_letters_he": "נפגש",
+        "hebrew_spoken_she": "Nifgeshet",
+        "hebrew_letters_she": "נפגשת",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "to invite",
+        "hebrew_spoken_general": "Lehazmin",
+        "hebrew_letters_general": "להזמין",
+        "hebrew_spoken_he": "Mazmin",
+        "hebrew_letters_he": "מזמין",
+        "hebrew_spoken_she": "Mazminah",
+        "hebrew_letters_she": "מזמינה",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "to visit",
+        "hebrew_spoken_general": "Levaker",
+        "hebrew_letters_general": "לבקר",
+        "hebrew_spoken_he": "Mevaker",
+        "hebrew_letters_he": "מבקר",
+        "hebrew_spoken_she": "Mevakeret",
+        "hebrew_letters_she": "מבקרת",
+        "lesson": "Lesson 5"
+    }
+]

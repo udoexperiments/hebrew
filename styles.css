@@ -1,0 +1,363 @@
+/* styles.css */
+:root {
+  --color-primary: #816450;
+  --color-secondary: #d9dcbb;
+  --color-tertiary: #e1ded9;
+  --color-quaternary: #b6a69a;
+  --color-quinary: #d3a6b9;
+  --background-color: #e2c4c4;
+  --section-height: 300px;
+  --color-orange: #c16e70;
+  --color-green: #c8d6af;
+  --spacing-standard: 16px;
+  /* --color-green: #f0fff9; */
+  --english-card-color: #d3d4d3;
+  --hebrew-card-color: #f0fff9;
+}
+
+body {
+  font-family: "SF Pro Display", -apple-system, BlinkMacSystemFont, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: var(--background-color);
+  color: #333;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  transition: background-color 0.3s ease;
+}
+
+.app-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: var(--spacing-standard);
+  width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  gap: var(--spacing-standard);
+}
+
+header {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-standard);
+}
+
+.control-group {
+  display: flex;
+  gap: var(--spacing-standard);
+  justify-content: center;
+  align-items: stretch;
+  margin: 0;
+}
+
+.direction-button,
+.action-button,
+.feedback-button,
+.lesson-button {
+  background: var(--color-quaternary);
+  color: black;
+  border: none;
+  border-radius: 12px;
+  padding: var(--spacing-standard);
+  font-size: 16px;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  flex: 1;
+  min-width: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.glass-select {
+  background: var(--color-tertiary);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
+  padding: 10px var(--spacing-standard);
+  font-size: 12px;
+  color: #333;
+  cursor: pointer;
+}
+
+.feedback-container {
+  display: flex;
+  justify-content: space-between;
+  gap: var(--spacing-standard);
+  width: 100%;
+}
+
+.feedback-button.correct {
+  background: var(--color-green);
+}
+
+.feedback-button.mistake {
+  background: var(--color-orange);
+}
+
+.card-container {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-standard);
+  flex: 1;
+  padding: 0;
+}
+
+.language-card {
+  background: white;
+  border-radius: 16px;
+  padding: var(--spacing-standard);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+#english-section,
+#hebrew-section {
+  height: var(--section-height);
+  min-height: var(--section-height);
+  max-height: var(--section-height);
+  position: relative;
+  overflow: hidden;
+  transition: background-color 0.3s ease;
+}
+
+#english-section {
+  background-color: var(--english-card-color, #d3d4d3); /* Use variable with fallback */
+}
+
+#hebrew-section {
+  background-color: var(--hebrew-card-color, #f0fff9); /* Use variable with fallback */
+}
+
+.content-area {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  line-height: 1.5;
+  padding: var(--spacing-standard);
+  overflow-y: auto;
+  color: #333; /* Ensure text is dark regardless of theme */
+}
+
+.hebrew-text {
+  width: 100%;
+  line-height: 1.5;
+}
+
+.form-group {
+  margin-bottom: var(--spacing-standard);
+  padding: calc(var(--spacing-standard) / 2);
+}
+
+.label {
+  font-weight: 600;
+  color: var(--color-primary);
+  margin-right: var(--spacing-standard);
+}
+
+.spoken,
+.letters {
+  margin-right: var(--spacing-standard);
+  line-height: 1.5;
+}
+
+footer {
+  display: flex;
+  flex-direction: column;
+  gap: calc(var(--spacing-standard) / 2);
+  align-items: center;
+}
+
+#progress-display {
+  text-align: center;
+  margin-top: calc(var(--spacing-standard) / 2);
+  color: #333;
+}
+
+.control-group:not(:first-child),
+main,
+footer {
+  opacity: 1;
+  visibility: visible;
+  transition: opacity 300ms ease, visibility 300ms ease;
+}
+
+.hidden {
+  opacity: 0 !important;
+  visibility: hidden !important;
+  height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow: hidden !important;
+}
+
+.menu-grid {
+  display: none;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--spacing-standard);
+  padding: var(--spacing-standard);
+  max-width: 400px; /* Set a consistent max-width */
+  margin: var(--spacing-standard) auto;
+}
+
+.menu-grid.visible {
+  display: grid;
+}
+
+.menu-control-container {
+  display: flex;
+  flex-direction: column;
+  background: var(--color-quaternary);
+  border-radius: 12px;
+  padding: var(--spacing-standard);
+  margin-bottom: var(--spacing-standard);
+  width: 100%;
+  box-sizing: border-box;
+  max-width: 400px; /* Match the menu-grid max-width */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.menu-label {
+  font-weight: bold;
+  margin-bottom: calc(var(--spacing-standard) / 2);
+  color: #333;
+}
+
+.menu-select {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.lesson-buttons-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: calc(var(--spacing-standard) / 2);
+  width: 100%;
+}
+
+.menu-item {
+  background: var(--color-quaternary);
+  color: black;
+  border: none;
+  border-radius: 12px;
+  padding: calc(var(--spacing-standard) / 2);
+  font-size: 14px;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.active-lesson {
+  background-color: var(--color-primary) !important;
+  color: white !important;
+  font-weight: bold;
+}
+
+@media (min-width: 768px) {
+  .card-container {
+    flex-direction: row;
+  }
+
+  .language-card {
+    width: 50%;
+  }
+}
+
+@media (max-width: 767px) {
+  .menu-grid,
+  .menu-control-container,
+  .lesson-container {
+    max-width: 100%;
+    padding: calc(var(--spacing-standard) / 2);
+  }
+
+  .lesson-buttons-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .menu-item {
+    font-size: 12px;
+    padding: calc(var(--spacing-standard) / 2);
+  }
+  :root {
+    --spacing-standard: 12px;
+    --section-height: 180px;
+  }
+
+  .control-group {
+    flex-direction: column;
+  }
+
+  .glass-select,
+  .direction-button,
+  .action-button {
+    width: 100%;
+  }
+
+  .app-container {
+    padding: var(--spacing-standard);
+  }
+
+  .card-container {
+    gap: var(--spacing-standard);
+  }
+
+  .language-card {
+    padding: var(--spacing-standard);
+  }
+
+  .menu-grid {
+    padding: var(--spacing-standard);
+    gap: calc(var(--spacing-standard) / 2);
+  }
+
+  .menu-item {
+    font-size: 12px;
+    padding: calc(var(--spacing-standard) / 2);
+    min-width: auto;
+  }
+}
+
+.thompson-theme {
+  color: #f5f5f5;
+}
+
+/* Add styles for better text contrast with the Thompson theme */
+.thompson-theme .menu-label,
+.thompson-theme #progress-display {
+  color: #f5f5f5;
+}
+
+.thompson-theme .menu-item,
+.thompson-theme .direction-button,
+.thompson-theme .action-button {
+  color: #333; /* Keep button text dark for readability */
+}
+
+.thompson-theme #english-section {
+  background-color: #f2e8dc !important;
+}
+
+.thompson-theme #hebrew-section {
+  background-color: #e8f4d9 !important;
+}
+
