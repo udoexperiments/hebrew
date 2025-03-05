@@ -51,7 +51,7 @@
         "english": "chair [male]",
         "hebrew_spoken_singular": "kise",
         "hebrew_letters_singular": "כיסא",
-        "hebrew_spoken_plural": "kisot",
+        "hebrew_spoken_plural": "kisaot",
         "hebrew_letters_plural": "כיסאות",
         "lesson": "Lesson 1"
     },
@@ -435,7 +435,7 @@
         "english": "sea [male]",
         "hebrew_spoken_singular": "yam",
         "hebrew_letters_singular": "ים",
-        "hebrew_spoken_plural": "yamim",
+        "hebrew_spoken_plural": "no plural",
         "hebrew_letters_plural": "ימים",
         "lesson": "Lesson 3"
     },
@@ -531,7 +531,7 @@
         "english": "soup [male]",
         "hebrew_spoken_singular": "marak",
         "hebrew_letters_singular": "מרק",
-        "hebrew_spoken_plural": "merakim",
+        "hebrew_spoken_plural": "marakim",
         "hebrew_letters_plural": "מרקים",
         "lesson": "Lesson 4"
     },
@@ -659,7 +659,7 @@
         "english": "father [male]",
         "hebrew_spoken_singular": "aba",
         "hebrew_letters_singular": "אבא",
-        "hebrew_spoken_plural": "abot",
+        "hebrew_spoken_plural": "avot",
         "hebrew_letters_plural": "אבות",
         "lesson": "Lesson 5"
     },
@@ -715,8 +715,8 @@
         "english": "cousin [male]",
         "hebrew_spoken_singular": "ben dod",
         "hebrew_letters_singular": "בן דוד",
-        "hebrew_spoken_plural": "bnei dod",
-        "hebrew_letters_plural": "בני דוד",
+        "hebrew_spoken_plural": "bnei dodim",
+        "hebrew_letters_plural": "בני דודים",
         "lesson": "Lesson 5"
     },
     {

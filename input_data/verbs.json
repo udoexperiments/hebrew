@@ -25,7 +25,7 @@
         "hebrew_letters_general": "לישון",
         "hebrew_spoken_he": "Yashen",
         "hebrew_letters_he": "ישן",
-        "hebrew_spoken_she": "Yashenah",
+        "hebrew_spoken_she": "Yeshenah",
         "hebrew_letters_she": "ישנה",
         "lesson": "Lesson 1"
     },
@@ -185,7 +185,7 @@
         "hebrew_letters_general": "לפתוח",
         "hebrew_spoken_he": "Poteach",
         "hebrew_letters_he": "פותח",
-        "hebrew_spoken_she": "Poteachat",
+        "hebrew_spoken_she": "Potachat",
         "hebrew_letters_she": "פותחת",
         "lesson": "Lesson 1"
     },
@@ -391,7 +391,7 @@
     },
     {
         "english": "to follow",
-        "hebrew_spoken_general": "La'akouv",
+        "hebrew_spoken_general": "La'akov",
         "hebrew_letters_general": "לעקוב",
         "hebrew_spoken_he": "Okev",
         "hebrew_letters_he": "עוקב",
@@ -651,12 +651,12 @@
     },
     {
         "english": "to brush",
-        "hebrew_spoken_general": "Levaresh",
-        "hebrew_letters_general": "לברש",
-        "hebrew_spoken_he": "Mevaresh",
-        "hebrew_letters_he": "מברש",
-        "hebrew_spoken_she": "Mevareshet",
-        "hebrew_letters_she": "מברשת",
+        "hebrew_spoken_general": "Lesarek",
+        "hebrew_letters_general": "לסרק",
+        "hebrew_spoken_he": "Mesarek",
+        "hebrew_letters_he": "מסרק",
+        "hebrew_spoken_she": "Mesareket",
+        "hebrew_letters_she": "מסרקת",
         "lesson": "Lesson 4"
     },
     {
@@ -861,7 +861,7 @@
     },
     {
         "english": "to be sad",
-        "hebrew_spoken_general": "Le'atzev",
+        "hebrew_spoken_general": "Lehitatzev",
         "hebrew_letters_general": "להתעצב",
         "hebrew_spoken_he": "Atzuv",
         "hebrew_letters_he": "עצוב",
