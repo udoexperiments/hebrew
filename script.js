@@ -1,4 +1,4 @@
-const FADE_DURATION = 300
+const FADE_DURATION = 100
 // Update audio paths to use the three specific files
 const AUDIO_PATHS = {
   correct: "resources/audio/correct.wav",
@@ -596,6 +596,7 @@ const handleMistake = () => {
   updateUI()
 }
 
+// Add this function to ensure card colors are updated when the UI is updated
 const updateUI = () => {
   if (state.filteredData.length === 0) return
 
@@ -607,6 +608,18 @@ const updateUI = () => {
 
   fadeOut(englishText)
   fadeOut(hebrewContent)
+
+  // Ensure card colors are correct for the current theme
+  const englishCard = document.getElementById("english-section")
+  const hebrewCard = document.getElementById("hebrew-section")
+
+  if (state.colorTheme === "thompson") {
+    if (englishCard) englishCard.style.backgroundColor = "#F2E8DC"
+    if (hebrewCard) hebrewCard.style.backgroundColor = "#E8F4D9"
+  } else {
+    if (englishCard) englishCard.style.backgroundColor = "#D3D4D3"
+    if (hebrewCard) hebrewCard.style.backgroundColor = "#F0FFF9"
+  }
 
   setTimeout(() => {
     if (state.isEnglishToHebrew) {
@@ -663,37 +676,67 @@ const updateColorTheme = (themeName) => {
     root.style.setProperty(`--color-${key}`, value)
   })
 
+  // Get direct references to the card elements
+  const englishCard = document.getElementById("english-section")
+  const hebrewCard = document.getElementById("hebrew-section")
+
   // Add special handling for card colors in Thompson theme
   if (themeName === "thompson") {
-    document.documentElement.style.setProperty("--english-card-color", "#F2E8DC") // Light beige for English card
-    document.documentElement.style.setProperty("--hebrew-card-color", "#E8F4D9") // Light green for Hebrew card
+    // Set CSS variables
+    root.style.setProperty("--english-card-color", "#F2E8DC") // Light beige for English card
+    root.style.setProperty("--hebrew-card-color", "#E8F4D9") // Light green for Hebrew card
+
+    // Apply styles directly to the elements
+    if (englishCard) {
+      englishCard.style.backgroundColor = "#F2E8DC"
+      englishCard.setAttribute("data-theme", "thompson")
+    }
+    if (hebrewCard) {
+      hebrewCard.style.backgroundColor = "#E8F4D9"
+      hebrewCard.setAttribute("data-theme", "thompson")
+    }
+
     document.body.classList.add("thompson-theme")
     // Directly set the background color of the body
     document.body.style.backgroundColor = theme.colors.background
-
-    // Directly set card colors
-    const englishCard = document.getElementById("english-section")
-    const hebrewCard = document.getElementById("hebrew-section")
-    if (englishCard) englishCard.style.backgroundColor = "#F2E8DC"
-    if (hebrewCard) hebrewCard.style.backgroundColor = "#E8F4D9"
   } else {
-    document.documentElement.style.setProperty("--english-card-color", "#D3D4D3") // Default light gray
-    document.documentElement.style.setProperty("--hebrew-card-color", "#F0FFF9") // Default light mint
+    // Set CSS variables back to default
+    root.style.setProperty("--english-card-color", "#D3D4D3") // Default light gray
+    root.style.setProperty("--hebrew-card-color", "#F0FFF9") // Default light mint
+
+    // Apply styles directly to the elements
+    if (englishCard) {
+      englishCard.style.backgroundColor = "#D3D4D3"
+      englishCard.removeAttribute("data-theme")
+    }
+    if (hebrewCard) {
+      hebrewCard.style.backgroundColor = "#F0FFF9"
+      hebrewCard.removeAttribute("data-theme")
+    }
+
     document.body.classList.remove("thompson-theme")
     // Reset to default background color
     document.body.style.backgroundColor = "#e2c4c4"
-
-    // Reset card colors
-    const englishCard = document.getElementById("english-section")
-    const hebrewCard = document.getElementById("hebrew-section")
-    if (englishCard) englishCard.style.backgroundColor = "#D3D4D3"
-    if (hebrewCard) hebrewCard.style.backgroundColor = "#F0FFF9"
   }
+
+  console.log(`Theme updated to ${themeName}. Card colors should be updated.`)
 }
 
 document.addEventListener("DOMContentLoaded", async () => {
   // Initialize color theme
   updateColorTheme(state.colorTheme)
+
+  // Force card colors to be set immediately
+  const englishCard = document.getElementById("english-section")
+  const hebrewCard = document.getElementById("hebrew-section")
+
+  if (state.colorTheme === "thompson") {
+    if (englishCard) englishCard.style.backgroundColor = "#F2E8DC"
+    if (hebrewCard) hebrewCard.style.backgroundColor = "#E8F4D9"
+  } else {
+    if (englishCard) englishCard.style.backgroundColor = "#D3D4D3"
+    if (hebrewCard) hebrewCard.style.backgroundColor = "#F0FFF9"
+  }
 
   // Initialize audio system
   await initializeAudioSystem()
@@ -797,7 +840,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     }
 
     /* Update media query for mobile */
-    @media (max-width: 767px) {
+    @media (max-width: 767px}) {
         .menu-control-container,
         .lesson-container,
         #menu-button {
