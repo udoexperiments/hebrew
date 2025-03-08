@@ -312,7 +312,7 @@ footer {
   }
   :root {
     --spacing-standard: 8px; /* Reduced from 12px to 8px for mobile */
-    --section-height: 140px; /* Reduced from 180px to 140px for mobile */
+    --section-height: 180px; /* Reduced from 180px to 140px for mobile */
   }
 
   .control-group {
@@ -524,9 +524,12 @@ footer {
   /* Make cards more compact */
   #english-section,
   #hebrew-section {
-    height: 130px;
+    /* height: 130px;
     min-height: 130px;
-    max-height: 130px;
+    max-height: 130px; */
+    height: var(--section-height);
+    min-height: var(--section-height);
+    max-height: var(--section-height);
   }
 
   /* Ensure the entire app fits in the viewport */
