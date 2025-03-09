@@ -1,152 +1,2102 @@
 [
     {
-        "english": "I meet my friends.",
-        "hebrew_spoken": "Ani pogesh et hachaverim sheli.",
-        "hebrew_letters": "אני פוגש את החברים שלי."
+        "english": "I love drinking coffee in the morning.",
+        "hebrew_spoken": "Ani ohev lishtot kafe baboker.",
+        "hebrew_letters": "אני אוהב לשתות קפה בבוקר.",
+        "lesson": "Lesson 1",
+        "tense": "Present Tense"
     },
     {
-        "english": "She studies Hebrew every day.",
-        "hebrew_spoken": "Hi lomedet ivrit kol yom.",
-        "hebrew_letters": "היא לומדת עברית כל יום."
+        "english": "She reads a book every night before bed.",
+        "hebrew_spoken": "Hi korat sefer kol laila lifnei hamita.",
+        "hebrew_letters": "היא קוראת ספר כל לילה לפני המיטה.",
+        "lesson": "Lesson 1",
+        "tense": "Present Tense"
     },
     {
-        "english": "They do their homework.",
-        "hebrew_spoken": "Hem osim et hashiurim shelhem.",
-        "hebrew_letters": "הם עושים את השיעורים שלהם."
+        "english": "We went to the beach last weekend.",
+        "hebrew_spoken": "Halachnu la yam basof hashavua sheavar.",
+        "hebrew_letters": "הלכנו לים בסוף השבוע שעבר.",
+        "lesson": "Lesson 1",
+        "tense": "Present Tense"
     },
     {
-        "english": "We buy fresh vegetables.",
-        "hebrew_spoken": "Anachnu konim yerakot triyot.",
-        "hebrew_letters": "אנחנו קונים ירקות טריות."
+        "english": "They are studying Hebrew together.",
+        "hebrew_spoken": "Hem lomdim ivrit beyachad.",
+        "hebrew_letters": "הם לומדים עברית ביחד.",
+        "lesson": "Lesson 1",
+        "tense": "Present Tense"
     },
     {
-        "english": "I think about my family.",
-        "hebrew_spoken": "Ani choshev al hamishpacha sheli.",
-        "hebrew_letters": "אני חושב על המשפחה שלי."
+        "english": "He likes to cook Italian food.",
+        "hebrew_spoken": "Hu ohev levashel ochel italki.",
+        "hebrew_letters": "הוא אוהב לבשל אוכל איטלקי.",
+        "lesson": "Lesson 1",
+        "tense": "Present Tense"
     },
     {
-        "english": "He sleeps in his room.",
-        "hebrew_spoken": "Hu yashen bacheder shelo.",
-        "hebrew_letters": "הוא ישן בחדר שלו."
+        "english": "The sun is shining brightly today.",
+        "hebrew_spoken": "Hashemesh zorachat beyom hazeh.",
+        "hebrew_letters": "השמש זורחת ביום הזה.",
+        "lesson": "Lesson 1",
+        "tense": "Present Tense"
     },
     {
-        "english": "You go to school every morning.",
-        "hebrew_spoken": "Ata holech labeit sefer kol boker.",
-        "hebrew_letters": "אתה הולך לבית ספר כל בוקר."
+        "english": "In summer I like to swim in the river.",
+        "hebrew_spoken": "Bekayitz ani ohev lishtot bamaim.",
+        "hebrew_letters": "בקיץ אני אוהב לשחות בנהר.",
+        "lesson": "Lesson 1",
+        "tense": "Present Tense"
     },
     {
-        "english": "She eats an apple.",
-        "hebrew_spoken": "Hi ochelet tapuach.",
-        "hebrew_letters": "היא אוכלת תפוח."
+        "english": "She is listening to music while working.",
+        "hebrew_spoken": "Hi shoma'at musika bema she'hi ovedet.",
+        "hebrew_letters": "היא שומעת מוזיקה בזמן שהיא עובדת.",
+        "lesson": "Lesson 1",
+        "tense": "Present Tense"
     },
     {
-        "english": "We come home late.",
-        "hebrew_spoken": "Anachnu ba'im habaita meuchar.",
-        "hebrew_letters": "אנחנו באים הביתה מאוחר."
+        "english": "We visited our grandparents last Sunday.",
+        "hebrew_spoken": "Bikarnu et hasaba vehasavta beyom rishon she'avar.",
+        "hebrew_letters": "ביקרנו את הסבא והסבתא ביום ראשון שעבר.",
+        "lesson": "Lesson 1",
+        "tense": "Present Tense"
     },
     {
-        "english": "They dance together at the party.",
-        "hebrew_spoken": "Hem rokdim yachad bamesiba.",
-        "hebrew_letters": "הם רוקדים יחד במסיבה."
+        "english": "They are learning a new language.",
+        "hebrew_spoken": "Hem lomdim safah chadasha.",
+        "hebrew_letters": "הם לומדים שפה חדשה.",
+        "lesson": "Lesson 1",
+        "tense": "Present Tense"
     },
     {
-        "english": "I listen to music while I work.",
-        "hebrew_spoken": "Ani makshiv le'muzika b'zman she'ani oved.",
-        "hebrew_letters": "אני מקשיב למוזיקה בזמן שאני עובד."
+        "english": "I enjoy hiking in the mountains.",
+        "hebrew_spoken": "Ani nehene lehitayel baharim.",
+        "hebrew_letters": "אני נהנה לטייל בהרים.",
+        "lesson": "Lesson 1",
+        "tense": "Present Tense"
     },
     {
-        "english": "He has a dog.",
-        "hebrew_spoken": "Yesh lo kelev.",
-        "hebrew_letters": "יש לו כלב."
+        "english": "The cat is sleeping on the chair.",
+        "hebrew_spoken": "Hachatul yashen al hakesa.",
+        "hebrew_letters": "החתול ישן על הכסא.",
+        "lesson": "Lesson 1",
+        "tense": "Present Tense"
     },
     {
-        "english": "We meet at the park.",
-        "hebrew_spoken": "Anachnu nifgashim b'gan.",
-        "hebrew_letters": "אנחנו נפגשים בגן."
+        "english": "We celebrated my birthday yesterday.",
+        "hebrew_spoken": "Chagnu et yom huladeti etmol.",
+        "hebrew_letters": "חגגנו את יום הולדתי אתמול.",
+        "lesson": "Lesson 1",
+        "tense": "Present Tense"
     },
     {
-        "english": "She studies at the university.",
+        "english": "She works in a big company.",
+        "hebrew_spoken": "Hi ovedet bechevrah gdolah.",
+        "hebrew_letters": "היא עובדת בחברה גדולה.",
+        "lesson": "Lesson 1",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "He is writing a letter to his friend.",
+        "hebrew_spoken": "Hu kotev michtav lechaver shelo.",
+        "hebrew_letters": "הוא כותב מכתב לחבר שלו.",
+        "lesson": "Lesson 1",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "The kids are playing in the park.",
+        "hebrew_spoken": "Hayeladim misachakim bagan.",
+        "hebrew_letters": "הילדים משחקים בגן.",
+        "lesson": "Lesson 1",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "We watched a great movie last night.",
+        "hebrew_spoken": "Rainninu seret nifla etmol balaila.",
+        "hebrew_letters": "ראינו סרט נפלא אתמול בלילה.",
+        "lesson": "Lesson 1",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "She loves painting landscapes.",
+        "hebrew_spoken": "Hi ohevet litzbo'a nofim.",
+        "hebrew_letters": "היא אוהבת לצבוע נופים.",
+        "lesson": "Lesson 1",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "He goes running every morning.",
+        "hebrew_spoken": "Hu rat kol boker.",
+        "hebrew_letters": "הוא רץ כל בוקר.",
+        "lesson": "Lesson 1",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "We bought fresh vegetables at the market.",
+        "hebrew_spoken": "Kaninu yerakot triyot bashuk.",
+        "hebrew_letters": "קנינו ירקות טריים בשוק.",
+        "lesson": "Lesson 1",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "They danced at the party all night.",
+        "hebrew_spoken": "Hem rakdu bamesiba kol halaila.",
+        "hebrew_letters": "הם רקדו במסיבה כל הלילה.",
+        "lesson": "Lesson 2",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "She is making a delicious cake.",
+        "hebrew_spoken": "Hi osah uga metuka.",
+        "hebrew_letters": "היא עושה עוגה מתוקה.",
+        "lesson": "Lesson 2",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "I met an old friend yesterday.",
+        "hebrew_spoken": "Pagashti chaver yashan etmol.",
+        "hebrew_letters": "פגשתי חבר ישן אתמול.",
+        "lesson": "Lesson 2",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "We saw a rainbow after the rain.",
+        "hebrew_spoken": "Rainninu keshet basof hagashem.",
+        "hebrew_letters": "ראינו קשת בסוף הגשם.",
+        "lesson": "Lesson 2",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "They live in a small village.",
+        "hebrew_spoken": "Hem garim bekfar katan.",
+        "hebrew_letters": "הם גרים בכפר קטן.",
+        "lesson": "Lesson 2",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "She plays the piano beautifully.",
+        "hebrew_spoken": "Hi menagenet piano yafe me'od.",
+        "hebrew_letters": "היא מנגנת בפסנתר יפה מאוד.",
+        "lesson": "Lesson 2",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "I need to buy a new phone.",
+        "hebrew_spoken": "Ani tzarich liknot telefon chadash.",
+        "hebrew_letters": "אני צריך לקנות טלפון חדש.",
+        "lesson": "Lesson 2",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "We had a picnic in the park.",
+        "hebrew_spoken": "Asinu piknik bagan.",
+        "hebrew_letters": "עשינו פיקניק בגן.",
+        "lesson": "Lesson 2",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "They are talking about their plans.",
+        "hebrew_spoken": "Hem medabrim al ha'tochniyot shelahem.",
+        "hebrew_letters": "הם מדברים על התוכניות שלהם.",
+        "lesson": "Lesson 2",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "The train arrives at 5 o’clock.",
+        "hebrew_spoken": "Harakevet magia besha'a hamesh.",
+        "hebrew_letters": "הרכבת מגיעה בשעה חמש.",
+        "lesson": "Lesson 2",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "She is wearing a red dress.",
+        "hebrew_spoken": "Hi loveshet simla aduma.",
+        "hebrew_letters": "היא לובשת שמלה אדומה.",
+        "lesson": "Lesson 2",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "He is reading the newspaper.",
+        "hebrew_spoken": "Hu kore et haitaon.",
+        "hebrew_letters": "הוא קורא את העיתון.",
+        "lesson": "Lesson 2",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "We walked along the river.",
+        "hebrew_spoken": "Halachnu le'orech hanahar.",
+        "hebrew_letters": "הלכנו לאורך הנהר.",
+        "lesson": "Lesson 2",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "They traveled to another country.",
+        "hebrew_spoken": "Hem nesu la'aretz acheret.",
+        "hebrew_letters": "הם נסעו לארץ אחרת.",
+        "lesson": "Lesson 2",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "The baby is sleeping peacefully.",
+        "hebrew_spoken": "Hatino yashen beshalva.",
+        "hebrew_letters": "התינוק ישן בשלווה.",
+        "lesson": "Lesson 2",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "She is baking fresh bread.",
+        "hebrew_spoken": "Hi ofah lechem tari.",
+        "hebrew_letters": "היא אופה לחם טרי.",
+        "lesson": "Lesson 2",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "We are learning Hebrew every day.",
+        "hebrew_spoken": "Anachnu lomdim ivrit kol yom.",
+        "hebrew_letters": "אנחנו לומדים עברית כל יום.",
+        "lesson": "Lesson 2",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "The flowers are blooming in spring.",
+        "hebrew_spoken": "Haperachim porechim ba'aviv.",
+        "hebrew_letters": "הפרחים פורחים באביב.",
+        "lesson": "Lesson 2",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "He has a meeting in the afternoon.",
+        "hebrew_spoken": "Hu yesh lo p'gisha ba'achar tzohorayim.",
+        "hebrew_letters": "הוא יש לו פגישה אחר הצהריים.",
+        "lesson": "Lesson 2",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "They enjoy watching the sunset.",
+        "hebrew_spoken": "Hem nehene'im milihiyot et hashkiya.",
+        "hebrew_letters": "הם נהנים מלראות את השקיעה.",
+        "lesson": "Lesson 2",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "I like visiting museums.",
+        "hebrew_spoken": "Ani ohev levaker bamusim.",
+        "hebrew_letters": "אני אוהב לבקר במוזיאונים.",
+        "lesson": "Lesson 3",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "She helps her younger brother with homework.",
+        "hebrew_spoken": "Hi ozeret la'achi hakatan be'shiurei bayit.",
+        "hebrew_letters": "היא עוזרת לאחיה הקטן בשיעורי בית.",
+        "lesson": "Lesson 3",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "We played soccer in the evening.",
+        "hebrew_spoken": "Sichaknu kaduregel ba'erev.",
+        "hebrew_letters": "שיחקנו כדורגל בערב.",
+        "lesson": "Lesson 3",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "The birds are singing in the morning.",
+        "hebrew_spoken": "Hatziporim sharot baboker.",
+        "hebrew_letters": "הציפורים שרות בבוקר.",
+        "lesson": "Lesson 3",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "He is fixing his bicycle.",
+        "hebrew_spoken": "Hu metaken et ha'ofanaim shelo.",
+        "hebrew_letters": "הוא מתקן את האופניים שלו.",
+        "lesson": "Lesson 3",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "They ate dinner at a restaurant.",
+        "hebrew_spoken": "Hem achlu aruchat erev bemisada.",
+        "hebrew_letters": "הם אכלו ארוחת ערב במסעדה.",
+        "lesson": "Lesson 3",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "I am waiting for the bus.",
+        "hebrew_spoken": "Ani mechak le'otobus.",
+        "hebrew_letters": "אני מחכה לאוטובוס.",
+        "lesson": "Lesson 3",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "She is writing a new story.",
+        "hebrew_spoken": "Hi kotevet sipur chadash.",
+        "hebrew_letters": "היא כותבת סיפור חדש.",
+        "lesson": "Lesson 3",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "We are planning a trip to Jerusalem.",
+        "hebrew_spoken": "Anachnu mitaknim nesiyah le'Yerushalayim.",
+        "hebrew_letters": "אנחנו מתכננים נסיעה לירושלים.",
+        "lesson": "Lesson 3",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "He is learning to play the guitar.",
+        "hebrew_spoken": "Hu lomed lenagen bagitar.",
+        "hebrew_letters": "הוא לומד לנגן בגיטרה.",
+        "lesson": "Lesson 3",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "She enjoys painting in her free time.",
+        "hebrew_spoken": "Hi nehene leitzbo'a bezman hapnai shela.",
+        "hebrew_letters": "היא נהנית לצבוע בזמן הפנאי שלה.",
+        "lesson": "Lesson 3",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "We often go to the cinema on Fridays.",
+        "hebrew_spoken": "Anachnu holechim la'kolnoa be'yom shishi.",
+        "hebrew_letters": "אנחנו הולכים לקולנוע ביום שישי.",
+        "lesson": "Lesson 3",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "He likes listening to classical music.",
+        "hebrew_spoken": "Hu ohev lishmoa musika klasit.",
+        "hebrew_letters": "הוא אוהב לשמוע מוזיקה קלאסית.",
+        "lesson": "Lesson 3",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "They traveled to Israel last summer.",
+        "hebrew_spoken": "Hem nasu le'Yisrael bakayitz sheavar.",
+        "hebrew_letters": "הם נסעו לישראל בקיץ שעבר.",
+        "lesson": "Lesson 3",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "The dog is barking outside.",
+        "hebrew_spoken": "Hakelev novach bachutz.",
+        "hebrew_letters": "הכלב נובח בחוץ.",
+        "lesson": "Lesson 3",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "I usually wake up at 7 o'clock.",
+        "hebrew_spoken": "Ani mitoreh be'sha'a sheva be'erev.",
+        "hebrew_letters": "אני מתעורר בשעה שבע בערב.",
+        "lesson": "Lesson 3",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "She is preparing lunch for everyone.",
+        "hebrew_spoken": "Hi mechinah aruchat tzohorayim le'kulam.",
+        "hebrew_letters": "היא מכינה ארוחת צהריים לכולם.",
+        "lesson": "Lesson 3",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "They are waiting at the train station.",
+        "hebrew_spoken": "Hem mechakim betahanat harakevet.",
+        "hebrew_letters": "הם מחכים בתחנת הרכבת.",
+        "lesson": "Lesson 3",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "He is fixing the broken chair.",
+        "hebrew_spoken": "Hu metaken et hakesa hashavur.",
+        "hebrew_letters": "הוא מתקן את הכסא השבור.",
+        "lesson": "Lesson 3",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "We love walking in the park in autumn.",
+        "hebrew_spoken": "Anachnu ohevim lehitayel bagan be'stav.",
+        "hebrew_letters": "אנחנו אוהבים לטייל בגן בסתיו.",
+        "lesson": "Lesson 3",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "She teaches English at a school.",
+        "hebrew_spoken": "Hi melamedet anglit be'beit sefer.",
+        "hebrew_letters": "היא מלמדת אנגלית בבית ספר.",
+        "lesson": "Lesson 4",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "He wants to learn how to dance.",
+        "hebrew_spoken": "Hu rotze lilmod eich lirkod.",
+        "hebrew_letters": "הוא רוצה ללמוד איך לרקוד.",
+        "lesson": "Lesson 4",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "The kids are watching cartoons.",
+        "hebrew_spoken": "Hayeladim ro'im kartoonim.",
+        "hebrew_letters": "הילדים רואים סרטים מצוירים.",
+        "lesson": "Lesson 4",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "We had a barbecue last Saturday.",
+        "hebrew_spoken": "Asinu al ha'esh be'shabbat she'avar.",
+        "hebrew_letters": "עשינו על האש בשבת שעברה.",
+        "lesson": "Lesson 4",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "She sent me a beautiful postcard.",
+        "hebrew_spoken": "Hi shalcha li gluya yafa.",
+        "hebrew_letters": "היא שלחה לי גלויה יפה.",
+        "lesson": "Lesson 4",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "He is wearing a blue jacket.",
+        "hebrew_spoken": "Hu loves jaket kachol.",
+        "hebrew_letters": "הוא לובש ז'קט כחול.",
+        "lesson": "Lesson 4",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "They are celebrating their anniversary.",
+        "hebrew_spoken": "Hem chogegim et hayom nesuim shelahem.",
+        "hebrew_letters": "הם חוגגים את יום נישואיהם.",
+        "lesson": "Lesson 4",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "I am learning to play the piano.",
+        "hebrew_spoken": "Ani lomed lenagen be'psanter.",
+        "hebrew_letters": "אני לומד לנגן בפסנתר.",
+        "lesson": "Lesson 4",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "She is visiting her aunt this weekend.",
+        "hebrew_spoken": "Hi mevakeret et dodah bashavua habah.",
+        "hebrew_letters": "היא מבקרת את דודה שלה בשבוע הבא.",
+        "lesson": "Lesson 4",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "We bought a new sofa for the living room.",
+        "hebrew_spoken": "Kaninu sapa chadasha le'salon.",
+        "hebrew_letters": "קנינו ספה חדשה לסלון.",
+        "lesson": "Lesson 4",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "The waiter brought us the menu.",
+        "hebrew_spoken": "Hamelzar hevi lanu et hatafrit.",
+        "hebrew_letters": "המלצר הביא לנו את התפריט.",
+        "lesson": "Lesson 4",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "He is looking for his lost keys.",
+        "hebrew_spoken": "Hu mechapes et hamaftehot shelo.",
+        "hebrew_letters": "הוא מחפש את המפתחות שלו.",
+        "lesson": "Lesson 4",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "She is speaking to her friend on the phone.",
+        "hebrew_spoken": "Hi medaberet im hachavera shela batelefon.",
+        "hebrew_letters": "היא מדברת עם חברתה בטלפון.",
+        "lesson": "Lesson 4",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "We took a taxi to the airport.",
+        "hebrew_spoken": "Lakachnu monit lanamal teufa.",
+        "hebrew_letters": "לקחנו מונית לנמל תעופה.",
+        "lesson": "Lesson 4",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "The children love playing with their toys.",
+        "hebrew_spoken": "Hayeladim ohevim lesachek im hats'uatam.",
+        "hebrew_letters": "הילדים אוהבים לשחק עם הצעצועים שלהם.",
+        "lesson": "Lesson 4",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "He usually drinks tea in the evening.",
+        "hebrew_spoken": "Hu rotze lishtot tei ba'erev.",
+        "hebrew_letters": "הוא רוצה לשתות תה בערב.",
+        "lesson": "Lesson 4",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "They are building a new house.",
+        "hebrew_spoken": "Hem bonim bayit chadash.",
+        "hebrew_letters": "הם בונים בית חדש.",
+        "lesson": "Lesson 4",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "We saw dolphins in the sea.",
+        "hebrew_spoken": "Ra'inu delfinim bayam.",
+        "hebrew_letters": "ראינו דולפינים בים.",
+        "lesson": "Lesson 4",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "She made a delicious salad.",
+        "hebrew_spoken": "Hi aseta salat ta'im.",
+        "hebrew_letters": "היא עשתה סלט טעים.",
+        "lesson": "Lesson 4",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "He wants to buy a new car.",
+        "hebrew_spoken": "Hu rotze liknot mechonit chadasha.",
+        "hebrew_letters": "הוא רוצה לקנות מכונית חדשה.",
+        "lesson": "Lesson 4",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "They danced together at the wedding.",
+        "hebrew_spoken": "Hem rakdu beyachad be'chatuna.",
+        "hebrew_letters": "הם רקדו יחד בחתונה.",
+        "lesson": "Lesson 5",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "She is studying at the university.",
         "hebrew_spoken": "Hi lomedet ba'universita.",
-        "hebrew_letters": "היא לומדת באוניברסיטה."
+        "hebrew_letters": "היא לומדת באוניברסיטה.",
+        "lesson": "Lesson 5",
+        "tense": "Present Tense"
     },
     {
-        "english": "I do yoga every morning.",
-        "hebrew_spoken": "Ani ose yoga kol boker.",
-        "hebrew_letters": "אני עושה יוגה כל בוקר."
+        "english": "We booked a hotel for our vacation.",
+        "hebrew_spoken": "Hazmanu malon la'chofesh shelanu.",
+        "hebrew_letters": "הזמנו מלון לחופשה שלנו.",
+        "lesson": "Lesson 5",
+        "tense": "Present Tense"
     },
     {
-        "english": "They buy bread from the bakery.",
-        "hebrew_spoken": "Hem konim lechem mehame'afiya.",
-        "hebrew_letters": "הם קונים לחם מהמאפייה."
+        "english": "He is driving to work now.",
+        "hebrew_spoken": "Hu noheg la'avoda achshav.",
+        "hebrew_letters": "הוא נוהג לעבודה עכשיו.",
+        "lesson": "Lesson 5",
+        "tense": "Present Tense"
     },
     {
-        "english": "I think she is kind.",
-        "hebrew_spoken": "Ani choshev shehi nechmadah.",
-        "hebrew_letters": "אני חושב שהיא נחמדה."
+        "english": "She takes care of her little brother.",
+        "hebrew_spoken": "Hi do'eged la'achi hakatan.",
+        "hebrew_letters": "היא דואגת לאחיה הקטן.",
+        "lesson": "Lesson 5",
+        "tense": "Present Tense"
     },
     {
-        "english": "You sleep well at night.",
-        "hebrew_spoken": "Ata yashen tov balayla.",
-        "hebrew_letters": "אתה ישן טוב בלילה."
+        "english": "We ate ice cream at the beach.",
+        "hebrew_spoken": "Achalnu glida be'chof.",
+        "hebrew_letters": "אכלנו גלידה בחוף.",
+        "lesson": "Lesson 5",
+        "tense": "Present Tense"
     },
     {
-        "english": "They go to the market on Fridays.",
-        "hebrew_spoken": "Hem holchim lashuk beyom shishi.",
-        "hebrew_letters": "הם הולכים לשוק ביום שישי."
+        "english": "They are waiting for the bus.",
+        "hebrew_spoken": "Hem mechakim la'otobus.",
+        "hebrew_letters": "הם מחכים לאוטובוס.",
+        "lesson": "Lesson 5",
+        "tense": "Present Tense"
     },
     {
-        "english": "We eat dinner at six o'clock.",
-        "hebrew_spoken": "Anachnu ochlim aruchat erev besha'a shesh.",
-        "hebrew_letters": "אנחנו אוכלים ארוחת ערב בשעה שש."
+        "english": "She is writing a letter to her friend.",
+        "hebrew_spoken": "Hi kotevet michtav lechavera shela.",
+        "hebrew_letters": "היא כותבת מכתב לחברתה.",
+        "lesson": "Lesson 5",
+        "tense": "Present Tense"
     },
     {
-        "english": "He comes to the office every day.",
-        "hebrew_spoken": "Hu ba lamisrad kol yom.",
-        "hebrew_letters": "הוא בא למשרד כל יום."
+        "english": "He enjoys watching sports.",
+        "hebrew_spoken": "Hu nehene milirot sport.",
+        "hebrew_letters": "הוא נהנה לראות ספורט.",
+        "lesson": "Lesson 5",
+        "tense": "Present Tense"
     },
     {
-        "english": "She dances beautifully.",
-        "hebrew_spoken": "Hi rokedet yafe.",
-        "hebrew_letters": "היא רוקדת יפה."
+        "english": "We spent the whole day at the zoo.",
+        "hebrew_spoken": "Bilinu et kol hayom be'gan hachayot.",
+        "hebrew_letters": "בילינו את כל היום בגן החיות.",
+        "lesson": "Lesson 5",
+        "tense": "Present Tense"
     },
     {
-        "english": "I listen carefully to the teacher.",
-        "hebrew_spoken": "Ani makshiv b'zehirut lamoreh.",
-        "hebrew_letters": "אני מקשיב בזהירות למורה."
+        "english": "She works in a bookstore.",
+        "hebrew_spoken": "Hi ovedet b'chanut sfarim.",
+        "hebrew_letters": "היא עובדת בחנות ספרים.",
+        "lesson": "Lesson 5",
+        "tense": "Present Tense"
     },
     {
-        "english": "She has a nice house.",
-        "hebrew_spoken": "Yesh la bayit yafe.",
-        "hebrew_letters": "יש לה בית יפה."
+        "english": "He is cleaning his apartment.",
+        "hebrew_spoken": "Hu menake et hadira shelo.",
+        "hebrew_letters": "הוא מנקה את הדירה שלו.",
+        "lesson": "Lesson 5",
+        "tense": "Present Tense"
     },
     {
-        "english": "We meet for coffee on Sundays.",
-        "hebrew_spoken": "Anachnu nifgashim le'kafe beyom rishon.",
-        "hebrew_letters": "אנחנו נפגשים לקפה ביום ראשון."
+        "english": "They are laughing at a funny joke.",
+        "hebrew_spoken": "Hem tzochakim al bidicha metzchika.",
+        "hebrew_letters": "הם צוחקים על בדיחה מצחיקה.",
+        "lesson": "Lesson 5",
+        "tense": "Present Tense"
     },
     {
-        "english": "He studies history.",
-        "hebrew_spoken": "Hu lomed historia.",
-        "hebrew_letters": "הוא לומד היסטוריה."
+        "english": "She found a beautiful seashell.",
+        "hebrew_spoken": "Hi matza'a klichat yam yafa.",
+        "hebrew_letters": "היא מצאה קונכייה יפה.",
+        "lesson": "Lesson 5",
+        "tense": "Present Tense"
     },
     {
-        "english": "You do amazing work.",
-        "hebrew_spoken": "Ata ose avoda nehederet.",
-        "hebrew_letters": "אתה עושה עבודה נהדרת."
+        "english": "We are going to the market tomorrow.",
+        "hebrew_spoken": "Anachnu holchim la'shuk machar.",
+        "hebrew_letters": "אנחנו הולכים לשוק מחר.",
+        "lesson": "Lesson 5",
+        "tense": "Present Tense"
     },
     {
-        "english": "They buy fruit at the market.",
-        "hebrew_spoken": "Hem konim perot bashuk.",
-        "hebrew_letters": "הם קונים פירות בשוק."
+        "english": "He plays the guitar in a band.",
+        "hebrew_spoken": "Hu menagen bagitar be'lahaka.",
+        "hebrew_letters": "הוא מנגן בגיטרה בלהקה.",
+        "lesson": "Lesson 5",
+        "tense": "Present Tense"
     },
     {
-        "english": "I think he is very smart.",
-        "hebrew_spoken": "Ani choshev shehu chacham me'od.",
-        "hebrew_letters": "אני חושב שהוא חכם מאוד."
+        "english": "She gave him a nice present.",
+        "hebrew_spoken": "Hi natna lo matana yafa.",
+        "hebrew_letters": "היא נתנה לו מתנה יפה.",
+        "lesson": "Lesson 5",
+        "tense": "Present Tense"
     },
     {
-        "english": "She sleeps early.",
-        "hebrew_spoken": "Hi yashena mukdam.",
-        "hebrew_letters": "היא ישנה מוקדם."
+        "english": "We are learning about history.",
+        "hebrew_spoken": "Anachnu lomdim al historia.",
+        "hebrew_letters": "אנחנו לומדים על היסטוריה.",
+        "lesson": "Lesson 5",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "He is washing his car.",
+        "hebrew_spoken": "Hu rochetz et ha'mechonit shelo.",
+        "hebrew_letters": "הוא רוחץ את המכונית שלו.",
+        "lesson": "Lesson 5",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "They are making plans for the weekend.",
+        "hebrew_spoken": "Hem metaknim tochniot la'sof hashavua.",
+        "hebrew_letters": "הם מתכננים תוכניות לסוף השבוע.",
+        "lesson": "Lesson 5",
+        "tense": "Present Tense"
+    },
+    {
+        "english": "I loved drinking coffee in the morning.",
+        "hebrew_spoken": "Ani ahavti lishtot kafe baboker.",
+        "hebrew_letters": "אני אהבתי לשתות קפה בבוקר.",
+        "lesson": "Lesson 1",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "She read a book every night before bed.",
+        "hebrew_spoken": "Hi kar'a sefer kol laila lifnei hamita.",
+        "hebrew_letters": "היא קוראת ספר כל לילה לפני המיטה.",
+        "lesson": "Lesson 1",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "We went to the beach last weekend.",
+        "hebrew_spoken": "Halachnu la yam basof hashavua sheavar.",
+        "hebrew_letters": "הלכנו לים בסוף השבוע שעבר.",
+        "lesson": "Lesson 1",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "They studied Hebrew together.",
+        "hebrew_spoken": "Hem lamdu ivrit beyachad.",
+        "hebrew_letters": "הם לומדים עברית ביחד.",
+        "lesson": "Lesson 1",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "He liked to cook Italian food.",
+        "hebrew_spoken": "Hu ahav levashel ochel italki.",
+        "hebrew_letters": "הוא אהבתי לבשל אוכל איטלקי.",
+        "lesson": "Lesson 1",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "The sun shone brightly today.",
+        "hebrew_spoken": "Hashemesh zarcha beyom hazeh.",
+        "hebrew_letters": "השמש זורחת ביום הזה.",
+        "lesson": "Lesson 1",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "In summer I liked to swim in the river.",
+        "hebrew_spoken": "Bekayitz ani ahavti lishtot bamaim.",
+        "hebrew_letters": "בקיץ אני אהבתי לשחות בנהר.",
+        "lesson": "Lesson 1",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "She listened to music while working.",
+        "hebrew_spoken": "Hi shamat musika bema she'hi avda.",
+        "hebrew_letters": "היא שומעת מוזיקה בזמן שהיא עובדת.",
+        "lesson": "Lesson 1",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "We visited our grandparents last Sunday.",
+        "hebrew_spoken": "Bikarnu et hasaba vehasavta beyom rishon she'avar.",
+        "hebrew_letters": "ביקרנו את הסבא והסבתא ביום ראשון שעבר.",
+        "lesson": "Lesson 1",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "They learned a new language.",
+        "hebrew_spoken": "Hem lamdu safah chadasha.",
+        "hebrew_letters": "הם לומדים שפה חדשה.",
+        "lesson": "Lesson 1",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "I enjoyed hiking in the mountains.",
+        "hebrew_spoken": "Ani nehene'ti lehitayel baharim.",
+        "hebrew_letters": "אני נהנה לטייל בהרים.",
+        "lesson": "Lesson 1",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "The cat slept on the chair.",
+        "hebrew_spoken": "Hachatul yashan al hakesa.",
+        "hebrew_letters": "החתול ישן על הכסא.",
+        "lesson": "Lesson 1",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "We celebrated my birthday yesterday.",
+        "hebrew_spoken": "Chagnu et yom huladeti etmol.",
+        "hebrew_letters": "חגגנו את יום הולדתי אתמול.",
+        "lesson": "Lesson 1",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "She worked in a big company.",
+        "hebrew_spoken": "Hi avda bechevrah gdolah.",
+        "hebrew_letters": "היא עובדת בחברה גדולה.",
+        "lesson": "Lesson 1",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "He wrote a letter to his friend.",
+        "hebrew_spoken": "Hu katav michtav lechaver shelo.",
+        "hebrew_letters": "הוא כותב מכתב לחבר שלו.",
+        "lesson": "Lesson 1",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "The kids played in the park.",
+        "hebrew_spoken": "Hayeladim sichaku bagan.",
+        "hebrew_letters": "הילדים משחקים בגן.",
+        "lesson": "Lesson 1",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "We watched a great movie last night.",
+        "hebrew_spoken": "Rainninu seret nifla etmol balaila.",
+        "hebrew_letters": "ראינו סרט נפלא אתמול בלילה.",
+        "lesson": "Lesson 1",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "She loved painting landscapes.",
+        "hebrew_spoken": "Hi ahava litzbo'a nofim.",
+        "hebrew_letters": "היא אהבתית לצבוע נופים.",
+        "lesson": "Lesson 1",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "He went running every morning.",
+        "hebrew_spoken": "Hu rat kol boker.",
+        "hebrew_letters": "הוא רץ כל בוקר.",
+        "lesson": "Lesson 1",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "We bought fresh vegetables at the market.",
+        "hebrew_spoken": "Kaninu yerakot triyot bashuk.",
+        "hebrew_letters": "קנינו ירקות טריים בשוק.",
+        "lesson": "Lesson 1",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "They danced at the party all night.",
+        "hebrew_spoken": "Hem rakdu bamesiba kol halaila.",
+        "hebrew_letters": "הם רקדו במסיבה כל הלילה.",
+        "lesson": "Lesson 2",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "She made a delicious cake.",
+        "hebrew_spoken": "Hi aseta uga metuka.",
+        "hebrew_letters": "היא עשה עוגה מתוקה.",
+        "lesson": "Lesson 2",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "I met an old friend yesterday.",
+        "hebrew_spoken": "Pagashti chaver yashan etmol.",
+        "hebrew_letters": "פגשתי חבר ישן אתמול.",
+        "lesson": "Lesson 2",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "We saw a rainbow after the rain.",
+        "hebrew_spoken": "Rainninu keshet basof hagashem.",
+        "hebrew_letters": "ראינו קשת בסוף הגשם.",
+        "lesson": "Lesson 2",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "They lived in a small village.",
+        "hebrew_spoken": "Hem garu bekfar katan.",
+        "hebrew_letters": "הם גרים בכפר קטן.",
+        "lesson": "Lesson 2",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "She played the piano beautifully.",
+        "hebrew_spoken": "Hi nigena piano yafe me'od.",
+        "hebrew_letters": "היא מנגנת בפסנתר יפה מאוד.",
+        "lesson": "Lesson 2",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "I needed to buy a new phone.",
+        "hebrew_spoken": "Ani hayiti tzarich liknot telefon chadash.",
+        "hebrew_letters": "אני צריך לקנות טלפון חדש.",
+        "lesson": "Lesson 2",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "We had a picnic in the park.",
+        "hebrew_spoken": "Asinu piknik bagan.",
+        "hebrew_letters": "עשינו פיקניק בגן.",
+        "lesson": "Lesson 2",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "They talked about their plans.",
+        "hebrew_spoken": "Hem dibru al ha'tochniyot shelahem.",
+        "hebrew_letters": "הם מדברים על התוכניות שלהם.",
+        "lesson": "Lesson 2",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "The train arrived at 5 o’clock.",
+        "hebrew_spoken": "Harakevet higia besha'a hamesh.",
+        "hebrew_letters": "הרכבת מגיעה בשעה חמש.",
+        "lesson": "Lesson 2",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "She wore a red dress.",
+        "hebrew_spoken": "Hi lavsha simla aduma.",
+        "hebrew_letters": "היא לובשת שמלה אדומה.",
+        "lesson": "Lesson 2",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "He read the newspaper.",
+        "hebrew_spoken": "Hu kara et haitaon.",
+        "hebrew_letters": "הוא קורא את העיתון.",
+        "lesson": "Lesson 2",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "We walked along the river.",
+        "hebrew_spoken": "Halachnu le'orech hanahar.",
+        "hebrew_letters": "הלכנו לאורך הנהר.",
+        "lesson": "Lesson 2",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "They traveled to another country.",
+        "hebrew_spoken": "Hem nasu la'aretz acheret.",
+        "hebrew_letters": "הם נסעו לארץ אחרת.",
+        "lesson": "Lesson 2",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "The baby slept peacefully.",
+        "hebrew_spoken": "Hatino yashan beshalva.",
+        "hebrew_letters": "התינוק ישן בשלווה.",
+        "lesson": "Lesson 2",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "She baked fresh bread.",
+        "hebrew_spoken": "Hi afa lechem tari.",
+        "hebrew_letters": "היא אופה לחם טרי.",
+        "lesson": "Lesson 2",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "We learned Hebrew every day.",
+        "hebrew_spoken": "Anachnu lamadnu ivrit kol yom.",
+        "hebrew_letters": "אנחנו לומדים עברית כל יום.",
+        "lesson": "Lesson 2",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "The flowers bloomed in spring.",
+        "hebrew_spoken": "Haperachim parchu ba'aviv.",
+        "hebrew_letters": "הפרחים פורחים באביב.",
+        "lesson": "Lesson 2",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "He had a meeting in the afternoon.",
+        "hebrew_spoken": "Hu haya lo p'gisha ba'achar tzohorayim.",
+        "hebrew_letters": "הוא יש לו פגישה אחר הצהריים.",
+        "lesson": "Lesson 2",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "They enjoyed watching the sunset.",
+        "hebrew_spoken": "Hem nehenu milihiyot et hashkiya.",
+        "hebrew_letters": "הם נהנים מלראות את השקיעה.",
+        "lesson": "Lesson 2",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "I liked visiting museums.",
+        "hebrew_spoken": "Ani ahavti levaker bamusim.",
+        "hebrew_letters": "אני אהבתי לבקר במוזיאונים.",
+        "lesson": "Lesson 3",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "She helped her younger brother with homework.",
+        "hebrew_spoken": "Hi azra la'achi hakatan be'shiurei bayit.",
+        "hebrew_letters": "היא עוזרת לאחיה הקטן בשיעורי בית.",
+        "lesson": "Lesson 3",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "We played soccer in the evening.",
+        "hebrew_spoken": "Sichaknu kaduregel ba'erev.",
+        "hebrew_letters": "שיחקנו כדורגל בערב.",
+        "lesson": "Lesson 3",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "The birds sang in the morning.",
+        "hebrew_spoken": "Hatziporim sharu baboker.",
+        "hebrew_letters": "הציפורים שרות בבוקר.",
+        "lesson": "Lesson 3",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "He fixed his bicycle.",
+        "hebrew_spoken": "Hu tiken et ha'ofanaim shelo.",
+        "hebrew_letters": "הוא מתקן את האופניים שלו.",
+        "lesson": "Lesson 3",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "They ate dinner at a restaurant.",
+        "hebrew_spoken": "Hem achlu aruchat erev bemisada.",
+        "hebrew_letters": "הם אכלו ארוחת ערב במסעדה.",
+        "lesson": "Lesson 3",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "I waited for the bus.",
+        "hebrew_spoken": "Ani chikiti le'otobus.",
+        "hebrew_letters": "אני מחכה לאוטובוס.",
+        "lesson": "Lesson 3",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "She wrote a new story.",
+        "hebrew_spoken": "Hi katva sipur chadash.",
+        "hebrew_letters": "היא כותבת סיפור חדש.",
+        "lesson": "Lesson 3",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "We planned a trip to Jerusalem.",
+        "hebrew_spoken": "Anachnu tiknanu nesiyah le'Yerushalayim.",
+        "hebrew_letters": "אנחנו מתכננים נסיעה לירושלים.",
+        "lesson": "Lesson 3",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "He learned to play the guitar.",
+        "hebrew_spoken": "Hu lamad lenagen bagitar.",
+        "hebrew_letters": "הוא לומד לנגן בגיטרה.",
+        "lesson": "Lesson 3",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "She enjoyed painting in her free time.",
+        "hebrew_spoken": "Hi nehentah leitzbo'a bezman hapnai shela.",
+        "hebrew_letters": "היא נהנית לצבוע בזמן הפנאי שלה.",
+        "lesson": "Lesson 3",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "We often went to the cinema on Fridays.",
+        "hebrew_spoken": "Anachnu halachnu la'kolnoa be'yom shishi.",
+        "hebrew_letters": "אנחנו הולכים לקולנוע ביום שישי.",
+        "lesson": "Lesson 3",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "He liked listening to classical music.",
+        "hebrew_spoken": "Hu ahav lishmoa musika klasit.",
+        "hebrew_letters": "הוא אהבתי לשמוע מוזיקה קלאסית.",
+        "lesson": "Lesson 3",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "They traveled to Israel last summer.",
+        "hebrew_spoken": "Hem nasu le'Yisrael bakayitz sheavar.",
+        "hebrew_letters": "הם נסעו לישראל בקיץ שעבר.",
+        "lesson": "Lesson 3",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "The dog barked outside.",
+        "hebrew_spoken": "Hakelev navach bachutz.",
+        "hebrew_letters": "הכלב נובח בחוץ.",
+        "lesson": "Lesson 3",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "I usually woke up at 7 o'clock.",
+        "hebrew_spoken": "Ani hit'orarti be'sha'a sheva.",
+        "hebrew_letters": "אני מתעורר בשעה שבע בערב.",
+        "lesson": "Lesson 3",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "She prepared lunch for everyone.",
+        "hebrew_spoken": "Hi hechinah aruchat tzohorayim le'kulam.",
+        "hebrew_letters": "היא מכינה ארוחת צהריים לכולם.",
+        "lesson": "Lesson 3",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "They waited at the train station.",
+        "hebrew_spoken": "Hem chik'u betahanat harakevet.",
+        "hebrew_letters": "הם מחכים בתחנת הרכבת.",
+        "lesson": "Lesson 3",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "He fixed the broken chair.",
+        "hebrew_spoken": "Hu tiken et hakesa hashavur.",
+        "hebrew_letters": "הוא מתקן את הכסא השבור.",
+        "lesson": "Lesson 3",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "We loved walking in the park in autumn.",
+        "hebrew_spoken": "Anachnu ahavnu lehitayel bagan be'stav.",
+        "hebrew_letters": "אנחנו אהבתיים לטייל בגן בסתיו.",
+        "lesson": "Lesson 3",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "She taught English at a school.",
+        "hebrew_spoken": "Hi limdah anglit be'beit sefer.",
+        "hebrew_letters": "היא מלמדת אנגלית בבית ספר.",
+        "lesson": "Lesson 4",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "He wanted to learn how to dance.",
+        "hebrew_spoken": "Hu ratzah lilmod eich lirkod.",
+        "hebrew_letters": "הוא רוצה ללמוד איך לרקוד.",
+        "lesson": "Lesson 4",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "The kids watched cartoons.",
+        "hebrew_spoken": "Hayeladim rau kartoonim.",
+        "hebrew_letters": "הילדים רואים סרטים מצוירים.",
+        "lesson": "Lesson 4",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "We had a barbecue last Saturday.",
+        "hebrew_spoken": "Asinu al ha'esh be'shabbat she'avar.",
+        "hebrew_letters": "עשינו על האש בשבת שעברה.",
+        "lesson": "Lesson 4",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "She sent me a beautiful postcard.",
+        "hebrew_spoken": "Hi shalcha li gluya yafa.",
+        "hebrew_letters": "היא שלחה לי גלויה יפה.",
+        "lesson": "Lesson 4",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "He wore a blue jacket.",
+        "hebrew_spoken": "Hu lavash jaket kachol.",
+        "hebrew_letters": "הוא לובש ז'קט כחול.",
+        "lesson": "Lesson 4",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "They celebrated their anniversary.",
+        "hebrew_spoken": "Hem chogegu et hayom nesuim shelahem.",
+        "hebrew_letters": "הם חוגגים את יום נישואיהם.",
+        "lesson": "Lesson 4",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "I learned to play the piano.",
+        "hebrew_spoken": "Ani lamadti lenagen be'psanter.",
+        "hebrew_letters": "אני לומד לנגן בפסנתר.",
+        "lesson": "Lesson 4",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "She visited her aunt last weekend.",
+        "hebrew_spoken": "Hi bikrah et dodah bashavua she'avar.",
+        "hebrew_letters": "היא מבקרת את דודה שלה בשבוע הבא.",
+        "lesson": "Lesson 4",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "We bought a new sofa for the living room.",
+        "hebrew_spoken": "Kaninu sapa chadasha le'salon.",
+        "hebrew_letters": "קנינו ספה חדשה לסלון.",
+        "lesson": "Lesson 4",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "The waiter brought us the menu.",
+        "hebrew_spoken": "Hamelzar hevi lanu et hatafrit.",
+        "hebrew_letters": "המלצר הביא לנו את התפריט.",
+        "lesson": "Lesson 4",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "He looked for his lost keys.",
+        "hebrew_spoken": "Hu chipas et hamaftehot shelo.",
+        "hebrew_letters": "הוא מחפש את המפתחות שלו.",
+        "lesson": "Lesson 4",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "She spoke to her friend on the phone.",
+        "hebrew_spoken": "Hi dibrah im hachavera shela batelefon.",
+        "hebrew_letters": "היא מדברת עם חברתה בטלפון.",
+        "lesson": "Lesson 4",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "We took a taxi to the airport.",
+        "hebrew_spoken": "Lakachnu monit lanamal teufa.",
+        "hebrew_letters": "לקחנו מונית לנמל תעופה.",
+        "lesson": "Lesson 4",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "The children loved playing with their toys.",
+        "hebrew_spoken": "Hayeladim ahavu lesachek im hats'uatam.",
+        "hebrew_letters": "הילדים אהבתיים לשחק עם הצעצועים שלהם.",
+        "lesson": "Lesson 4",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "He usually drank tea in the evening.",
+        "hebrew_spoken": "Hu shatah tei ba'erev.",
+        "hebrew_letters": "הוא רוצה לשתות תה בערב.",
+        "lesson": "Lesson 4",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "They built a new house.",
+        "hebrew_spoken": "Hem banu bayit chadash.",
+        "hebrew_letters": "הם בונים בית חדש.",
+        "lesson": "Lesson 4",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "We saw dolphins in the sea.",
+        "hebrew_spoken": "Ra'inu delfinim bayam.",
+        "hebrew_letters": "ראינו דולפינים בים.",
+        "lesson": "Lesson 4",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "She made a delicious salad.",
+        "hebrew_spoken": "Hi aseta salat ta'im.",
+        "hebrew_letters": "היא עשתה סלט טעים.",
+        "lesson": "Lesson 4",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "He wanted to buy a new car.",
+        "hebrew_spoken": "Hu ratzah liknot mechonit chadasha.",
+        "hebrew_letters": "הוא רוצה לקנות מכונית חדשה.",
+        "lesson": "Lesson 4",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "They danced together at the wedding.",
+        "hebrew_spoken": "Hem rakdu beyachad be'chatuna.",
+        "hebrew_letters": "הם רקדו יחד בחתונה.",
+        "lesson": "Lesson 5",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "She studied at the university.",
+        "hebrew_spoken": "Hi lamdah ba'universita.",
+        "hebrew_letters": "היא לומדת באוניברסיטה.",
+        "lesson": "Lesson 5",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "We booked a hotel for our vacation.",
+        "hebrew_spoken": "Hazmanu malon la'chofesh shelanu.",
+        "hebrew_letters": "הזמנו מלון לחופשה שלנו.",
+        "lesson": "Lesson 5",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "He drove to work.",
+        "hebrew_spoken": "Hu nahag la'avoda.",
+        "hebrew_letters": "הוא נוהג לעבודה עכשיו.",
+        "lesson": "Lesson 5",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "She took care of her little brother.",
+        "hebrew_spoken": "Hi da'agah la'achi hakatan.",
+        "hebrew_letters": "היא דואגת לאחיה הקטן.",
+        "lesson": "Lesson 5",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "We ate ice cream at the beach.",
+        "hebrew_spoken": "Achalnu glida be'chof.",
+        "hebrew_letters": "אכלנו גלידה בחוף.",
+        "lesson": "Lesson 5",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "They waited for the bus.",
+        "hebrew_spoken": "Hem chik'u la'otobus.",
+        "hebrew_letters": "הם מחכים לאוטובוס.",
+        "lesson": "Lesson 5",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "She wrote a letter to her friend.",
+        "hebrew_spoken": "Hi katvah michtav lechavera shela.",
+        "hebrew_letters": "היא כותבת מכתב לחברתה.",
+        "lesson": "Lesson 5",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "He enjoyed watching sports.",
+        "hebrew_spoken": "Hu neheneh milirot sport.",
+        "hebrew_letters": "הוא נהנה לראות ספורט.",
+        "lesson": "Lesson 5",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "We spent the whole day at the zoo.",
+        "hebrew_spoken": "Bilinu et kol hayom be'gan hachayot.",
+        "hebrew_letters": "בילינו את כל היום בגן החיות.",
+        "lesson": "Lesson 5",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "She worked in a bookstore.",
+        "hebrew_spoken": "Hi avdah b'chanut sfarim.",
+        "hebrew_letters": "היא עובדת בחנות ספרים.",
+        "lesson": "Lesson 5",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "He cleaned his apartment.",
+        "hebrew_spoken": "Hu nike et hadira shelo.",
+        "hebrew_letters": "הוא מנקה את הדירה שלו.",
+        "lesson": "Lesson 5",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "They laughed at a funny joke.",
+        "hebrew_spoken": "Hem tzochaku al bidicha metzchika.",
+        "hebrew_letters": "הם צוחקים על בדיחה מצחיקה.",
+        "lesson": "Lesson 5",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "She found a beautiful seashell.",
+        "hebrew_spoken": "Hi matza'a klichat yam yafa.",
+        "hebrew_letters": "היא מצאה קונכייה יפה.",
+        "lesson": "Lesson 5",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "We went to the market.",
+        "hebrew_spoken": "Anachnu halachnu la'shuk.",
+        "hebrew_letters": "אנחנו הולכים לשוק מחר.",
+        "lesson": "Lesson 5",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "He played the guitar in a band.",
+        "hebrew_spoken": "Hu nigen bagitar be'lahaka.",
+        "hebrew_letters": "הוא מנגן בגיטרה בלהקה.",
+        "lesson": "Lesson 5",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "She gave him a nice present.",
+        "hebrew_spoken": "Hi natnah lo matana yafa.",
+        "hebrew_letters": "היא נתנה לו מתנה יפה.",
+        "lesson": "Lesson 5",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "We learned about history.",
+        "hebrew_spoken": "Anachnu lamadnu al historia.",
+        "hebrew_letters": "אנחנו לומדים על היסטוריה.",
+        "lesson": "Lesson 5",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "He washed his car.",
+        "hebrew_spoken": "Hu rachatz et ha'mechonit shelo.",
+        "hebrew_letters": "הוא רוחץ את המכונית שלו.",
+        "lesson": "Lesson 5",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "They made plans for the weekend.",
+        "hebrew_spoken": "Hem tiknanu tochniot la'sof hashavua.",
+        "hebrew_letters": "הם מתכננים תוכניות לסוף השבוע.",
+        "lesson": "Lesson 5",
+        "tense": "Past Tense"
+    },
+    {
+        "english": "I will love drinking coffee in the morning.",
+        "hebrew_spoken": "Ani ohev eshte kafe baboker.",
+        "hebrew_letters": "אני אוהב לשתות קפה בבוקר.",
+        "lesson": "Lesson 1",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "She will read a book every night before bed.",
+        "hebrew_spoken": "Hi tikra sefer kol laila lifnei hamita.",
+        "hebrew_letters": "היא קוראת ספר כל לילה לפני המיטה.",
+        "lesson": "Lesson 1",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "We will go to the beach next weekend.",
+        "hebrew_spoken": "Nelech la yam basof hashavua haba.",
+        "hebrew_letters": "הלכנו לים בסוף השבוע שעבר.",
+        "lesson": "Lesson 1",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "They will study Hebrew together.",
+        "hebrew_spoken": "Hem yilmedu ivrit beyachad.",
+        "hebrew_letters": "הם לומדים עברית ביחד.",
+        "lesson": "Lesson 1",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "He will like to cook Italian food.",
+        "hebrew_spoken": "Hu yehav levashel ochel italki.",
+        "hebrew_letters": "הוא אוהב לבשל אוכל איטלקי.",
+        "lesson": "Lesson 1",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "The sun will shine brightly tomorrow.",
+        "hebrew_spoken": "Hashemesh tizrach machar.",
+        "hebrew_letters": "השמש זורחת ביום הזה.",
+        "lesson": "Lesson 1",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "In summer I will like to swim in the river.",
+        "hebrew_spoken": "Bekayitz ani ohev eshte bamaim.",
+        "hebrew_letters": "בקיץ אני אוהב לשחות בנהר.",
+        "lesson": "Lesson 1",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "She will listen to music while working.",
+        "hebrew_spoken": "Hi tishma musika bema she'hi ta'avod.",
+        "hebrew_letters": "היא שומעת מוזיקה בזמן שהיא עובדת.",
+        "lesson": "Lesson 1",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "We will visit our grandparents next Sunday.",
+        "hebrew_spoken": "Nivaker et hasaba vehasavta beyom rishon haba.",
+        "hebrew_letters": "ביקרנו את הסבא והסבתא ביום ראשון שעבר.",
+        "lesson": "Lesson 1",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "They will learn a new language.",
+        "hebrew_spoken": "Hem yilmedu safah chadasha.",
+        "hebrew_letters": "הם לומדים שפה חדשה.",
+        "lesson": "Lesson 1",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "I will enjoy hiking in the mountains.",
+        "hebrew_spoken": "Ani eheye nehene lehitayel baharim.",
+        "hebrew_letters": "אני נהנה לטייל בהרים.",
+        "lesson": "Lesson 1",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "The cat will sleep on the chair.",
+        "hebrew_spoken": "Hachatul yishan al hakesa.",
+        "hebrew_letters": "החתול ישן על הכסא.",
+        "lesson": "Lesson 1",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "We will celebrate my birthday tomorrow.",
+        "hebrew_spoken": "Nachog et yom huladeti machar.",
+        "hebrew_letters": "חגגנו את יום הולדתי אתמול.",
+        "lesson": "Lesson 1",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "She will work in a big company.",
+        "hebrew_spoken": "Hi ta'avod bechevrah gdolah.",
+        "hebrew_letters": "היא עובדת בחברה גדולה.",
+        "lesson": "Lesson 1",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "He will write a letter to his friend.",
+        "hebrew_spoken": "Hu yichtev michtav lechaver shelo.",
+        "hebrew_letters": "הוא כותב מכתב לחבר שלו.",
+        "lesson": "Lesson 1",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "The kids will play in the park.",
+        "hebrew_spoken": "Hayeladim yisachaku bagan.",
+        "hebrew_letters": "הילדים משחקים בגן.",
+        "lesson": "Lesson 1",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "We will watch a great movie tonight.",
+        "hebrew_spoken": "Nire seret nifla halaila.",
+        "hebrew_letters": "ראינו סרט נפלא אתמול בלילה.",
+        "lesson": "Lesson 1",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "She will love painting landscapes.",
+        "hebrew_spoken": "Hi te'ehav litzbo'a nofim.",
+        "hebrew_letters": "היא אוהבת לצבוע נופים.",
+        "lesson": "Lesson 1",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "He will go running every morning.",
+        "hebrew_spoken": "Hu yarutz kol boker.",
+        "hebrew_letters": "הוא רץ כל בוקר.",
+        "lesson": "Lesson 1",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "We will buy fresh vegetables at the market.",
+        "hebrew_spoken": "Nikneh yerakot triyot bashuk.",
+        "hebrew_letters": "קנינו ירקות טריים בשוק.",
+        "lesson": "Lesson 1",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "They will dance at the party all night.",
+        "hebrew_spoken": "Hem yirkedu bamesiba kol halaila.",
+        "hebrew_letters": "הם רקדו במסיבה כל הלילה.",
+        "lesson": "Lesson 2",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "She will make a delicious cake.",
+        "hebrew_spoken": "Hi ta'ase uga metuka.",
+        "hebrew_letters": "היא עשה עוגה מתוקה.",
+        "lesson": "Lesson 2",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "I will meet an old friend tomorrow.",
+        "hebrew_spoken": "Efgesh chaver yashan machar.",
+        "hebrew_letters": "פגשתי חבר ישן אתמול.",
+        "lesson": "Lesson 2",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "We will see a rainbow after the rain.",
+        "hebrew_spoken": "Nire keshet basof hagashem.",
+        "hebrew_letters": "ראינו קשת בסוף הגשם.",
+        "lesson": "Lesson 2",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "They will live in a small village.",
+        "hebrew_spoken": "Hem yaguru bekfar katan.",
+        "hebrew_letters": "הם גרים בכפר קטן.",
+        "lesson": "Lesson 2",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "She will play the piano beautifully.",
+        "hebrew_spoken": "Hi tinagen piano yafe me'od.",
+        "hebrew_letters": "היא מנגנת בפסנתר יפה מאוד.",
+        "lesson": "Lesson 2",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "I will need to buy a new phone.",
+        "hebrew_spoken": "Ani ihtzarich liknot telefon chadash.",
+        "hebrew_letters": "אני צריך לקנות טלפון חדש.",
+        "lesson": "Lesson 2",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "We will have a picnic in the park.",
+        "hebrew_spoken": "Na'ase piknik bagan.",
+        "hebrew_letters": "עשינו פיקניק בגן.",
+        "lesson": "Lesson 2",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "They will talk about their plans.",
+        "hebrew_spoken": "Hem yedabru al ha'tochniyot shelahem.",
+        "hebrew_letters": "הם מדברים על התוכניות שלהם.",
+        "lesson": "Lesson 2",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "The train will arrive at 5 o’clock.",
+        "hebrew_spoken": "Harakevet tagia besha'a hamesh.",
+        "hebrew_letters": "הרכבת מגיעה בשעה חמש.",
+        "lesson": "Lesson 2",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "She will wear a red dress.",
+        "hebrew_spoken": "Hi te'ehav leitzbo'a bezman hapnai shela.",
+        "hebrew_letters": "היא לובשת שמלה אדומה.",
+        "lesson": "Lesson 2",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "He will read the newspaper.",
+        "hebrew_spoken": "Nelech la'kolnoa be'yom shishi.",
+        "hebrew_letters": "הוא קורא את העיתון.",
+        "lesson": "Lesson 2",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "We will walk along the river.",
+        "hebrew_spoken": "Hu yehav lishmoa musika klasit.",
+        "hebrew_letters": "הלכנו לאורך הנהר.",
+        "lesson": "Lesson 2",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "They will travel to another country.",
+        "hebrew_spoken": "Hem yis'u le'Yisrael bakayitz haba.",
+        "hebrew_letters": "הם נסעו לארץ אחרת.",
+        "lesson": "Lesson 2",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "The baby will sleep peacefully.",
+        "hebrew_spoken": "Hakelev yinbach bachutz.",
+        "hebrew_letters": "התינוק ישן בשלווה.",
+        "lesson": "Lesson 2",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "She will bake fresh bread.",
+        "hebrew_spoken": "Ani atorer besha'a sheva.",
+        "hebrew_letters": "היא אופה לחם טרי.",
+        "lesson": "Lesson 2",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "We will learn Hebrew every day.",
+        "hebrew_spoken": "Hi tachin aruchat tzohorayim le'kulam.",
+        "hebrew_letters": "אנחנו לומדים עברית כל יום.",
+        "lesson": "Lesson 2",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "The flowers will bloom in spring.",
+        "hebrew_spoken": "Hem yachaku betahanat harakevet.",
+        "hebrew_letters": "הפרחים פורחים באביב.",
+        "lesson": "Lesson 2",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "He will have a meeting in the afternoon.",
+        "hebrew_spoken": "Hu yetaken et hakesa hashavur.",
+        "hebrew_letters": "הוא יש לו פגישה אחר הצהריים.",
+        "lesson": "Lesson 2",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "They will enjoy watching the sunset.",
+        "hebrew_spoken": "Nehav lehitayel bagan be'stav.",
+        "hebrew_letters": "הם נהנים מלראות את השקיעה.",
+        "lesson": "Lesson 2",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "I will like visiting museums.",
+        "hebrew_spoken": "Hi telamed anglit be'beit sefer.",
+        "hebrew_letters": "אני אוהב לבקר במוזיאונים.",
+        "lesson": "Lesson 3",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "She will help her younger brother with homework.",
+        "hebrew_spoken": "Hi telamed anglit be'beit sefer.",
+        "hebrew_letters": "היא עוזרת לאחיה הקטן בשיעורי בית.",
+        "lesson": "Lesson 3",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "We will play soccer in the evening.",
+        "hebrew_spoken": "Hu yirtze lilmod eich lirkod.",
+        "hebrew_letters": "שיחקנו כדורגל בערב.",
+        "lesson": "Lesson 3",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "The birds will sing in the morning.",
+        "hebrew_spoken": "Hayeladim yir'u kartoonim.",
+        "hebrew_letters": "הציפורים שרות בבוקר.",
+        "lesson": "Lesson 3",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "He will fix his bicycle.",
+        "hebrew_spoken": "Na'ase al ha'esh be'shabbat haba.",
+        "hebrew_letters": "הוא מתקן את האופניים שלו.",
+        "lesson": "Lesson 3",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "They will eat dinner at a restaurant.",
+        "hebrew_spoken": "Hi tishlach li gluya yafa.",
+        "hebrew_letters": "הם אכלו ארוחת ערב במסעדה.",
+        "lesson": "Lesson 3",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "I will wait for the bus.",
+        "hebrew_spoken": "Hu yilbash jaket kachol.",
+        "hebrew_letters": "אני מחכה לאוטובוס.",
+        "lesson": "Lesson 3",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "She will write a new story.",
+        "hebrew_spoken": "Hem yachogegu et hayom nesuim shelahem.",
+        "hebrew_letters": "היא כותבת סיפור חדש.",
+        "lesson": "Lesson 3",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "We will plan a trip to Jerusalem.",
+        "hebrew_spoken": "Ani elmad lenagen be'psanter.",
+        "hebrew_letters": "אנחנו מתכננים נסיעה לירושלים.",
+        "lesson": "Lesson 3",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "He will learn to play the guitar.",
+        "hebrew_spoken": "Hi tivaker et dodah bashavua haba.",
+        "hebrew_letters": "הוא לומד לנגן בגיטרה.",
+        "lesson": "Lesson 3",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "She will enjoy painting in her free time.",
+        "hebrew_spoken": "Nikneh sapa chadasha le'salon.",
+        "hebrew_letters": "היא נהנית לצבוע בזמן הפנאי שלה.",
+        "lesson": "Lesson 3",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "We will go to the cinema on Friday.",
+        "hebrew_spoken": "Hamelzar yavi lanu et hatafrit.",
+        "hebrew_letters": "אנחנו הולכים לקולנוע ביום שישי.",
+        "lesson": "Lesson 3",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "He will like listening to classical music.",
+        "hebrew_spoken": "Hu yechapes et hamaftehot shelo.",
+        "hebrew_letters": "הוא אוהב לשמוע מוזיקה קלאסית.",
+        "lesson": "Lesson 3",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "They will travel to Israel next summer.",
+        "hebrew_spoken": "Hi tedaber im hachavera shela batelefon.",
+        "hebrew_letters": "הם נסעו לישראל בקיץ שעבר.",
+        "lesson": "Lesson 3",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "The dog will bark outside.",
+        "hebrew_spoken": "Nekach monit lanamal teufa.",
+        "hebrew_letters": "הכלב נובח בחוץ.",
+        "lesson": "Lesson 3",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "I will wake up at 7 o'clock.",
+        "hebrew_spoken": "Hayeladim ye'ehavu lesachek im hats'uatam.",
+        "hebrew_letters": "אני מתעורר בשעה שבע בערב.",
+        "lesson": "Lesson 3",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "She will prepare lunch for everyone.",
+        "hebrew_spoken": "Hu yishte tei ba'erev.",
+        "hebrew_letters": "היא מכינה ארוחת צהריים לכולם.",
+        "lesson": "Lesson 3",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "They will wait at the train station.",
+        "hebrew_spoken": "Hem yivnu bayit chadash.",
+        "hebrew_letters": "הם מחכים בתחנת הרכבת.",
+        "lesson": "Lesson 3",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "He will fix the broken chair.",
+        "hebrew_spoken": "Nire delfinim bayam.",
+        "hebrew_letters": "הוא מתקן את הכסא השבור.",
+        "lesson": "Lesson 3",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "We will love walking in the park in autumn.",
+        "hebrew_spoken": "Hi ta'ase salat ta'im.",
+        "hebrew_letters": "אנחנו אוהבים לטייל בגן בסתיו.",
+        "lesson": "Lesson 3",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "She will teach English at a school.",
+        "hebrew_spoken": "Hu yirtze liknot mechonit chadasha.",
+        "hebrew_letters": "היא מלמדת אנגלית בבית ספר.",
+        "lesson": "Lesson 4",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "He will want to learn how to dance.",
+        "hebrew_spoken": "Hem yirkedu beyachad be'chatuna.",
+        "hebrew_letters": "הוא רוצה ללמוד איך לרקוד.",
+        "lesson": "Lesson 4",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "The kids will watch cartoons.",
+        "hebrew_spoken": "Hi tilmad ba'universita.",
+        "hebrew_letters": "הילדים רואים סרטים מצוירים.",
+        "lesson": "Lesson 4",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "We will have a barbecue next Saturday.",
+        "hebrew_spoken": "Nizmen malon la'chofesh shelanu.",
+        "hebrew_letters": "עשינו על האש בשבת שעברה.",
+        "lesson": "Lesson 4",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "She will send me a beautiful postcard.",
+        "hebrew_spoken": "Hu yinhag la'avoda.",
+        "hebrew_letters": "היא שלחה לי גלויה יפה.",
+        "lesson": "Lesson 4",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "He will wear a blue jacket.",
+        "hebrew_spoken": "Hi tid'ag la'achi hakatan.",
+        "hebrew_letters": "הוא לובש ז'קט כחול.",
+        "lesson": "Lesson 4",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "They will celebrate their anniversary.",
+        "hebrew_spoken": "Nochal glida be'chof.",
+        "hebrew_letters": "הם חוגגים את יום נישואיהם.",
+        "lesson": "Lesson 4",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "I will learn to play the piano.",
+        "hebrew_spoken": "Hem yachaku la'otobus.",
+        "hebrew_letters": "אני לומד לנגן בפסנתר.",
+        "lesson": "Lesson 4",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "She will visit her aunt next weekend.",
+        "hebrew_spoken": "Hi tichtev michtav lechavera shela.",
+        "hebrew_letters": "היא מבקרת את דודה שלה בשבוע הבא.",
+        "lesson": "Lesson 4",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "We will buy a new sofa for the living room.",
+        "hebrew_spoken": "Hu yenehene milirot sport.",
+        "hebrew_letters": "קנינו ספה חדשה לסלון.",
+        "lesson": "Lesson 4",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "The waiter will bring us the menu.",
+        "hebrew_spoken": "Nivleh et kol hayom be'gan hachayot.",
+        "hebrew_letters": "המלצר הביא לנו את התפריט.",
+        "lesson": "Lesson 4",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "He will look for his lost keys.",
+        "hebrew_spoken": "Hi ta'avod b'chanut sfarim.",
+        "hebrew_letters": "הוא מחפש את המפתחות שלו.",
+        "lesson": "Lesson 4",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "She will speak to her friend on the phone.",
+        "hebrew_spoken": "Hu yenake et hadira shelo.",
+        "hebrew_letters": "היא מדברת עם חברתה בטלפון.",
+        "lesson": "Lesson 4",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "We will take a taxi to the airport.",
+        "hebrew_spoken": "Hem yitzchaku al bidicha metzchika.",
+        "hebrew_letters": "לקחנו מונית לנמל תעופה.",
+        "lesson": "Lesson 4",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "The children will love playing with their toys.",
+        "hebrew_spoken": "Hi timtza klichat yam yafa.",
+        "hebrew_letters": "הילדים אוהבים לשחק עם הצעצועים שלהם.",
+        "lesson": "Lesson 4",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "He will drink tea in the evening.",
+        "hebrew_spoken": "Nelech la'shuk.",
+        "hebrew_letters": "הוא רוצה לשתות תה בערב.",
+        "lesson": "Lesson 4",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "They will build a new house.",
+        "hebrew_spoken": "Hu yenagen bagitar be'lahaka.",
+        "hebrew_letters": "הם בונים בית חדש.",
+        "lesson": "Lesson 4",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "We will see dolphins in the sea.",
+        "hebrew_spoken": "Hi titen lo matana yafa.",
+        "hebrew_letters": "ראינו דולפינים בים.",
+        "lesson": "Lesson 4",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "She will make a delicious salad.",
+        "hebrew_spoken": "Nilmad al historia.",
+        "hebrew_letters": "היא עשתה סלט טעים.",
+        "lesson": "Lesson 4",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "He will want to buy a new car.",
+        "hebrew_spoken": "Hu yirchatz et ha'mechonit shelo.",
+        "hebrew_letters": "הוא רוצה לקנות מכונית חדשה.",
+        "lesson": "Lesson 4",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "They will dance together at the wedding.",
+        "hebrew_spoken": "Hem yetaknu tochniot la'sof hashavua.",
+        "hebrew_letters": "הם רקדו יחד בחתונה.",
+        "lesson": "Lesson 5",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "She will study at the university.",
+        "hebrew_spoken": "Hi tilbash simla aduma.",
+        "hebrew_letters": "היא לומדת באוניברסיטה.",
+        "lesson": "Lesson 5",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "We will book a hotel for our vacation.",
+        "hebrew_spoken": "Hu yikra et haitaon.",
+        "hebrew_letters": "הזמנו מלון לחופשה שלנו.",
+        "lesson": "Lesson 5",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "He will drive to work.",
+        "hebrew_spoken": "Nelech le'orech hanahar.",
+        "hebrew_letters": "הוא נוהג לעבודה עכשיו.",
+        "lesson": "Lesson 5",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "She will take care of her little brother.",
+        "hebrew_spoken": "Hem yis'u la'aretz acheret.",
+        "hebrew_letters": "היא דואגת לאחיה הקטן.",
+        "lesson": "Lesson 5",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "We will eat ice cream at the beach.",
+        "hebrew_spoken": "Hatino yishan beshalva.",
+        "hebrew_letters": "אכלנו גלידה בחוף.",
+        "lesson": "Lesson 5",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "They will wait for the bus.",
+        "hebrew_spoken": "Hi tofeh lechem tari.",
+        "hebrew_letters": "הם מחכים לאוטובוס.",
+        "lesson": "Lesson 5",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "She will write a letter to her friend.",
+        "hebrew_spoken": "Anachnu nilmad ivrit kol yom.",
+        "hebrew_letters": "היא כותבת מכתב לחברתה.",
+        "lesson": "Lesson 5",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "He will enjoy watching sports.",
+        "hebrew_spoken": "Haperachim yifrech ba'aviv.",
+        "hebrew_letters": "הוא נהנה לראות ספורט.",
+        "lesson": "Lesson 5",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "We will spend the whole day at the zoo.",
+        "hebrew_spoken": "Hu yihyeh lo p'gisha ba'achar tzohorayim.",
+        "hebrew_letters": "בילינו את כל היום בגן החיות.",
+        "lesson": "Lesson 5",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "She will work in a bookstore.",
+        "hebrew_spoken": "Hem yenehu milirot et hashkiya.",
+        "hebrew_letters": "היא עובדת בחנות ספרים.",
+        "lesson": "Lesson 5",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "He will clean his apartment.",
+        "hebrew_spoken": "Ani eheye ohev levaker bamusim.",
+        "hebrew_letters": "הוא מנקה את הדירה שלו.",
+        "lesson": "Lesson 5",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "They will laugh at a funny joke.",
+        "hebrew_spoken": "Hi ta'azor la'achi hakatan be'shiurei bayit.",
+        "hebrew_letters": "הם צוחקים על בדיחה מצחיקה.",
+        "lesson": "Lesson 5",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "She will find a beautiful seashell.",
+        "hebrew_spoken": "Nisachek kaduregel ba'erev.",
+        "hebrew_letters": "היא מצאה קונכייה יפה.",
+        "lesson": "Lesson 5",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "We will go to the market.",
+        "hebrew_spoken": "Hatziporim yashiru baboker.",
+        "hebrew_letters": "אנחנו הולכים לשוק מחר.",
+        "lesson": "Lesson 5",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "He will play the guitar in a band.",
+        "hebrew_spoken": "Hu yetaken et ha'ofanaim shelo.",
+        "hebrew_letters": "הוא מנגן בגיטרה בלהקה.",
+        "lesson": "Lesson 5",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "She will give him a nice present.",
+        "hebrew_spoken": "Hem yochlu aruchat erev bemisada.",
+        "hebrew_letters": "היא נתנה לו מתנה יפה.",
+        "lesson": "Lesson 5",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "We will learn about history.",
+        "hebrew_spoken": "Ani achake le'otobus.",
+        "hebrew_letters": "אנחנו לומדים על היסטוריה.",
+        "lesson": "Lesson 5",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "He will wash his car.",
+        "hebrew_spoken": "Hi tichtev sipur chadash.",
+        "hebrew_letters": "הוא רוחץ את המכונית שלו.",
+        "lesson": "Lesson 5",
+        "tense": "Future Tense"
+    },
+    {
+        "english": "They will make plans for the weekend.",
+        "hebrew_spoken": "Anachnu netaken nesiyah le'Yerushalayim.",
+        "hebrew_letters": "הם מתכננים תוכניות לסוף השבוע.",
+        "lesson": "Lesson 5",
+        "tense": "Future Tense"
     }
 ]

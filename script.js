@@ -20,15 +20,15 @@ const state = {
   remainingIndices: [],
   showingFeedback: false,
   audioContext: null,
-  audioBuffers: {}, // Will store the three audio buffers
+  audioBuffers: {}, 
   currentChunkIndices: [],
   completedChunkIndices: new Set(),
   masterIndices: [],
   isMenuOpen: false,
-  currentLesson: 1, // Default to Lesson 1
-  soundTheme: "adjacent", // Default sound theme set to "adjacent"
-  allLessons: false, // Flag to indicate if all lessons are selected
-  colorTheme: "pastel", // Default color theme
+  currentLesson: 1, 
+  soundTheme: "adjacent",
+  allLessons: false, 
+  colorTheme: "pastel", 
 }
 
 // Update AUDIO_PATHS to be a function that returns paths based on the current theme

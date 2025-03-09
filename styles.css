@@ -395,6 +395,7 @@ footer {
 
   /* Make the show button more compact */
   #show-continue {
+    width: 100%;
     padding: 8px 16px; /* Reduced padding */
     font-size: 14px; /* Smaller font size */
   }
@@ -505,14 +506,19 @@ footer {
   }
 
   /* Make buttons smaller and more compact */
-  .direction-button,
   .action-button,
-  #menu-button,
-  #switch-direction {
+  .direction-button,
+  #menu-button {
     padding: 6px 10px;
     font-size: 14px;
     min-height: 32px;
     min-width: auto;
+  }
+  #switch-direction{
+    padding: 6px 10px;
+    font-size: 14px;
+    min-height: 32px;
+    min-width: 100%;
   }
 
   /* Optimize for small screens */
@@ -555,6 +561,14 @@ footer {
   .card-container {
     flex: 1;
     overflow: hidden;
+  }
+
+  #english-section,
+  #hebrew-section{
+    flex: 1;
+    height: auto;
+    min-height: 0;
+    max-height: none;
   }
 
   /* Compact footer */
