@@ -1,0 +1,602 @@
+[
+    {
+        "english": "I will love drinking coffee in the morning.",
+        "hebrew_spoken": "Ani ohev eshte kafe baboker.",
+        "hebrew_letters": "אני אוהב לשתות קפה בבוקר.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "She will read a book every night before bed.",
+        "hebrew_spoken": "Hi tikra sefer kol laila lifnei hamita.",
+        "hebrew_letters": "היא קוראת ספר כל לילה לפני המיטה.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "We will go to the beach next weekend.",
+        "hebrew_spoken": "Nelech la yam basof hashavua haba.",
+        "hebrew_letters": "הלכנו לים בסוף השבוע שעבר.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "They will study Hebrew together.",
+        "hebrew_spoken": "Hem yilmedu ivrit beyachad.",
+        "hebrew_letters": "הם לומדים עברית ביחד.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "He will like to cook Italian food.",
+        "hebrew_spoken": "Hu yehav levashel ochel italki.",
+        "hebrew_letters": "הוא אוהב לבשל אוכל איטלקי.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "The sun will shine brightly tomorrow.",
+        "hebrew_spoken": "Hashemesh tizrach machar.",
+        "hebrew_letters": "השמש זורחת ביום הזה.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "In summer I will like to swim in the river.",
+        "hebrew_spoken": "Bekayitz ani ohev eshte bamaim.",
+        "hebrew_letters": "בקיץ אני אוהב לשחות בנהר.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "She will listen to music while working.",
+        "hebrew_spoken": "Hi tishma musika bema she'hi ta'avod.",
+        "hebrew_letters": "היא שומעת מוזיקה בזמן שהיא עובדת.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "We will visit our grandparents next Sunday.",
+        "hebrew_spoken": "Nivaker et hasaba vehasavta beyom rishon haba.",
+        "hebrew_letters": "ביקרנו את הסבא והסבתא ביום ראשון שעבר.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "They will learn a new language.",
+        "hebrew_spoken": "Hem yilmedu safah chadasha.",
+        "hebrew_letters": "הם לומדים שפה חדשה.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "I will enjoy hiking in the mountains.",
+        "hebrew_spoken": "Ani eheye nehene lehitayel baharim.",
+        "hebrew_letters": "אני נהנה לטייל בהרים.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "The cat will sleep on the chair.",
+        "hebrew_spoken": "Hachatul yishan al hakesa.",
+        "hebrew_letters": "החתול ישן על הכסא.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "We will celebrate my birthday tomorrow.",
+        "hebrew_spoken": "Nachog et yom huladeti machar.",
+        "hebrew_letters": "חגגנו את יום הולדתי אתמול.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "She will work in a big company.",
+        "hebrew_spoken": "Hi ta'avod bechevrah gdolah.",
+        "hebrew_letters": "היא עובדת בחברה גדולה.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "He will write a letter to his friend.",
+        "hebrew_spoken": "Hu yichtev michtav lechaver shelo.",
+        "hebrew_letters": "הוא כותב מכתב לחבר שלו.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "The kids will play in the park.",
+        "hebrew_spoken": "Hayeladim yisachaku bagan.",
+        "hebrew_letters": "הילדים משחקים בגן.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "We will watch a great movie tonight.",
+        "hebrew_spoken": "Nire seret nifla halaila.",
+        "hebrew_letters": "ראינו סרט נפלא אתמול בלילה.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "She will love painting landscapes.",
+        "hebrew_spoken": "Hi te'ehav litzbo'a nofim.",
+        "hebrew_letters": "היא אוהבת לצבוע נופים.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "He will go running every morning.",
+        "hebrew_spoken": "Hu yarutz kol boker.",
+        "hebrew_letters": "הוא רץ כל בוקר.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "We will buy fresh vegetables at the market.",
+        "hebrew_spoken": "Nikneh yerakot triyot bashuk.",
+        "hebrew_letters": "קנינו ירקות טריים בשוק.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "They will dance at the party all night.",
+        "hebrew_spoken": "Hem yirkedu bamesiba kol halaila.",
+        "hebrew_letters": "הם רקדו במסיבה כל הלילה.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "She will make a delicious cake.",
+        "hebrew_spoken": "Hi ta'ase uga metuka.",
+        "hebrew_letters": "היא עשה עוגה מתוקה.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "I will meet an old friend tomorrow.",
+        "hebrew_spoken": "Efgesh chaver yashan machar.",
+        "hebrew_letters": "פגשתי חבר ישן אתמול.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "We will see a rainbow after the rain.",
+        "hebrew_spoken": "Nire keshet basof hagashem.",
+        "hebrew_letters": "ראינו קשת בסוף הגשם.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "They will live in a small village.",
+        "hebrew_spoken": "Hem yaguru bekfar katan.",
+        "hebrew_letters": "הם גרים בכפר קטן.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "She will play the piano beautifully.",
+        "hebrew_spoken": "Hi tinagen piano yafe me'od.",
+        "hebrew_letters": "היא מנגנת בפסנתר יפה מאוד.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "I will need to buy a new phone.",
+        "hebrew_spoken": "Ani ihtzarich liknot telefon chadash.",
+        "hebrew_letters": "אני צריך לקנות טלפון חדש.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "We will have a picnic in the park.",
+        "hebrew_spoken": "Na'ase piknik bagan.",
+        "hebrew_letters": "עשינו פיקניק בגן.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "They will talk about their plans.",
+        "hebrew_spoken": "Hem yedabru al ha'tochniyot shelahem.",
+        "hebrew_letters": "הם מדברים על התוכניות שלהם.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "The train will arrive at 5 o’clock.",
+        "hebrew_spoken": "Harakevet tagia besha'a hamesh.",
+        "hebrew_letters": "הרכבת מגיעה בשעה חמש.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "She will wear a red dress.",
+        "hebrew_spoken": "Hi te'ehav leitzbo'a bezman hapnai shela.",
+        "hebrew_letters": "היא לובשת שמלה אדומה.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "He will read the newspaper.",
+        "hebrew_spoken": "Nelech la'kolnoa be'yom shishi.",
+        "hebrew_letters": "הוא קורא את העיתון.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "We will walk along the river.",
+        "hebrew_spoken": "Hu yehav lishmoa musika klasit.",
+        "hebrew_letters": "הלכנו לאורך הנהר.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "They will travel to another country.",
+        "hebrew_spoken": "Hem yis'u le'Yisrael bakayitz haba.",
+        "hebrew_letters": "הם נסעו לארץ אחרת.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "The baby will sleep peacefully.",
+        "hebrew_spoken": "Hakelev yinbach bachutz.",
+        "hebrew_letters": "התינוק ישן בשלווה.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "She will bake fresh bread.",
+        "hebrew_spoken": "Ani atorer besha'a sheva.",
+        "hebrew_letters": "היא אופה לחם טרי.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "We will learn Hebrew every day.",
+        "hebrew_spoken": "Hi tachin aruchat tzohorayim le'kulam.",
+        "hebrew_letters": "אנחנו לומדים עברית כל יום.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "The flowers will bloom in spring.",
+        "hebrew_spoken": "Hem yachaku betahanat harakevet.",
+        "hebrew_letters": "הפרחים פורחים באביב.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "He will have a meeting in the afternoon.",
+        "hebrew_spoken": "Hu yetaken et hakesa hashavur.",
+        "hebrew_letters": "הוא יש לו פגישה אחר הצהריים.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "They will enjoy watching the sunset.",
+        "hebrew_spoken": "Nehav lehitayel bagan be'stav.",
+        "hebrew_letters": "הם נהנים מלראות את השקיעה.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "I will like visiting museums.",
+        "hebrew_spoken": "Hi telamed anglit be'beit sefer.",
+        "hebrew_letters": "אני אוהב לבקר במוזיאונים.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "She will help her younger brother with homework.",
+        "hebrew_spoken": "Hi telamed anglit be'beit sefer.",
+        "hebrew_letters": "היא עוזרת לאחיה הקטן בשיעורי בית.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "We will play soccer in the evening.",
+        "hebrew_spoken": "Hu yirtze lilmod eich lirkod.",
+        "hebrew_letters": "שיחקנו כדורגל בערב.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "The birds will sing in the morning.",
+        "hebrew_spoken": "Hayeladim yir'u kartoonim.",
+        "hebrew_letters": "הציפורים שרות בבוקר.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "He will fix his bicycle.",
+        "hebrew_spoken": "Na'ase al ha'esh be'shabbat haba.",
+        "hebrew_letters": "הוא מתקן את האופניים שלו.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "They will eat dinner at a restaurant.",
+        "hebrew_spoken": "Hi tishlach li gluya yafa.",
+        "hebrew_letters": "הם אכלו ארוחת ערב במסעדה.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "I will wait for the bus.",
+        "hebrew_spoken": "Hu yilbash jaket kachol.",
+        "hebrew_letters": "אני מחכה לאוטובוס.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "She will write a new story.",
+        "hebrew_spoken": "Hem yachogegu et hayom nesuim shelahem.",
+        "hebrew_letters": "היא כותבת סיפור חדש.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "We will plan a trip to Jerusalem.",
+        "hebrew_spoken": "Ani elmad lenagen be'psanter.",
+        "hebrew_letters": "אנחנו מתכננים נסיעה לירושלים.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "He will learn to play the guitar.",
+        "hebrew_spoken": "Hi tivaker et dodah bashavua haba.",
+        "hebrew_letters": "הוא לומד לנגן בגיטרה.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "She will enjoy painting in her free time.",
+        "hebrew_spoken": "Nikneh sapa chadasha le'salon.",
+        "hebrew_letters": "היא נהנית לצבוע בזמן הפנאי שלה.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "We will go to the cinema on Friday.",
+        "hebrew_spoken": "Hamelzar yavi lanu et hatafrit.",
+        "hebrew_letters": "אנחנו הולכים לקולנוע ביום שישי.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "He will like listening to classical music.",
+        "hebrew_spoken": "Hu yechapes et hamaftehot shelo.",
+        "hebrew_letters": "הוא אוהב לשמוע מוזיקה קלאסית.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "They will travel to Israel next summer.",
+        "hebrew_spoken": "Hi tedaber im hachavera shela batelefon.",
+        "hebrew_letters": "הם נסעו לישראל בקיץ שעבר.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "The dog will bark outside.",
+        "hebrew_spoken": "Nekach monit lanamal teufa.",
+        "hebrew_letters": "הכלב נובח בחוץ.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "I will wake up at 7 o'clock.",
+        "hebrew_spoken": "Hayeladim ye'ehavu lesachek im hats'uatam.",
+        "hebrew_letters": "אני מתעורר בשעה שבע בערב.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "She will prepare lunch for everyone.",
+        "hebrew_spoken": "Hu yishte tei ba'erev.",
+        "hebrew_letters": "היא מכינה ארוחת צהריים לכולם.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "They will wait at the train station.",
+        "hebrew_spoken": "Hem yivnu bayit chadash.",
+        "hebrew_letters": "הם מחכים בתחנת הרכבת.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "He will fix the broken chair.",
+        "hebrew_spoken": "Nire delfinim bayam.",
+        "hebrew_letters": "הוא מתקן את הכסא השבור.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "We will love walking in the park in autumn.",
+        "hebrew_spoken": "Hi ta'ase salat ta'im.",
+        "hebrew_letters": "אנחנו אוהבים לטייל בגן בסתיו.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "She will teach English at a school.",
+        "hebrew_spoken": "Hu yirtze liknot mechonit chadasha.",
+        "hebrew_letters": "היא מלמדת אנגלית בבית ספר.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "He will want to learn how to dance.",
+        "hebrew_spoken": "Hem yirkedu beyachad be'chatuna.",
+        "hebrew_letters": "הוא רוצה ללמוד איך לרקוד.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "The kids will watch cartoons.",
+        "hebrew_spoken": "Hi tilmad ba'universita.",
+        "hebrew_letters": "הילדים רואים סרטים מצוירים.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "We will have a barbecue next Saturday.",
+        "hebrew_spoken": "Nizmen malon la'chofesh shelanu.",
+        "hebrew_letters": "עשינו על האש בשבת שעברה.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "She will send me a beautiful postcard.",
+        "hebrew_spoken": "Hu yinhag la'avoda.",
+        "hebrew_letters": "היא שלחה לי גלויה יפה.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "He will wear a blue jacket.",
+        "hebrew_spoken": "Hi tid'ag la'achi hakatan.",
+        "hebrew_letters": "הוא לובש ז'קט כחול.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "They will celebrate their anniversary.",
+        "hebrew_spoken": "Nochal glida be'chof.",
+        "hebrew_letters": "הם חוגגים את יום נישואיהם.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "I will learn to play the piano.",
+        "hebrew_spoken": "Hem yachaku la'otobus.",
+        "hebrew_letters": "אני לומד לנגן בפסנתר.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "She will visit her aunt next weekend.",
+        "hebrew_spoken": "Hi tichtev michtav lechavera shela.",
+        "hebrew_letters": "היא מבקרת את דודה שלה בשבוע הבא.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "We will buy a new sofa for the living room.",
+        "hebrew_spoken": "Hu yenehene milirot sport.",
+        "hebrew_letters": "קנינו ספה חדשה לסלון.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "The waiter will bring us the menu.",
+        "hebrew_spoken": "Nivleh et kol hayom be'gan hachayot.",
+        "hebrew_letters": "המלצר הביא לנו את התפריט.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "He will look for his lost keys.",
+        "hebrew_spoken": "Hi ta'avod b'chanut sfarim.",
+        "hebrew_letters": "הוא מחפש את המפתחות שלו.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "She will speak to her friend on the phone.",
+        "hebrew_spoken": "Hu yenake et hadira shelo.",
+        "hebrew_letters": "היא מדברת עם חברתה בטלפון.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "We will take a taxi to the airport.",
+        "hebrew_spoken": "Hem yitzchaku al bidicha metzchika.",
+        "hebrew_letters": "לקחנו מונית לנמל תעופה.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "The children will love playing with their toys.",
+        "hebrew_spoken": "Hi timtza klichat yam yafa.",
+        "hebrew_letters": "הילדים אוהבים לשחק עם הצעצועים שלהם.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "He will drink tea in the evening.",
+        "hebrew_spoken": "Nelech la'shuk.",
+        "hebrew_letters": "הוא רוצה לשתות תה בערב.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "They will build a new house.",
+        "hebrew_spoken": "Hu yenagen bagitar be'lahaka.",
+        "hebrew_letters": "הם בונים בית חדש.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "We will see dolphins in the sea.",
+        "hebrew_spoken": "Hi titen lo matana yafa.",
+        "hebrew_letters": "ראינו דולפינים בים.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "She will make a delicious salad.",
+        "hebrew_spoken": "Nilmad al historia.",
+        "hebrew_letters": "היא עשתה סלט טעים.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "He will want to buy a new car.",
+        "hebrew_spoken": "Hu yirchatz et ha'mechonit shelo.",
+        "hebrew_letters": "הוא רוצה לקנות מכונית חדשה.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "They will dance together at the wedding.",
+        "hebrew_spoken": "Hem yetaknu tochniot la'sof hashavua.",
+        "hebrew_letters": "הם רקדו יחד בחתונה.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "She will study at the university.",
+        "hebrew_spoken": "Hi tilbash simla aduma.",
+        "hebrew_letters": "היא לומדת באוניברסיטה.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "We will book a hotel for our vacation.",
+        "hebrew_spoken": "Hu yikra et haitaon.",
+        "hebrew_letters": "הזמנו מלון לחופשה שלנו.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "He will drive to work.",
+        "hebrew_spoken": "Nelech le'orech hanahar.",
+        "hebrew_letters": "הוא נוהג לעבודה עכשיו.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "She will take care of her little brother.",
+        "hebrew_spoken": "Hem yis'u la'aretz acheret.",
+        "hebrew_letters": "היא דואגת לאחיה הקטן.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "We will eat ice cream at the beach.",
+        "hebrew_spoken": "Hatino yishan beshalva.",
+        "hebrew_letters": "אכלנו גלידה בחוף.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "They will wait for the bus.",
+        "hebrew_spoken": "Hi tofeh lechem tari.",
+        "hebrew_letters": "הם מחכים לאוטובוס.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "She will write a letter to her friend.",
+        "hebrew_spoken": "Anachnu nilmad ivrit kol yom.",
+        "hebrew_letters": "היא כותבת מכתב לחברתה.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "He will enjoy watching sports.",
+        "hebrew_spoken": "Haperachim yifrech ba'aviv.",
+        "hebrew_letters": "הוא נהנה לראות ספורט.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "We will spend the whole day at the zoo.",
+        "hebrew_spoken": "Hu yihyeh lo p'gisha ba'achar tzohorayim.",
+        "hebrew_letters": "בילינו את כל היום בגן החיות.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "She will work in a bookstore.",
+        "hebrew_spoken": "Hem yenehu milirot et hashkiya.",
+        "hebrew_letters": "היא עובדת בחנות ספרים.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "He will clean his apartment.",
+        "hebrew_spoken": "Ani eheye ohev levaker bamusim.",
+        "hebrew_letters": "הוא מנקה את הדירה שלו.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "They will laugh at a funny joke.",
+        "hebrew_spoken": "Hi ta'azor la'achi hakatan be'shiurei bayit.",
+        "hebrew_letters": "הם צוחקים על בדיחה מצחיקה.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "She will find a beautiful seashell.",
+        "hebrew_spoken": "Nisachek kaduregel ba'erev.",
+        "hebrew_letters": "היא מצאה קונכייה יפה.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "We will go to the market.",
+        "hebrew_spoken": "Hatziporim yashiru baboker.",
+        "hebrew_letters": "אנחנו הולכים לשוק מחר.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "He will play the guitar in a band.",
+        "hebrew_spoken": "Hu yetaken et ha'ofanaim shelo.",
+        "hebrew_letters": "הוא מנגן בגיטרה בלהקה.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "She will give him a nice present.",
+        "hebrew_spoken": "Hem yochlu aruchat erev bemisada.",
+        "hebrew_letters": "היא נתנה לו מתנה יפה.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "We will learn about history.",
+        "hebrew_spoken": "Ani achake le'otobus.",
+        "hebrew_letters": "אנחנו לומדים על היסטוריה.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "He will wash his car.",
+        "hebrew_spoken": "Hi tichtev sipur chadash.",
+        "hebrew_letters": "הוא רוחץ את המכונית שלו.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "They will make plans for the weekend.",
+        "hebrew_spoken": "Anachnu netaken nesiyah le'Yerushalayim.",
+        "hebrew_letters": "הם מתכננים תוכניות לסוף השבוע.",
+        "lesson": "Lesson 5"
+    }
+]

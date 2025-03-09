@@ -1,0 +1,602 @@
+[
+    {
+        "english": "I love drinking coffee in the morning.",
+        "hebrew_spoken": "Ani ohev lishtot kafe baboker.",
+        "hebrew_letters": "אני אוהב לשתות קפה בבוקר.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "She reads a book every night before bed.",
+        "hebrew_spoken": "Hi korat sefer kol laila lifnei hamita.",
+        "hebrew_letters": "היא קוראת ספר כל לילה לפני המיטה.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "We go to the beach on weekends.",
+        "hebrew_spoken": "Anachnu holchim la yam besof hashavua.",
+        "hebrew_letters": "אנחנו הולכים לים בסוף השבוע.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "They are studying Hebrew together.",
+        "hebrew_spoken": "Hem lomdim ivrit beyachad.",
+        "hebrew_letters": "הם לומדים עברית ביחד.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "He likes to cook Italian food.",
+        "hebrew_spoken": "Hu ohev levashel ochel italki.",
+        "hebrew_letters": "הוא אוהב לבשל אוכל איטלקי.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "The sun is shining brightly today.",
+        "hebrew_spoken": "Hashemesh zorachat beyom hazeh.",
+        "hebrew_letters": "השמש זורחת ביום הזה.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "In summer I like to swim in the river.",
+        "hebrew_spoken": "Bekayitz ani ohev lishtot bamaim.",
+        "hebrew_letters": "בקיץ אני אוהב לשחות בנהר.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "She is listening to music while working.",
+        "hebrew_spoken": "Hi shoma'at musika bema she'hi ovedet.",
+        "hebrew_letters": "היא שומעת מוזיקה בזמן שהיא עובדת.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "We visit our grandparents on Sundays.",
+        "hebrew_spoken": "Anachnu mevakrim et hasaba vehasavta beyom rishon.",
+        "hebrew_letters": "אנחנו מבקרים את הסבא והסבתא ביום ראשון.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "They are learning a new language.",
+        "hebrew_spoken": "Hem lomdim safah chadasha.",
+        "hebrew_letters": "הם לומדים שפה חדשה.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "I enjoy hiking in the mountains.",
+        "hebrew_spoken": "Ani nehene lehitayel baharim.",
+        "hebrew_letters": "אני נהנה לטייל בהרים.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "The cat is sleeping on the chair.",
+        "hebrew_spoken": "Hachatul yashen al hakesa.",
+        "hebrew_letters": "החתול ישן על הכסא.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "We celebrate my birthday every year.",
+        "hebrew_spoken": "Anachnu chogegim et yom huladeti kol shana.",
+        "hebrew_letters": "אנחנו חוגגים את יום הולדתי כל שנה.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "She works in a big company.",
+        "hebrew_spoken": "Hi ovedet bechevrah gdolah.",
+        "hebrew_letters": "היא עובדת בחברה גדולה.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "He is writing a letter to his friend.",
+        "hebrew_spoken": "Hu kotev michtav lechaver shelo.",
+        "hebrew_letters": "הוא כותב מכתב לחבר שלו.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "The kids are playing in the park.",
+        "hebrew_spoken": "Hayeladim misachakim bagan.",
+        "hebrew_letters": "הילדים משחקים בגן.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "We watch great movies every weekend.",
+        "hebrew_spoken": "Anachnu ro'im seret nifla kol shavua.",
+        "hebrew_letters": "אנחנו רואים סרט נפלא כל שבוע.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "She loves painting landscapes.",
+        "hebrew_spoken": "Hi ohevet litzbo'a nofim.",
+        "hebrew_letters": "היא אוהבת לצבוע נופים.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "He goes running every morning.",
+        "hebrew_spoken": "Hu rat kol boker.",
+        "hebrew_letters": "הוא רץ כל בוקר.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "We bought fresh vegetables at the market.",
+        "hebrew_spoken": "Kaninu yerakot triyot bashuk.",
+        "hebrew_letters": "קנינו ירקות טריים בשוק.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "They danced at the party all night.",
+        "hebrew_spoken": "Hem rakdu bamesiba kol halaila.",
+        "hebrew_letters": "הם רקדו במסיבה כל הלילה.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "She is making a delicious cake.",
+        "hebrew_spoken": "Hi osah uga metuka.",
+        "hebrew_letters": "היא עושה עוגה מתוקה.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "I meet my old friend every month.",
+        "hebrew_spoken": "Ani pogesh chaver yashan kol chodesh.",
+        "hebrew_letters": "אני פוגש חבר ישן כל חודש.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "We saw a rainbow after the rain.",
+        "hebrew_spoken": "Rainninu keshet basof hagashem.",
+        "hebrew_letters": "ראינו קשת בסוף הגשם.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "They live in a small village.",
+        "hebrew_spoken": "Hem garim bekfar katan.",
+        "hebrew_letters": "הם גרים בכפר קטן.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "She plays the piano beautifully.",
+        "hebrew_spoken": "Hi menagenet piano yafe me'od.",
+        "hebrew_letters": "היא מנגנת בפסנתר יפה מאוד.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "I need to buy a new phone.",
+        "hebrew_spoken": "Ani tzarich liknot telefon chadash.",
+        "hebrew_letters": "אני צריך לקנות טלפון חדש.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "We have picnics in the park.",
+        "hebrew_spoken": "Anachnu osim piknik bagan.",
+        "hebrew_letters": "אנחנו עושים פיקניק בגן.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "They are talking about their plans.",
+        "hebrew_spoken": "Hem medabrim al ha'tochniyot shelahem.",
+        "hebrew_letters": "הם מדברים על התוכניות שלהם.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "The train arrives at 5 o’clock.",
+        "hebrew_spoken": "Harakevet magia besha'a hamesh.",
+        "hebrew_letters": "הרכבת מגיעה בשעה חמש.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "She is wearing a red dress.",
+        "hebrew_spoken": "Hi loveshet simla aduma.",
+        "hebrew_letters": "היא לובשת שמלה אדומה.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "He is reading the newspaper.",
+        "hebrew_spoken": "Hu kore et haitaon.",
+        "hebrew_letters": "הוא קורא את העיתון.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "We walk along the river.",
+        "hebrew_spoken": "Anachnu holchim le'orech hanahar.",
+        "hebrew_letters": "אנחנו הולכים לאורך הנהר.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "They travel to different countries.",
+        "hebrew_spoken": "Hem nosim la'aratzot shonot.",
+        "hebrew_letters": "הם נוסעים לארצות שונות.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "The baby is sleeping peacefully.",
+        "hebrew_spoken": "Hatino yashen beshalva.",
+        "hebrew_letters": "התינוק ישן בשלווה.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "She is baking fresh bread.",
+        "hebrew_spoken": "Hi ofah lechem tari.",
+        "hebrew_letters": "היא אופה לחם טרי.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "We are learning Hebrew every day.",
+        "hebrew_spoken": "Anachnu lomdim ivrit kol yom.",
+        "hebrew_letters": "אנחנו לומדים עברית כל יום.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "The flowers are blooming in spring.",
+        "hebrew_spoken": "Haperachim porechim ba'aviv.",
+        "hebrew_letters": "הפרחים פורחים באביב.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "He has a meeting in the afternoon.",
+        "hebrew_spoken": "Hu yesh lo p'gisha ba'achar tzohorayim.",
+        "hebrew_letters": "הוא יש לו פגישה אחר הצהריים.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "They enjoy watching the sunset.",
+        "hebrew_spoken": "Hem nehene'im milihiyot et hashkiya.",
+        "hebrew_letters": "הם נהנים מלראות את השקיעה.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "I like visiting museums.",
+        "hebrew_spoken": "Ani ohev levaker bamusim.",
+        "hebrew_letters": "אני אוהב לבקר במוזיאונים.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "She helps her younger brother with homework.",
+        "hebrew_spoken": "Hi ozeret la'achi hakatan be'shiurei bayit.",
+        "hebrew_letters": "היא עוזרת לאחיה הקטן בשיעורי בית.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "We played soccer in the evening.",
+        "hebrew_spoken": "Sichaknu kaduregel ba'erev.",
+        "hebrew_letters": "שיחקנו כדורגל בערב.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "The birds are singing in the morning.",
+        "hebrew_spoken": "Hatziporim sharot baboker.",
+        "hebrew_letters": "הציפורים שרות בבוקר.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "He is fixing his bicycle.",
+        "hebrew_spoken": "Hu metaken et ha'ofanaim shelo.",
+        "hebrew_letters": "הוא מתקן את האופניים שלו.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "They ate dinner at a restaurant.",
+        "hebrew_spoken": "Hem achlu aruchat erev bemisada.",
+        "hebrew_letters": "הם אכלו ארוחת ערב במסעדה.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "I am waiting for the bus.",
+        "hebrew_spoken": "Ani mechak le'otobus.",
+        "hebrew_letters": "אני מחכה לאוטובוס.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "She is writing a new story.",
+        "hebrew_spoken": "Hi kotevet sipur chadash.",
+        "hebrew_letters": "היא כותבת סיפור חדש.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "We are planning a trip to Jerusalem.",
+        "hebrew_spoken": "Anachnu mitaknim nesiyah le'Yerushalayim.",
+        "hebrew_letters": "אנחנו מתכננים נסיעה לירושלים.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "He is learning to play the guitar.",
+        "hebrew_spoken": "Hu lomed lenagen bagitar.",
+        "hebrew_letters": "הוא לומד לנגן בגיטרה.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "She enjoys painting in her free time.",
+        "hebrew_spoken": "Hi nehene leitzbo'a bezman hapnai shela.",
+        "hebrew_letters": "היא נהנית לצבוע בזמן הפנאי שלה.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "We often go to the cinema on Fridays.",
+        "hebrew_spoken": "Anachnu holechim la'kolnoa be'yom shishi.",
+        "hebrew_letters": "אנחנו הולכים לקולנוע ביום שישי.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "He likes listening to classical music.",
+        "hebrew_spoken": "Hu ohev lishmoa musika klasit.",
+        "hebrew_letters": "הוא אוהב לשמוע מוזיקה קלאסית.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "They traveled to Israel last summer.",
+        "hebrew_spoken": "Hem nasu le'Yisrael bakayitz sheavar.",
+        "hebrew_letters": "הם נסעו לישראל בקיץ שעבר.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "The dog is barking outside.",
+        "hebrew_spoken": "Hakelev novach bachutz.",
+        "hebrew_letters": "הכלב נובח בחוץ.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "I usually wake up at 7 o'clock.",
+        "hebrew_spoken": "Ani mitoreh be'sha'a sheva be'erev.",
+        "hebrew_letters": "אני מתעורר בשעה שבע בערב.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "She is preparing lunch for everyone.",
+        "hebrew_spoken": "Hi mechinah aruchat tzohorayim le'kulam.",
+        "hebrew_letters": "היא מכינה ארוחת צהריים לכולם.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "They are waiting at the train station.",
+        "hebrew_spoken": "Hem mechakim betahanat harakevet.",
+        "hebrew_letters": "הם מחכים בתחנת הרכבת.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "He is fixing the broken chair.",
+        "hebrew_spoken": "Hu metaken et hakesa hashavur.",
+        "hebrew_letters": "הוא מתקן את הכסא השבור.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "We love walking in the park in autumn.",
+        "hebrew_spoken": "Anachnu ohevim lehitayel bagan be'stav.",
+        "hebrew_letters": "אנחנו אוהבים לטייל בגן בסתיו.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "She teaches English at a school.",
+        "hebrew_spoken": "Hi melamedet anglit be'beit sefer.",
+        "hebrew_letters": "היא מלמדת אנגלית בבית ספר.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "He wants to learn how to dance.",
+        "hebrew_spoken": "Hu rotze lilmod eich lirkod.",
+        "hebrew_letters": "הוא רוצה ללמוד איך לרקוד.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "The kids are watching cartoons.",
+        "hebrew_spoken": "Hayeladim ro'im kartoonim.",
+        "hebrew_letters": "הילדים רואים סרטים מצוירים.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "We had a barbecue last Saturday.",
+        "hebrew_spoken": "Asinu al ha'esh be'shabbat she'avar.",
+        "hebrew_letters": "עשינו על האש בשבת שעברה.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "She sent me a beautiful postcard.",
+        "hebrew_spoken": "Hi shalcha li gluya yafa.",
+        "hebrew_letters": "היא שלחה לי גלויה יפה.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "He is wearing a blue jacket.",
+        "hebrew_spoken": "Hu loves jaket kachol.",
+        "hebrew_letters": "הוא לובש ז'קט כחול.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "They are celebrating their anniversary.",
+        "hebrew_spoken": "Hem chogegim et hayom nesuim shelahem.",
+        "hebrew_letters": "הם חוגגים את יום נישואיהם.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "I am learning to play the piano.",
+        "hebrew_spoken": "Ani lomed lenagen be'psanter.",
+        "hebrew_letters": "אני לומד לנגן בפסנתר.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "She is visiting her aunt this weekend.",
+        "hebrew_spoken": "Hi mevakeret et dodah bashavua habah.",
+        "hebrew_letters": "היא מבקרת את דודה שלה בשבוע הבא.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "We bought a new sofa for the living room.",
+        "hebrew_spoken": "Kaninu sapa chadasha le'salon.",
+        "hebrew_letters": "קנינו ספה חדשה לסלון.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "The waiter brought us the menu.",
+        "hebrew_spoken": "Hamelzar hevi lanu et hatafrit.",
+        "hebrew_letters": "המלצר הביא לנו את התפריט.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "He is looking for his lost keys.",
+        "hebrew_spoken": "Hu mechapes et hamaftehot shelo.",
+        "hebrew_letters": "הוא מחפש את המפתחות שלו.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "She is speaking to her friend on the phone.",
+        "hebrew_spoken": "Hi medaberet im hachavera shela batelefon.",
+        "hebrew_letters": "היא מדברת עם חברתה בטלפון.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "We took a taxi to the airport.",
+        "hebrew_spoken": "Lakachnu monit lanamal teufa.",
+        "hebrew_letters": "לקחנו מונית לנמל תעופה.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "The children love playing with their toys.",
+        "hebrew_spoken": "Hayeladim ohevim lesachek im hats'uatam.",
+        "hebrew_letters": "הילדים אוהבים לשחק עם הצעצועים שלהם.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "He usually drinks tea in the evening.",
+        "hebrew_spoken": "Hu rotze lishtot tei ba'erev.",
+        "hebrew_letters": "הוא רוצה לשתות תה בערב.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "They are building a new house.",
+        "hebrew_spoken": "Hem bonim bayit chadash.",
+        "hebrew_letters": "הם בונים בית חדש.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "We saw dolphins in the sea.",
+        "hebrew_spoken": "Ra'inu delfinim bayam.",
+        "hebrew_letters": "ראינו דולפינים בים.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "She made a delicious salad.",
+        "hebrew_spoken": "Hi aseta salat ta'im.",
+        "hebrew_letters": "היא עשתה סלט טעים.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "He wants to buy a new car.",
+        "hebrew_spoken": "Hu rotze liknot mechonit chadasha.",
+        "hebrew_letters": "הוא רוצה לקנות מכונית חדשה.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "They danced together at the wedding.",
+        "hebrew_spoken": "Hem rakdu beyachad be'chatuna.",
+        "hebrew_letters": "הם רקדו יחד בחתונה.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "She is studying at the university.",
+        "hebrew_spoken": "Hi lomedet ba'universita.",
+        "hebrew_letters": "היא לומדת באוניברסיטה.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "We booked a hotel for our vacation.",
+        "hebrew_spoken": "Hazmanu malon la'chofesh shelanu.",
+        "hebrew_letters": "הזמנו מלון לחופשה שלנו.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "He is driving to work now.",
+        "hebrew_spoken": "Hu noheg la'avoda achshav.",
+        "hebrew_letters": "הוא נוהג לעבודה עכשיו.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "She takes care of her little brother.",
+        "hebrew_spoken": "Hi do'eged la'achi hakatan.",
+        "hebrew_letters": "היא דואגת לאחיה הקטן.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "We ate ice cream at the beach.",
+        "hebrew_spoken": "Achalnu glida be'chof.",
+        "hebrew_letters": "אכלנו גלידה בחוף.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "They are waiting for the bus.",
+        "hebrew_spoken": "Hem mechakim la'otobus.",
+        "hebrew_letters": "הם מחכים לאוטובוס.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "She is writing a letter to her friend.",
+        "hebrew_spoken": "Hi kotevet michtav lechavera shela.",
+        "hebrew_letters": "היא כותבת מכתב לחברתה.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "He enjoys watching sports.",
+        "hebrew_spoken": "Hu nehene milirot sport.",
+        "hebrew_letters": "הוא נהנה לראות ספורט.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "We spent the whole day at the zoo.",
+        "hebrew_spoken": "Bilinu et kol hayom be'gan hachayot.",
+        "hebrew_letters": "בילינו את כל היום בגן החיות.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "She works in a bookstore.",
+        "hebrew_spoken": "Hi ovedet b'chanut sfarim.",
+        "hebrew_letters": "היא עובדת בחנות ספרים.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "He is cleaning his apartment.",
+        "hebrew_spoken": "Hu menake et hadira shelo.",
+        "hebrew_letters": "הוא מנקה את הדירה שלו.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "They are laughing at a funny joke.",
+        "hebrew_spoken": "Hem tzochakim al bidicha metzchika.",
+        "hebrew_letters": "הם צוחקים על בדיחה מצחיקה.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "She found a beautiful seashell.",
+        "hebrew_spoken": "Hi matza'a klichat yam yafa.",
+        "hebrew_letters": "היא מצאה קונכייה יפה.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "We are going to the market tomorrow.",
+        "hebrew_spoken": "Anachnu holchim la'shuk machar.",
+        "hebrew_letters": "אנחנו הולכים לשוק מחר.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "He plays the guitar in a band.",
+        "hebrew_spoken": "Hu menagen bagitar be'lahaka.",
+        "hebrew_letters": "הוא מנגן בגיטרה בלהקה.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "She gave him a nice present.",
+        "hebrew_spoken": "Hi natna lo matana yafa.",
+        "hebrew_letters": "היא נתנה לו מתנה יפה.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "We are learning about history.",
+        "hebrew_spoken": "Anachnu lomdim al historia.",
+        "hebrew_letters": "אנחנו לומדים על היסטוריה.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "He is washing his car.",
+        "hebrew_spoken": "Hu rochetz et ha'mechonit shelo.",
+        "hebrew_letters": "הוא רוחץ את המכונית שלו.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "They are making plans for the weekend.",
+        "hebrew_spoken": "Hem metaknim tochniot la'sof hashavua.",
+        "hebrew_letters": "הם מתכננים תוכניות לסוף השבוע.",
+        "lesson": "Lesson 5"
+    }
+]

@@ -8,7 +8,7 @@ const AUDIO_PATHS = {
 
 // Update the state object to include an allLessons flag
 const state = {
-  currentCategory: "sentences",
+  currentCategory: "sentences_present",
   chunkSize: 10,
   data: [],
   filteredData: [], // Data filtered by current lesson
@@ -61,10 +61,14 @@ const createMenuGrid = () => {
     menuCategorySelect.className = "glass-select menu-select"
 
     const categories = [
-      { value: "sentences", text: "Sentences" },
+      { value: "sentences_present", text: "Sentences (Present Tense)" },
+      { value: "sentences_past", text: "Sentences (Past Tense)" },
+      { value: "sentences_future", text: "Sentences (Future Tense)" },
       { value: "verbs", text: "Verbs" },
       { value: "nouns", text: "Nouns" },
       { value: "adjectives", text: "Adjectives" },
+      { value: "grammar", text: "Grammar" },
+      { value: "basics", text: "Basics" },
     ]
 
     categories.forEach((category) => {
@@ -260,8 +264,8 @@ const createMenuGrid = () => {
           quaternary: "#D9A566", // Lighter orange-brown for buttons
           quinary: "#7BA05B",
           background: "#4A3B2F", // Dark brown for page background
-          orange: "#D35400",
-          green: "#217D7A",
+          orange: "#EE7674",
+          green: "#84894A",
         },
       },
     ]
@@ -614,8 +618,8 @@ const updateUI = () => {
   const hebrewCard = document.getElementById("hebrew-section")
 
   if (state.colorTheme === "thompson") {
-    if (englishCard) englishCard.style.backgroundColor = "#F2E8DC"
-    if (hebrewCard) hebrewCard.style.backgroundColor = "#E8F4D9"
+    if (englishCard) englishCard.style.backgroundColor = "#75B9BE"
+    if (hebrewCard) hebrewCard.style.backgroundColor = "#987284"
   } else {
     if (englishCard) englishCard.style.backgroundColor = "#D3D4D3"
     if (hebrewCard) hebrewCard.style.backgroundColor = "#F0FFF9"
@@ -663,8 +667,8 @@ const updateColorTheme = (themeName) => {
         quaternary: "#D9A566", // Lighter orange-brown for buttons
         quinary: "#7BA05B",
         background: "#BCC4DB", // Dark brown for page background
-        orange: "#D35400",
-        green: "#217D7A",
+        orange: "#EE7674",
+        green: "#84894A",
       },
     },
   ]
@@ -683,16 +687,16 @@ const updateColorTheme = (themeName) => {
   // Add special handling for card colors in Thompson theme
   if (themeName === "thompson") {
     // Set CSS variables
-    root.style.setProperty("--english-card-color", "#F2E8DC") // Light beige for English card
-    root.style.setProperty("--hebrew-card-color", "#E8F4D9") // Light green for Hebrew card
+    root.style.setProperty("--english-card-color", "#75B9BE") // Light beige for English card
+    root.style.setProperty("--hebrew-card-color", "#987284") // Light green for Hebrew card
 
     // Apply styles directly to the elements
     if (englishCard) {
-      englishCard.style.backgroundColor = "#F2E8DC"
+      // englishCard.style.backgroundColor = "#F2E8DC"
       englishCard.setAttribute("data-theme", "thompson")
     }
     if (hebrewCard) {
-      hebrewCard.style.backgroundColor = "#E8F4D9"
+      // hebrewCard.style.backgroundColor = "#E8F4D9"
       hebrewCard.setAttribute("data-theme", "thompson")
     }
 
@@ -731,8 +735,8 @@ document.addEventListener("DOMContentLoaded", async () => {
   const hebrewCard = document.getElementById("hebrew-section")
 
   if (state.colorTheme === "thompson") {
-    if (englishCard) englishCard.style.backgroundColor = "#F2E8DC"
-    if (hebrewCard) hebrewCard.style.backgroundColor = "#E8F4D9"
+    if (englishCard) englishCard.style.backgroundColor = "#75B9BE"
+    if (hebrewCard) hebrewCard.style.backgroundColor = "#987284"
   } else {
     if (englishCard) englishCard.style.backgroundColor = "#D3D4D3"
     if (hebrewCard) hebrewCard.style.backgroundColor = "#F0FFF9"
@@ -881,8 +885,8 @@ document.addEventListener("DOMContentLoaded", async () => {
 
   const categorySelect = document.getElementById("category-select")
   if (categorySelect) {
-    categorySelect.value = "sentences"
-    state.currentCategory = "sentences"
+    categorySelect.value = "sentences_present"
+    state.currentCategory = "sentences_present"
     // Hide the category select initially
     categorySelect.style.display = "none"
   }
@@ -1038,7 +1042,17 @@ const showEnglish = () => {
 
 const formatHebrewContent = (entry) => {
   const templates = {
-    sentences: () => `
+    sentences_present: () => `
+            <div class="hebrew-text">
+                <p class="spoken">${entry.hebrew_spoken}</p>
+                <p class="letters">${entry.hebrew_letters}</p>
+            </div>`,
+    sentences_past: () => `
+            <div class="hebrew-text">
+                <p class="spoken">${entry.hebrew_spoken}</p>
+                <p class="letters">${entry.hebrew_letters}</p>
+            </div>`,
+    sentences_future: () => `
             <div class="hebrew-text">
                 <p class="spoken">${entry.hebrew_spoken}</p>
                 <p class="letters">${entry.hebrew_letters}</p>
@@ -1085,6 +1099,28 @@ const formatHebrewContent = (entry) => {
                     <span class="label">Female:</span>
                     <span class="spoken">${entry.hebrew_spoken_female}</span>
                     <span class="letters">(${entry.hebrew_letters_female})
+                </div>
+            </div>`,
+    grammar: () => `
+            <div class="hebrew-text">
+                <div class="form-group">
+                    <span class="label">Hebrew Spoken:</span>
+                    <span class="spoken">${entry.hebrew_spoken}</span>
+                </div>
+                <div class="form-group">
+                    <span class="label">Hebrew Letters:</span>
+                    <span class="letters">(${entry.hebrew_letters})</span>
+                </div>
+            </div>`,
+    basics: () => `
+            <div class="hebrew-text">
+                <div class="form-group">
+                    <span class="label">Hebrew Spoken:</span>
+                    <span class="spoken">${entry.hebrew_spoken}</span>
+                </div>
+                <div class="form-group">
+                    <span class="label">Hebrew Letters:</span>
+                    <span class="letters">(${entry.hebrew_letters})</span>
                 </div>
             </div>`,
   }
