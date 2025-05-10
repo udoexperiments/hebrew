@@ -1,0 +1,191 @@
+/* css/themes.css - Theme definitions */
+
+/* Default theme (Pastel) */
+:root {
+  /* Colors */
+  --color-primary: #816450;
+  --color-secondary: #d9dcbb;
+  --color-tertiary: #e1ded9;
+  --color-quaternary: #b6a69a;
+  --color-quinary: #d3a6b9;
+  --background-color: #e2c4c4;
+  --color-orange: #C16E70;
+  --color-green: #C8D6AF;
+  --english-card-color: #D3D4D3;
+  --hebrew-card-color: #F0FFF9;
+  
+  /* Spacing and sizing */
+  --spacing-standard: 16px;
+  --section-height: 300px;
+  
+  /* Animation */
+  --transition-duration: 0.3s;
+}
+
+/* Thompson Theme */
+[data-theme="thompson"] {
+  --color-primary: #4A3B2F;
+  --color-secondary: #F4D03F;
+  --color-tertiary: #E9DAC1;
+  --color-quaternary: #D9A566;
+  --color-quinary: #7BA05B;
+  --background-color: #BCC4DB;
+  --color-orange: #EE7674;
+  --color-green: #84894A;
+  --english-card-color: #75B9BE;
+  --hebrew-card-color: #987284;
+}
+
+/* Lines Theme */
+[data-theme="lines"] {
+  --color-primary: #1b4b8f;
+  --color-secondary: #ffffff;
+  --color-tertiary: #ffffff;
+  --color-quaternary: #1b4b8f;
+  --background-color: #ffffff;
+  --english-card-color: #ffffff;
+  --hebrew-card-color: #ffffff;
+}
+
+/* Modern Tech Theme */
+[data-theme="moderntech"] {
+  --color-primary: #0ea5e9;      /* Sky blue for primary */
+  --color-secondary: #8b5cf6;    /* Purple for secondary */
+  --color-tertiary: #1f2937;     /* Gray-900 for tertiary */
+  --color-quaternary: #374151;   /* Gray-700 for buttons */
+  --color-quinary: #f59e0b;      /* Amber for accent */
+  --background-color: #111827;   /* Gray-900 background */
+  --color-orange: #ef4444;       /* Red for mistakes */
+  --color-green: #22c55e;        /* Green for correct */
+  --english-card-color: #1f2937; /* Dark cards */
+  --hebrew-card-color: #1f2937;  /* Dark cards */
+}
+
+/* Modern Tech theme specific styles */
+[data-theme="moderntech"] body {
+  color: #f3f4f6; /* Gray-100 text */
+}
+
+[data-theme="moderntech"] .menu-label,
+[data-theme="moderntech"] #progress-display {
+  color: #f9fafb; /* Gray-50 */
+}
+
+[data-theme="moderntech"] .content-area {
+  color: #f9fafb; /* White text in cards */
+}
+
+[data-theme="moderntech"] .button-text {
+  color: #f9fafb; /* White button text */
+}
+
+[data-theme="moderntech"] .glass-select {
+  background: #1f2937;
+  border: 1px solid #374151;
+  color: #f9fafb;
+}
+
+[data-theme="moderntech"] .glass-select option {
+  background: #1f2937;
+  color: #f9fafb;
+}
+
+[data-theme="moderntech"] .menu-item {
+  color: #f9fafb;
+}
+
+[data-theme="moderntech"] .active-lesson {
+  background-color: #0ea5e9 !important;
+  color: #ffffff !important;
+}
+
+[data-theme="moderntech"] .label {
+  color: #60a5fa; /* Light blue for labels */
+}
+
+[data-theme="moderntech"] .feedback-button.correct {
+  background: #22c55e;
+  color: #ffffff;
+}
+
+[data-theme="moderntech"] .feedback-button.mistake {
+  background: #ef4444;
+  color: #ffffff;
+}
+
+/* Theme-specific styles */
+[data-theme="thompson"] body {
+  color: #f5f5f5;
+}
+
+[data-theme="thompson"] .menu-label,
+[data-theme="thompson"] #progress-display {
+  color: #f5f5f5;
+}
+
+[data-theme="thompson"] .direction-button,
+[data-theme="thompson"] .action-button,
+[data-theme="thompson"] .menu-item {
+  color: #333;
+}
+
+/* Dark theme select styling */
+[data-theme="moderndark"] select,
+[data-theme="moderntech"] select {
+  background-color: #1e293b;
+  color: #f8fafc;
+  border: 1px solid #475569;
+}
+
+[data-theme="moderndark"] select option,
+[data-theme="moderntech"] select option {
+  background-color: #1e293b;
+  color: #f8fafc;
+}
+
+/* Improve select visibility in dark themes */
+[data-theme="moderndark"] select:focus,
+[data-theme="moderntech"] select:focus {
+  outline: 2px solid #6366f1;
+  outline-offset: 1px;
+}
+
+[data-theme="lines"] .menu-label,
+[data-theme="lines"] #progress-display {
+  color: #1b4b8f;
+}
+
+[data-theme="lines"] .menu-item,
+[data-theme="lines"] .direction-button,
+[data-theme="lines"] .action-button {
+  color: #ffffff;
+  border: 2px solid #1b4b8f;
+  background-color: #1b4b8f;
+}
+
+[data-theme="lines"] .glass-select {
+  background: #ffffff;
+  border: 2px solid #1b4b8f;
+  color: #1b4b8f;
+}
+
+[data-theme="lines"] .menu-control-container,
+[data-theme="lines"] .lesson-container {
+  background: #ffffff;
+  border: 2px solid #1b4b8f;
+}
+
+[data-theme="lines"] #english-section,
+[data-theme="lines"] #hebrew-section {
+  border: 2px solid #1b4b8f;
+}
+
+[data-theme="lines"] .feedback-button.correct,
+[data-theme="lines"] .feedback-button.mistake {
+  background: #1b4b8f;
+  color: #ffffff;
+}
+
+[data-theme="lines"] .label {
+  color: #1b4b8f;
+}

@@ -1,0 +1,1712 @@
+[
+    {
+        "english": "I",
+        "hebrew_spoken": "Ani",
+        "hebrew_letters": "אני",
+        "word_type": "Personal Pronoun",
+        "lesson": "Lesson 1",
+        "english_example": "I am happy",
+        "hebrew_spoken_example": "Ani sameah",
+        "hebrew_letters_example": "אני שמח"
+    },
+    {
+        "english": "You [m]",
+        "hebrew_spoken": "Ata",
+        "hebrew_letters": "אתה",
+        "word_type": "Personal Pronoun",
+        "lesson": "Lesson 1",
+        "english_example": "You are tall",
+        "hebrew_spoken_example": "Ata gavoha",
+        "hebrew_letters_example": "אתה גבוה"
+    },
+    {
+        "english": "You [f]",
+        "hebrew_spoken": "At",
+        "hebrew_letters": "את",
+        "word_type": "Personal Pronoun",
+        "lesson": "Lesson 1",
+        "english_example": "You are smart",
+        "hebrew_spoken_example": "At hahama",
+        "hebrew_letters_example": "את חכמה"
+    },
+    {
+        "english": "He",
+        "hebrew_spoken": "Hu",
+        "hebrew_letters": "הוא",
+        "word_type": "Personal Pronoun",
+        "lesson": "Lesson 1",
+        "english_example": "He is a doctor",
+        "hebrew_spoken_example": "Hu rofe",
+        "hebrew_letters_example": "הוא רופא"
+    },
+    {
+        "english": "She",
+        "hebrew_spoken": "Hi",
+        "hebrew_letters": "היא",
+        "word_type": "Personal Pronoun",
+        "lesson": "Lesson 1",
+        "english_example": "She is a teacher",
+        "hebrew_spoken_example": "Hi mora",
+        "hebrew_letters_example": "היא מורה"
+    },
+    {
+        "english": "We",
+        "hebrew_spoken": "Anahnu",
+        "hebrew_letters": "אנחנו",
+        "word_type": "Personal Pronoun",
+        "lesson": "Lesson 1",
+        "english_example": "We are friends",
+        "hebrew_spoken_example": "Anahnu haverim",
+        "hebrew_letters_example": "אנחנו חברים"
+    },
+    {
+        "english": "You [m.pl]",
+        "hebrew_spoken": "Atem",
+        "hebrew_letters": "אתם",
+        "word_type": "Personal Pronoun",
+        "lesson": "Lesson 1",
+        "english_example": "You are students",
+        "hebrew_spoken_example": "Atem studentim",
+        "hebrew_letters_example": "אתם סטודנטים"
+    },
+    {
+        "english": "You [f.pl]",
+        "hebrew_spoken": "Aten",
+        "hebrew_letters": "אתן",
+        "word_type": "Personal Pronoun",
+        "lesson": "Lesson 1",
+        "english_example": "You are sisters",
+        "hebrew_spoken_example": "Aten ahayot",
+        "hebrew_letters_example": "אתן אחיות"
+    },
+    {
+        "english": "They [m]",
+        "hebrew_spoken": "Hem",
+        "hebrew_letters": "הם",
+        "word_type": "Personal Pronoun",
+        "lesson": "Lesson 1",
+        "english_example": "They are brothers",
+        "hebrew_spoken_example": "Hem ahim",
+        "hebrew_letters_example": "הם אחים"
+    },
+    {
+        "english": "They [f]",
+        "hebrew_spoken": "Hen",
+        "hebrew_letters": "הן",
+        "word_type": "Personal Pronoun",
+        "lesson": "Lesson 1",
+        "english_example": "They are girls",
+        "hebrew_spoken_example": "Hen yeladot",
+        "hebrew_letters_example": "הן ילדות"
+    },
+    {
+        "english": "This [m]",
+        "hebrew_spoken": "Ze",
+        "hebrew_letters": "זה",
+        "word_type": "Demonstrative Pronoun",
+        "lesson": "Lesson 2",
+        "english_example": "This is a book",
+        "hebrew_spoken_example": "Ze sefer",
+        "hebrew_letters_example": "זה ספר"
+    },
+    {
+        "english": "This [f]",
+        "hebrew_spoken": "Zot",
+        "hebrew_letters": "זאת",
+        "word_type": "Demonstrative Pronoun",
+        "lesson": "Lesson 2",
+        "english_example": "This is a car",
+        "hebrew_spoken_example": "Zot mehonit",
+        "hebrew_letters_example": "זאת מכונית"
+    },
+    {
+        "english": "That [m]",
+        "hebrew_spoken": "Hahu",
+        "hebrew_letters": "ההוא",
+        "word_type": "Demonstrative Pronoun",
+        "lesson": "Lesson 2",
+        "english_example": "That man is tall",
+        "hebrew_spoken_example": "Ha'ish hahu gavoha",
+        "hebrew_letters_example": "האיש ההוא גבוה"
+    },
+    {
+        "english": "That [f]",
+        "hebrew_spoken": "Hahi",
+        "hebrew_letters": "ההיא",
+        "word_type": "Demonstrative Pronoun",
+        "lesson": "Lesson 2",
+        "english_example": "That woman is nice",
+        "hebrew_spoken_example": "Ha'isha hahi nehmedet",
+        "hebrew_letters_example": "האישה ההיא נחמדת"
+    },
+    {
+        "english": "These [m]",
+        "hebrew_spoken": "Ele",
+        "hebrew_letters": "אלה",
+        "word_type": "Demonstrative Pronoun",
+        "lesson": "Lesson 2",
+        "english_example": "These are pens",
+        "hebrew_spoken_example": "Ele etim",
+        "hebrew_letters_example": "אלה עטים"
+    },
+    {
+        "english": "These [f]",
+        "hebrew_spoken": "Ele",
+        "hebrew_letters": "אלה",
+        "word_type": "Demonstrative Pronoun",
+        "lesson": "Lesson 2",
+        "english_example": "These are flowers",
+        "hebrew_spoken_example": "Ele prahim",
+        "hebrew_letters_example": "אלה פרחים"
+    },
+    {
+        "english": "Those [m]",
+        "hebrew_spoken": "Hahem",
+        "hebrew_letters": "ההם",
+        "word_type": "Demonstrative Pronoun",
+        "lesson": "Lesson 2",
+        "english_example": "Those boys are playing",
+        "hebrew_spoken_example": "Ha'yeladim hahem mesahakim",
+        "hebrew_letters_example": "הילדים ההם משחקים"
+    },
+    {
+        "english": "Those [f]",
+        "hebrew_spoken": "Hahen",
+        "hebrew_letters": "ההן",
+        "word_type": "Demonstrative Pronoun",
+        "lesson": "Lesson 2",
+        "english_example": "Those girls are singing",
+        "hebrew_spoken_example": "Ha'yeladot hahen sharot",
+        "hebrew_letters_example": "הילדות ההן שרות"
+    },
+    {
+        "english": "Someone",
+        "hebrew_spoken": "Mishehu",
+        "hebrew_letters": "מישהו",
+        "word_type": "Indefinite Pronoun",
+        "lesson": "Lesson 3",
+        "english_example": "Someone is knocking",
+        "hebrew_spoken_example": "Mishehu dofek",
+        "hebrew_letters_example": "מישהו דופק"
+    },
+    {
+        "english": "Something",
+        "hebrew_spoken": "Mashehu",
+        "hebrew_letters": "משהו",
+        "word_type": "Indefinite Pronoun",
+        "lesson": "Lesson 3",
+        "english_example": "I need something",
+        "hebrew_spoken_example": "Ani tzarih mashehu",
+        "hebrew_letters_example": "אני צריך משהו"
+    },
+    {
+        "english": "Everyone",
+        "hebrew_spoken": "Kulam",
+        "hebrew_letters": "כולם",
+        "word_type": "Indefinite Pronoun",
+        "lesson": "Lesson 3",
+        "english_example": "Everyone is here",
+        "hebrew_spoken_example": "Kulam po",
+        "hebrew_letters_example": "כולם פה"
+    },
+    {
+        "english": "Everything",
+        "hebrew_spoken": "Hakol",
+        "hebrew_letters": "הכל",
+        "word_type": "Indefinite Pronoun",
+        "lesson": "Lesson 3",
+        "english_example": "Everything is fine",
+        "hebrew_spoken_example": "Hakol beseder",
+        "hebrew_letters_example": "הכל בסדר"
+    },
+    {
+        "english": "Nobody",
+        "hebrew_spoken": "Af Ehad",
+        "hebrew_letters": "אף אחד",
+        "word_type": "Indefinite Pronoun",
+        "lesson": "Lesson 3",
+        "english_example": "Nobody came",
+        "hebrew_spoken_example": "Af ehad lo ba",
+        "hebrew_letters_example": "אף אחד לא בא"
+    },
+    {
+        "english": "Nothing",
+        "hebrew_spoken": "Klum",
+        "hebrew_letters": "כלום",
+        "word_type": "Indefinite Pronoun",
+        "lesson": "Lesson 3",
+        "english_example": "I see nothing",
+        "hebrew_spoken_example": "Ani lo ro'e klum",
+        "hebrew_letters_example": "אני לא רואה כלום"
+    },
+    {
+        "english": "Another [m]",
+        "hebrew_spoken": "Aher",
+        "hebrew_letters": "אחר",
+        "word_type": "Indefinite Pronoun",
+        "lesson": "Lesson 3",
+        "english_example": "Give me another book",
+        "hebrew_spoken_example": "Ten li sefer aher",
+        "hebrew_letters_example": "תן לי ספר אחר"
+    },
+    {
+        "english": "Another [f]",
+        "hebrew_spoken": "Aheret",
+        "hebrew_letters": "אחרת",
+        "word_type": "Indefinite Pronoun",
+        "lesson": "Lesson 3",
+        "english_example": "I want another cup",
+        "hebrew_spoken_example": "Ani rotze kos aheret",
+        "hebrew_letters_example": "אני רוצה כוס אחרת"
+    },
+    {
+        "english": "Each [m]",
+        "hebrew_spoken": "Kol Ehad",
+        "hebrew_letters": "כל אחד",
+        "word_type": "Indefinite Pronoun",
+        "lesson": "Lesson 3",
+        "english_example": "Each one is different",
+        "hebrew_spoken_example": "Kol ehad shone",
+        "hebrew_letters_example": "כל אחד שונה"
+    },
+    {
+        "english": "Each [f]",
+        "hebrew_spoken": "Kol Ahat",
+        "hebrew_letters": "כל אחת",
+        "word_type": "Indefinite Pronoun",
+        "lesson": "Lesson 3",
+        "english_example": "Each girl has a book",
+        "hebrew_spoken_example": "Kol ahat yesh la sefer",
+        "hebrew_letters_example": "כל אחת יש לה ספר"
+    },
+    {
+        "english": "Some people",
+        "hebrew_spoken": "Anashim",
+        "hebrew_letters": "אנשים",
+        "word_type": "Indefinite Pronoun",
+        "lesson": "Lesson 3",
+        "english_example": "Some people are waiting",
+        "hebrew_spoken_example": "Anashim mehakim",
+        "hebrew_letters_example": "אנשים מחכים"
+    },
+    {
+        "english": "Few",
+        "hebrew_spoken": "Me'atim",
+        "hebrew_letters": "מעטים",
+        "word_type": "Indefinite Pronoun",
+        "lesson": "Lesson 3",
+        "english_example": "Few came to the party",
+        "hebrew_spoken_example": "Me'atim ba'u la'mesiba",
+        "hebrew_letters_example": "מעטים באו למסיבה"
+    },
+    {
+        "english": "Others",
+        "hebrew_spoken": "Aherim",
+        "hebrew_letters": "אחרים",
+        "word_type": "Indefinite Pronoun",
+        "lesson": "Lesson 3",
+        "english_example": "Others will come later",
+        "hebrew_spoken_example": "Aherim yavo'u ahar kah",
+        "hebrew_letters_example": "אחרים יבואו אחר כך"
+    },
+    {
+        "english": "Who",
+        "hebrew_spoken": "Mi",
+        "hebrew_letters": "מי",
+        "word_type": "Interrogative Pronoun",
+        "lesson": "Lesson 4",
+        "english_example": "Who is there?",
+        "hebrew_spoken_example": "Mi sham?",
+        "hebrew_letters_example": "מי שם?"
+    },
+    {
+        "english": "What",
+        "hebrew_spoken": "Ma",
+        "hebrew_letters": "מה",
+        "word_type": "Interrogative Pronoun",
+        "lesson": "Lesson 4",
+        "english_example": "What is this?",
+        "hebrew_spoken_example": "Ma ze?",
+        "hebrew_letters_example": "מה זה?"
+    },
+    {
+        "english": "Which [m]",
+        "hebrew_spoken": "Eize",
+        "hebrew_letters": "איזה",
+        "word_type": "Interrogative Pronoun",
+        "lesson": "Lesson 4",
+        "english_example": "Which book do you want?",
+        "hebrew_spoken_example": "Eize sefer ata rotze?",
+        "hebrew_letters_example": "איזה ספר אתה רוצה?"
+    },
+    {
+        "english": "Which [f]",
+        "hebrew_spoken": "Eizo",
+        "hebrew_letters": "איזו",
+        "word_type": "Interrogative Pronoun",
+        "lesson": "Lesson 4",
+        "english_example": "Which city is this?",
+        "hebrew_spoken_example": "Eizo ir zot?",
+        "hebrew_letters_example": "איזו עיר זאת?"
+    },
+    {
+        "english": "Whose",
+        "hebrew_spoken": "Shel Mi",
+        "hebrew_letters": "של מי",
+        "word_type": "Interrogative Pronoun",
+        "lesson": "Lesson 4",
+        "english_example": "Whose car is this?",
+        "hebrew_spoken_example": "Shel mi ha'mehonit hazot?",
+        "hebrew_letters_example": "של מי המכונית הזאת?"
+    },
+    {
+        "english": "When",
+        "hebrew_spoken": "Matay",
+        "hebrew_letters": "מתי",
+        "word_type": "Interrogative Pronoun",
+        "lesson": "Lesson 4",
+        "english_example": "When will you come?",
+        "hebrew_spoken_example": "Matay tavo?",
+        "hebrew_letters_example": "מתי תבוא?"
+    },
+    {
+        "english": "Where",
+        "hebrew_spoken": "Eifo",
+        "hebrew_letters": "איפה",
+        "word_type": "Interrogative Pronoun",
+        "lesson": "Lesson 4",
+        "english_example": "Where are you?",
+        "hebrew_spoken_example": "Eifo ata?",
+        "hebrew_letters_example": "איפה אתה?"
+    },
+    {
+        "english": "Where to",
+        "hebrew_spoken": "Le'an",
+        "hebrew_letters": "לאן",
+        "word_type": "Interrogative Pronoun",
+        "lesson": "Lesson 4",
+        "english_example": "Where are you going?",
+        "hebrew_spoken_example": "Le'an ata holeh?",
+        "hebrew_letters_example": "לאן אתה הולך?"
+    },
+    {
+        "english": "Where from",
+        "hebrew_spoken": "Me'ayin",
+        "hebrew_letters": "מאין",
+        "word_type": "Interrogative Pronoun",
+        "lesson": "Lesson 4",
+        "english_example": "Where are you from?",
+        "hebrew_spoken_example": "Me'ayin ata?",
+        "hebrew_letters_example": "מאין אתה?"
+    },
+    {
+        "english": "Why",
+        "hebrew_spoken": "Lama",
+        "hebrew_letters": "למה",
+        "word_type": "Interrogative Pronoun",
+        "lesson": "Lesson 4",
+        "english_example": "Why are you late?",
+        "hebrew_spoken_example": "Lama ata me'uhar?",
+        "hebrew_letters_example": "למה אתה מאוחר?"
+    },
+    {
+        "english": "How",
+        "hebrew_spoken": "Eih",
+        "hebrew_letters": "איך",
+        "word_type": "Interrogative Pronoun",
+        "lesson": "Lesson 4",
+        "english_example": "How are you?",
+        "hebrew_spoken_example": "Eih ata margish?",
+        "hebrew_letters_example": "איך אתה מרגיש?"
+    },
+    {
+        "english": "How many/much",
+        "hebrew_spoken": "Kama",
+        "hebrew_letters": "כמה",
+        "word_type": "Interrogative Pronoun",
+        "lesson": "Lesson 4",
+        "english_example": "How much does it cost?",
+        "hebrew_spoken_example": "Kama ze ole?",
+        "hebrew_letters_example": "כמה זה עולה?"
+    },
+    {
+        "english": "How long",
+        "hebrew_spoken": "Kama Zman",
+        "hebrew_letters": "כמה זמן",
+        "word_type": "Interrogative Pronoun",
+        "lesson": "Lesson 4",
+        "english_example": "How long will it take?",
+        "hebrew_spoken_example": "Kama zman ze yikah?",
+        "hebrew_letters_example": "כמה זמן זה ייקח?"
+    },
+    {
+        "english": "My",
+        "hebrew_spoken": "Sheli",
+        "hebrew_letters": "שלי",
+        "word_type": "Possessive Pronoun",
+        "lesson": "Lesson 5",
+        "english_example": "This is my book",
+        "hebrew_spoken_example": "Ze ha'sefer sheli",
+        "hebrew_letters_example": "זה הספר שלי"
+    },
+    {
+        "english": "Your [m]",
+        "hebrew_spoken": "Shelha",
+        "hebrew_letters": "שלך",
+        "word_type": "Possessive Pronoun",
+        "lesson": "Lesson 5",
+        "english_example": "Where is your car?",
+        "hebrew_spoken_example": "Eifo ha'mehonit shelha?",
+        "hebrew_letters_example": "איפה המכונית שלך?"
+    },
+    {
+        "english": "Your [f]",
+        "hebrew_spoken": "Shelah",
+        "hebrew_letters": "שלך",
+        "word_type": "Possessive Pronoun",
+        "lesson": "Lesson 5",
+        "english_example": "Your bag is here",
+        "hebrew_spoken_example": "Ha'tik shelah po",
+        "hebrew_letters_example": "התיק שלך פה"
+    },
+    {
+        "english": "His",
+        "hebrew_spoken": "Shelo",
+        "hebrew_letters": "שלו",
+        "word_type": "Possessive Pronoun",
+        "lesson": "Lesson 5",
+        "english_example": "His house is big",
+        "hebrew_spoken_example": "Ha'bayit shelo gadol",
+        "hebrew_letters_example": "הבית שלו גדול"
+    },
+    {
+        "english": "Her",
+        "hebrew_spoken": "Shela",
+        "hebrew_letters": "שלה",
+        "word_type": "Possessive Pronoun",
+        "lesson": "Lesson 5",
+        "english_example": "Her name is Sarah",
+        "hebrew_spoken_example": "Ha'shem shela Sara",
+        "hebrew_letters_example": "השם שלה שרה"
+    },
+    {
+        "english": "Our",
+        "hebrew_spoken": "Shelanu",
+        "hebrew_letters": "שלנו",
+        "word_type": "Possessive Pronoun",
+        "lesson": "Lesson 5",
+        "english_example": "Our dog is cute",
+        "hebrew_spoken_example": "Ha'kelev shelanu hamud",
+        "hebrew_letters_example": "הכלב שלנו חמוד"
+    },
+    {
+        "english": "Your [m.pl]",
+        "hebrew_spoken": "Shelahem",
+        "hebrew_letters": "שלכם",
+        "word_type": "Possessive Pronoun",
+        "lesson": "Lesson 5",
+        "english_example": "Your class is here",
+        "hebrew_spoken_example": "Ha'kita shelahem po",
+        "hebrew_letters_example": "הכיתה שלכם פה"
+    },
+    {
+        "english": "Your [f.pl]",
+        "hebrew_spoken": "Shelahen",
+        "hebrew_letters": "שלכן",
+        "word_type": "Possessive Pronoun",
+        "lesson": "Lesson 5",
+        "english_example": "Your room is clean",
+        "hebrew_spoken_example": "Ha'heder shelahen naki",
+        "hebrew_letters_example": "החדר שלכן נקי"
+    },
+    {
+        "english": "Their [m]",
+        "hebrew_spoken": "Shelahem",
+        "hebrew_letters": "שלהם",
+        "word_type": "Possessive Pronoun",
+        "lesson": "Lesson 5",
+        "english_example": "Their children are playing",
+        "hebrew_spoken_example": "Ha'yeladim shelahem mesahakim",
+        "hebrew_letters_example": "הילדים שלהם משחקים"
+    },
+    {
+        "english": "Their [f]",
+        "hebrew_spoken": "Shelahen",
+        "hebrew_letters": "שלהן",
+        "word_type": "Possessive Pronoun",
+        "lesson": "Lesson 5",
+        "english_example": "Their dresses are beautiful",
+        "hebrew_spoken_example": "Ha'smalot shelahen yafot",
+        "hebrew_letters_example": "השמלות שלהן יפות"
+    },
+    {
+        "english": "In",
+        "hebrew_spoken": "Be",
+        "hebrew_letters": "ב",
+        "word_type": "Preposition",
+        "lesson": "Lesson 6",
+        "english_example": "I am in the house",
+        "hebrew_spoken_example": "Ani ba'bayit",
+        "hebrew_letters_example": "אני בבית"
+    },
+    {
+        "english": "On",
+        "hebrew_spoken": "Al",
+        "hebrew_letters": "על",
+        "word_type": "Preposition",
+        "lesson": "Lesson 6",
+        "english_example": "The book is on the table",
+        "hebrew_spoken_example": "Ha'sefer al ha'shulhan",
+        "hebrew_letters_example": "הספר על השולחן"
+    },
+    {
+        "english": "Under",
+        "hebrew_spoken": "Tahat",
+        "hebrew_letters": "תחת",
+        "word_type": "Preposition",
+        "lesson": "Lesson 6",
+        "english_example": "The cat is under the bed",
+        "hebrew_spoken_example": "Ha'hatul tahat ha'mita",
+        "hebrew_letters_example": "החתול תחת המיטה"
+    },
+    {
+        "english": "Above",
+        "hebrew_spoken": "Me'al",
+        "hebrew_letters": "מעל",
+        "word_type": "Preposition",
+        "lesson": "Lesson 6",
+        "english_example": "The bird flies above us",
+        "hebrew_spoken_example": "Ha'tzipor afa me'aleinu",
+        "hebrew_letters_example": "הציפור עפה מעלינו"
+    },
+    {
+        "english": "To",
+        "hebrew_spoken": "Le",
+        "hebrew_letters": "ל",
+        "word_type": "Preposition",
+        "lesson": "Lesson 6",
+        "english_example": "I'm going to school",
+        "hebrew_spoken_example": "Ani holeh le'beit sefer",
+        "hebrew_letters_example": "אני הולך לבית ספר"
+    },
+    {
+        "english": "From",
+        "hebrew_spoken": "Mi",
+        "hebrew_letters": "מ",
+        "word_type": "Preposition",
+        "lesson": "Lesson 6",
+        "english_example": "I came from home",
+        "hebrew_spoken_example": "Bati mi'ha'bayit",
+        "hebrew_letters_example": "באתי מהבית"
+    },
+    {
+        "english": "With",
+        "hebrew_spoken": "Im",
+        "hebrew_letters": "עם",
+        "word_type": "Preposition",
+        "lesson": "Lesson 6",
+        "english_example": "Come with me",
+        "hebrew_spoken_example": "Bo iti",
+        "hebrew_letters_example": "בוא איתי"
+    },
+    {
+        "english": "Without",
+        "hebrew_spoken": "Bli",
+        "hebrew_letters": "בלי",
+        "word_type": "Preposition",
+        "lesson": "Lesson 6",
+        "english_example": "Coffee without sugar",
+        "hebrew_spoken_example": "Kafe bli sukar",
+        "hebrew_letters_example": "קפה בלי סוכר"
+    },
+    {
+        "english": "Between",
+        "hebrew_spoken": "Bein",
+        "hebrew_letters": "בין",
+        "word_type": "Preposition",
+        "lesson": "Lesson 6",
+        "english_example": "Between you and me",
+        "hebrew_spoken_example": "Beineh le'beinah",
+        "hebrew_letters_example": "ביני לבינך"
+    },
+    {
+        "english": "Among",
+        "hebrew_spoken": "Bekerevi",
+        "hebrew_letters": "בקרב",
+        "word_type": "Preposition",
+        "lesson": "Lesson 6",
+        "english_example": "He lives among friends",
+        "hebrew_spoken_example": "Hu gar bekerevi haverim",
+        "hebrew_letters_example": "הוא גר בקרב חברים"
+    },
+    {
+        "english": "Before",
+        "hebrew_spoken": "Lifnei",
+        "hebrew_letters": "לפני",
+        "word_type": "Preposition",
+        "lesson": "Lesson 6",
+        "english_example": "Come before sunset",
+        "hebrew_spoken_example": "Bo lifnei ha'shkia",
+        "hebrew_letters_example": "בוא לפני השקיעה"
+    },
+    {
+        "english": "After",
+        "hebrew_spoken": "Aharei",
+        "hebrew_letters": "אחרי",
+        "word_type": "Preposition",
+        "lesson": "Lesson 6",
+        "english_example": "After work",
+        "hebrew_spoken_example": "Aharei ha'avoda",
+        "hebrew_letters_example": "אחרי העבודה"
+    },
+    {
+        "english": "Behind",
+        "hebrew_spoken": "Me'ahorei",
+        "hebrew_letters": "מאחורי",
+        "word_type": "Preposition",
+        "lesson": "Lesson 6",
+        "english_example": "Behind the door",
+        "hebrew_spoken_example": "Me'ahorei ha'delet",
+        "hebrew_letters_example": "מאחורי הדלת"
+    },
+    {
+        "english": "In front of",
+        "hebrew_spoken": "Lifnei",
+        "hebrew_letters": "לפני",
+        "word_type": "Preposition",
+        "lesson": "Lesson 6",
+        "english_example": "Stand in front of me",
+        "hebrew_spoken_example": "Amod lefanai",
+        "hebrew_letters_example": "עמוד לפני"
+    },
+    {
+        "english": "Next to",
+        "hebrew_spoken": "Leyad",
+        "hebrew_letters": "ליד",
+        "word_type": "Preposition",
+        "lesson": "Lesson 6",
+        "english_example": "Sit next to me",
+        "hebrew_spoken_example": "Shev leyadi",
+        "hebrew_letters_example": "שב לידי"
+    },
+    {
+        "english": "Near",
+        "hebrew_spoken": "Karov Le",
+        "hebrew_letters": "קרוב ל",
+        "word_type": "Preposition",
+        "lesson": "Lesson 6",
+        "english_example": "I live near the park",
+        "hebrew_spoken_example": "Ani gar karov la'park",
+        "hebrew_letters_example": "אני גר קרוב לפארק"
+    },
+    {
+        "english": "Far from",
+        "hebrew_spoken": "Rahok Mi",
+        "hebrew_letters": "רחוק מ",
+        "word_type": "Preposition",
+        "lesson": "Lesson 6",
+        "english_example": "Far from here",
+        "hebrew_spoken_example": "Rahok mi'po",
+        "hebrew_letters_example": "רחוק מפה"
+    },
+    {
+        "english": "Inside",
+        "hebrew_spoken": "Betoh",
+        "hebrew_letters": "בתוך",
+        "word_type": "Preposition",
+        "lesson": "Lesson 6",
+        "english_example": "Inside the box",
+        "hebrew_spoken_example": "Betoh ha'kufsa",
+        "hebrew_letters_example": "בתוך הקופסה"
+    },
+    {
+        "english": "Outside",
+        "hebrew_spoken": "Mihutz Le",
+        "hebrew_letters": "מחוץ ל",
+        "word_type": "Preposition",
+        "lesson": "Lesson 6",
+        "english_example": "Outside the building",
+        "hebrew_spoken_example": "Mihutz la'binyan",
+        "hebrew_letters_example": "מחוץ לבניין"
+    },
+    {
+        "english": "Around",
+        "hebrew_spoken": "Saviv",
+        "hebrew_letters": "סביב",
+        "word_type": "Preposition",
+        "lesson": "Lesson 6",
+        "english_example": "Around the city",
+        "hebrew_spoken_example": "Saviv ha'ir",
+        "hebrew_letters_example": "סביב העיר"
+    },
+    {
+        "english": "Through",
+        "hebrew_spoken": "Dereh",
+        "hebrew_letters": "דרך",
+        "word_type": "Preposition",
+        "lesson": "Lesson 6",
+        "english_example": "Go through the park",
+        "hebrew_spoken_example": "Leh dereh ha'park",
+        "hebrew_letters_example": "לך דרך הפארק"
+    },
+    {
+        "english": "And",
+        "hebrew_spoken": "Ve",
+        "hebrew_letters": "ו",
+        "word_type": "Conjunction",
+        "lesson": "Lesson 7",
+        "english_example": "Coffee and cake",
+        "hebrew_spoken_example": "Kafe ve'uga",
+        "hebrew_letters_example": "קפה ועוגה"
+    },
+    {
+        "english": "Or",
+        "hebrew_spoken": "O",
+        "hebrew_letters": "או",
+        "word_type": "Conjunction",
+        "lesson": "Lesson 7",
+        "english_example": "Tea or coffee?",
+        "hebrew_spoken_example": "Te o kafe?",
+        "hebrew_letters_example": "תה או קפה?"
+    },
+    {
+        "english": "But",
+        "hebrew_spoken": "Aval",
+        "hebrew_letters": "אבל",
+        "word_type": "Conjunction",
+        "lesson": "Lesson 7",
+        "english_example": "I want to, but I can't",
+        "hebrew_spoken_example": "Ani rotze, aval ani lo yahol",
+        "hebrew_letters_example": "אני רוצה, אבל אני לא יכול"
+    },
+    {
+        "english": "Because",
+        "hebrew_spoken": "Ki",
+        "hebrew_letters": "כי",
+        "word_type": "Conjunction",
+        "lesson": "Lesson 7",
+        "english_example": "I'm happy because you're here",
+        "hebrew_spoken_example": "Ani sameah ki ata po",
+        "hebrew_letters_example": "אני שמח כי אתה פה"
+    },
+    {
+        "english": "If",
+        "hebrew_spoken": "Im",
+        "hebrew_letters": "אם",
+        "word_type": "Conjunction",
+        "lesson": "Lesson 7",
+        "english_example": "If you want",
+        "hebrew_spoken_example": "Im ata rotze",
+        "hebrew_letters_example": "אם אתה רוצה"
+    },
+    {
+        "english": "When",
+        "hebrew_spoken": "Kshe",
+        "hebrew_letters": "כש",
+        "word_type": "Conjunction",
+        "lesson": "Lesson 7",
+        "english_example": "When I was young",
+        "hebrew_spoken_example": "Kshe hayiti tza'ir",
+        "hebrew_letters_example": "כשהייתי צעיר"
+    },
+    {
+        "english": "While",
+        "hebrew_spoken": "Be'od",
+        "hebrew_letters": "בעוד",
+        "word_type": "Conjunction",
+        "lesson": "Lesson 7",
+        "english_example": "While you sleep",
+        "hebrew_spoken_example": "Be'od ata yashen",
+        "hebrew_letters_example": "בעוד אתה ישן"
+    },
+    {
+        "english": "Although",
+        "hebrew_spoken": "Lamrot",
+        "hebrew_letters": "למרות",
+        "word_type": "Conjunction",
+        "lesson": "Lesson 7",
+        "english_example": "Although it's raining",
+        "hebrew_spoken_example": "Lamrot she'yored geshem",
+        "hebrew_letters_example": "למרות שיורד גשם"
+    },
+    {
+        "english": "Despite",
+        "hebrew_spoken": "Al Af",
+        "hebrew_letters": "על אף",
+        "word_type": "Conjunction",
+        "lesson": "Lesson 7",
+        "english_example": "Despite the weather",
+        "hebrew_spoken_example": "Al af mezeg ha'avir",
+        "hebrew_letters_example": "על אף מזג האוויר"
+    },
+    {
+        "english": "Therefore",
+        "hebrew_spoken": "Lahen",
+        "hebrew_letters": "לכן",
+        "word_type": "Conjunction",
+        "lesson": "Lesson 7",
+        "english_example": "Therefore I went home",
+        "hebrew_spoken_example": "Lahen halahti ha'baita",
+        "hebrew_letters_example": "לכן הלכתי הביתה"
+    },
+    {
+        "english": "So",
+        "hebrew_spoken": "Az",
+        "hebrew_letters": "אז",
+        "word_type": "Conjunction",
+        "lesson": "Lesson 7",
+        "english_example": "So what do we do?",
+        "hebrew_spoken_example": "Az ma osim?",
+        "hebrew_letters_example": "אז מה עושים?"
+    },
+    {
+        "english": "Also",
+        "hebrew_spoken": "Gam",
+        "hebrew_letters": "גם",
+        "word_type": "Conjunction",
+        "lesson": "Lesson 7",
+        "english_example": "I also want to come",
+        "hebrew_spoken_example": "Gam ani rotze lavo",
+        "hebrew_letters_example": "גם אני רוצה לבוא"
+    },
+    {
+        "english": "Both...and",
+        "hebrew_spoken": "Gam...Ve'gam",
+        "hebrew_letters": "גם...וגם",
+        "word_type": "Conjunction",
+        "lesson": "Lesson 7",
+        "english_example": "Both you and I",
+        "hebrew_spoken_example": "Gam ata ve'gam ani",
+        "hebrew_letters_example": "גם אתה וגם אני"
+    },
+    {
+        "english": "Either...or",
+        "hebrew_spoken": "O...O",
+        "hebrew_letters": "או...או",
+        "word_type": "Conjunction",
+        "lesson": "Lesson 7",
+        "english_example": "Either today or tomorrow",
+        "hebrew_spoken_example": "O hayom o mahar",
+        "hebrew_letters_example": "או היום או מחר"
+    },
+    {
+        "english": "Neither...nor",
+        "hebrew_spoken": "Lo...Ve'lo",
+        "hebrew_letters": "לא...ולא",
+        "word_type": "Conjunction",
+        "lesson": "Lesson 7",
+        "english_example": "Neither here nor there",
+        "hebrew_spoken_example": "Lo po ve'lo sham",
+        "hebrew_letters_example": "לא פה ולא שם"
+    },
+    {
+        "english": "However",
+        "hebrew_spoken": "Ulam",
+        "hebrew_letters": "אולם",
+        "word_type": "Conjunction",
+        "lesson": "Lesson 7",
+        "english_example": "However, I disagree",
+        "hebrew_spoken_example": "Ulam, ani lo maskim",
+        "hebrew_letters_example": "אולם, אני לא מסכים"
+    },
+    {
+        "english": "Otherwise",
+        "hebrew_spoken": "Aheret",
+        "hebrew_letters": "אחרת",
+        "word_type": "Conjunction",
+        "lesson": "Lesson 7",
+        "english_example": "Hurry, otherwise we'll be late",
+        "hebrew_spoken_example": "Maher, aheret ne'aher",
+        "hebrew_letters_example": "מהר, אחרת נאחר"
+    },
+    {
+        "english": "Here",
+        "hebrew_spoken": "Po",
+        "hebrew_letters": "פה",
+        "word_type": "Adverb",
+        "lesson": "Lesson 8",
+        "english_example": "I am here",
+        "hebrew_spoken_example": "Ani po",
+        "hebrew_letters_example": "אני פה"
+    },
+    {
+        "english": "There",
+        "hebrew_spoken": "Sham",
+        "hebrew_letters": "שם",
+        "word_type": "Adverb",
+        "lesson": "Lesson 8",
+        "english_example": "He is there",
+        "hebrew_spoken_example": "Hu sham",
+        "hebrew_letters_example": "הוא שם"
+    },
+    {
+        "english": "Now",
+        "hebrew_spoken": "Ahshav",
+        "hebrew_letters": "עכשיו",
+        "word_type": "Adverb",
+        "lesson": "Lesson 8",
+        "english_example": "Come now",
+        "hebrew_spoken_example": "Bo ahshav",
+        "hebrew_letters_example": "בוא עכשיו"
+    },
+    {
+        "english": "Then",
+        "hebrew_spoken": "Az",
+        "hebrew_letters": "אז",
+        "word_type": "Adverb",
+        "lesson": "Lesson 8",
+        "english_example": "Then I understood",
+        "hebrew_spoken_example": "Az hevanti",
+        "hebrew_letters_example": "אז הבנתי"
+    },
+    {
+        "english": "Today",
+        "hebrew_spoken": "Hayom",
+        "hebrew_letters": "היום",
+        "word_type": "Adverb",
+        "lesson": "Lesson 8",
+        "english_example": "Today is Sunday",
+        "hebrew_spoken_example": "Hayom yom rishon",
+        "hebrew_letters_example": "היום יום ראשון"
+    },
+    {
+        "english": "Tomorrow",
+        "hebrew_spoken": "Mahar",
+        "hebrew_letters": "מחר",
+        "word_type": "Adverb",
+        "lesson": "Lesson 8",
+        "english_example": "See you tomorrow",
+        "hebrew_spoken_example": "Nitra'e mahar",
+        "hebrew_letters_example": "נתראה מחר"
+    },
+    {
+        "english": "Yesterday",
+        "hebrew_spoken": "Etmol",
+        "hebrew_letters": "אתמול",
+        "word_type": "Adverb",
+        "lesson": "Lesson 8",
+        "english_example": "Yesterday was hot",
+        "hebrew_spoken_example": "Etmol haya ham",
+        "hebrew_letters_example": "אתמול היה חם"
+    },
+    {
+        "english": "Always",
+        "hebrew_spoken": "Tamid",
+        "hebrew_letters": "תמיד",
+        "word_type": "Adverb",
+        "lesson": "Lesson 8",
+        "english_example": "He always smiles",
+        "hebrew_spoken_example": "Hu tamid mehayeh",
+        "hebrew_letters_example": "הוא תמיד מחייך"
+    },
+    {
+        "english": "Never",
+        "hebrew_spoken": "Af Pa'am",
+        "hebrew_letters": "אף פעם",
+        "word_type": "Adverb",
+        "lesson": "Lesson 8",
+        "english_example": "I never smoke",
+        "hebrew_spoken_example": "Ani af pa'am lo me'ashen",
+        "hebrew_letters_example": "אני אף פעם לא מעשן"
+    },
+    {
+        "english": "Often",
+        "hebrew_spoken": "Le'itim Krovot",
+        "hebrew_letters": "לעתים קרובות",
+        "word_type": "Adverb",
+        "lesson": "Lesson 8",
+        "english_example": "I often read books",
+        "hebrew_spoken_example": "Ani kore sfarim le'itim krovot",
+        "hebrew_letters_example": "אני קורא ספרים לעתים קרובות"
+    },
+    {
+        "english": "Sometimes",
+        "hebrew_spoken": "Lif'amim",
+        "hebrew_letters": "לפעמים",
+        "word_type": "Adverb",
+        "lesson": "Lesson 8",
+        "english_example": "Sometimes I walk",
+        "hebrew_spoken_example": "Lif'amim ani holeh",
+        "hebrew_letters_example": "לפעמים אני הולך"
+    },
+    {
+        "english": "Rarely",
+        "hebrew_spoken": "Le'itim Rehokot",
+        "hebrew_letters": "לעתים רחוקות",
+        "word_type": "Adverb",
+        "lesson": "Lesson 8",
+        "english_example": "He rarely comes",
+        "hebrew_spoken_example": "Hu ba le'itim rehokot",
+        "hebrew_letters_example": "הוא בא לעתים רחוקות"
+    },
+    {
+        "english": "Very",
+        "hebrew_spoken": "Me'od",
+        "hebrew_letters": "מאוד",
+        "word_type": "Adverb",
+        "lesson": "Lesson 8",
+        "english_example": "Very good",
+        "hebrew_spoken_example": "Tov me'od",
+        "hebrew_letters_example": "טוב מאוד"
+    },
+    {
+        "english": "More",
+        "hebrew_spoken": "Yoter",
+        "hebrew_letters": "יותר",
+        "word_type": "Adverb",
+        "lesson": "Lesson 8",
+        "english_example": "I want more",
+        "hebrew_spoken_example": "Ani rotze yoter",
+        "hebrew_letters_example": "אני רוצה יותר"
+    },
+    {
+        "english": "Less",
+        "hebrew_spoken": "Pahot",
+        "hebrew_letters": "פחות",
+        "word_type": "Adverb",
+        "lesson": "Lesson 8",
+        "english_example": "Less sugar please",
+        "hebrew_spoken_example": "Pahot sukar bevakasha",
+        "hebrew_letters_example": "פחות סוכר בבקשה"
+    },
+    {
+        "english": "Too",
+        "hebrew_spoken": "Miday",
+        "hebrew_letters": "מדי",
+        "word_type": "Adverb",
+        "lesson": "Lesson 8",
+        "english_example": "Too hot",
+        "hebrew_spoken_example": "Ham miday",
+        "hebrew_letters_example": "חם מדי"
+    },
+    {
+        "english": "Only",
+        "hebrew_spoken": "Rak",
+        "hebrew_letters": "רק",
+        "word_type": "Adverb",
+        "lesson": "Lesson 8",
+        "english_example": "Only one",
+        "hebrew_spoken_example": "Rak ehad",
+        "hebrew_letters_example": "רק אחד"
+    },
+    {
+        "english": "Almost",
+        "hebrew_spoken": "Kim'at",
+        "hebrew_letters": "כמעט",
+        "word_type": "Adverb",
+        "lesson": "Lesson 8",
+        "english_example": "Almost ready",
+        "hebrew_spoken_example": "Kim'at muhan",
+        "hebrew_letters_example": "כמעט מוכן"
+    },
+    {
+        "english": "Soon",
+        "hebrew_spoken": "Bekarov",
+        "hebrew_letters": "בקרוב",
+        "word_type": "Adverb",
+        "lesson": "Lesson 8",
+        "english_example": "Coming soon",
+        "hebrew_spoken_example": "Ba bekarov",
+        "hebrew_letters_example": "בא בקרוב"
+    },
+    {
+        "english": "Already",
+        "hebrew_spoken": "Kvar",
+        "hebrew_letters": "כבר",
+        "word_type": "Adverb",
+        "lesson": "Lesson 8",
+        "english_example": "I already ate",
+        "hebrew_spoken_example": "Kvar ahalti",
+        "hebrew_letters_example": "כבר אכלתי"
+    },
+    {
+        "english": "Still",
+        "hebrew_spoken": "Adayin",
+        "hebrew_letters": "עדיין",
+        "word_type": "Adverb",
+        "lesson": "Lesson 8",
+        "english_example": "Still waiting",
+        "hebrew_spoken_example": "Adayin mehake",
+        "hebrew_letters_example": "עדיין מחכה"
+    },
+    {
+        "english": "Yet",
+        "hebrew_spoken": "Od",
+        "hebrew_letters": "עוד",
+        "word_type": "Adverb",
+        "lesson": "Lesson 8",
+        "english_example": "Not yet",
+        "hebrew_spoken_example": "Od lo",
+        "hebrew_letters_example": "עוד לא"
+    },
+    {
+        "english": "Ago",
+        "hebrew_spoken": "Lifnei",
+        "hebrew_letters": "לפני",
+        "word_type": "Adverb",
+        "lesson": "Lesson 8",
+        "english_example": "Two years ago",
+        "hebrew_spoken_example": "Lifnei shnatayim",
+        "hebrew_letters_example": "לפני שנתיים"
+    },
+    {
+        "english": "Yes",
+        "hebrew_spoken": "Ken",
+        "hebrew_letters": "כן",
+        "word_type": "Particle",
+        "lesson": "Lesson 9",
+        "english_example": "Yes, I agree",
+        "hebrew_spoken_example": "Ken, ani maskim",
+        "hebrew_letters_example": "כן, אני מסכים"
+    },
+    {
+        "english": "No",
+        "hebrew_spoken": "Lo",
+        "hebrew_letters": "לא",
+        "word_type": "Particle",
+        "lesson": "Lesson 9",
+        "english_example": "No, thank you",
+        "hebrew_spoken_example": "Lo, toda",
+        "hebrew_letters_example": "לא, תודה"
+    },
+    {
+        "english": "Not",
+        "hebrew_spoken": "Lo",
+        "hebrew_letters": "לא",
+        "word_type": "Particle",
+        "lesson": "Lesson 9",
+        "english_example": "I do not know",
+        "hebrew_spoken_example": "Ani lo yode'a",
+        "hebrew_letters_example": "אני לא יודע"
+    },
+    {
+        "english": "Maybe",
+        "hebrew_spoken": "Ulay",
+        "hebrew_letters": "אולי",
+        "word_type": "Particle",
+        "lesson": "Lesson 9",
+        "english_example": "Maybe tomorrow",
+        "hebrew_spoken_example": "Ulay mahar",
+        "hebrew_letters_example": "אולי מחר"
+    },
+    {
+        "english": "Perhaps",
+        "hebrew_spoken": "Yitahen",
+        "hebrew_letters": "יתכן",
+        "word_type": "Particle",
+        "lesson": "Lesson 9",
+        "english_example": "Perhaps he'll come",
+        "hebrew_spoken_example": "Yitahen she'hu yavo",
+        "hebrew_letters_example": "יתכן שהוא יבוא"
+    },
+    {
+        "english": "Please",
+        "hebrew_spoken": "Bevakasha",
+        "hebrew_letters": "בבקשה",
+        "word_type": "Particle",
+        "lesson": "Lesson 9",
+        "english_example": "Water please",
+        "hebrew_spoken_example": "Mayim bevakasha",
+        "hebrew_letters_example": "מים בבקשה"
+    },
+    {
+        "english": "Thanks",
+        "hebrew_spoken": "Toda",
+        "hebrew_letters": "תודה",
+        "word_type": "Particle",
+        "lesson": "Lesson 9",
+        "english_example": "Thanks a lot",
+        "hebrew_spoken_example": "Toda raba",
+        "hebrew_letters_example": "תודה רבה"
+    },
+    {
+        "english": "Excuse me",
+        "hebrew_spoken": "Sliha",
+        "hebrew_letters": "סליחה",
+        "word_type": "Particle",
+        "lesson": "Lesson 9",
+        "english_example": "Excuse me, where is...?",
+        "hebrew_spoken_example": "Sliha, eifo...?",
+        "hebrew_letters_example": "סליחה, איפה...?"
+    },
+    {
+        "english": "Indeed",
+        "hebrew_spoken": "Be'emet",
+        "hebrew_letters": "באמת",
+        "word_type": "Particle",
+        "lesson": "Lesson 9",
+        "english_example": "Indeed very nice",
+        "hebrew_spoken_example": "Be'emet yafe me'od",
+        "hebrew_letters_example": "באמת יפה מאוד"
+    },
+    {
+        "english": "Really",
+        "hebrew_spoken": "Mamash",
+        "hebrew_letters": "ממש",
+        "word_type": "Particle",
+        "lesson": "Lesson 9",
+        "english_example": "Really good",
+        "hebrew_spoken_example": "Mamash tov",
+        "hebrew_letters_example": "ממש טוב"
+    },
+    {
+        "english": "Just",
+        "hebrew_spoken": "Rak",
+        "hebrew_letters": "רק",
+        "word_type": "Particle",
+        "lesson": "Lesson 9",
+        "english_example": "Just a minute",
+        "hebrew_spoken_example": "Rak rega",
+        "hebrew_letters_example": "רק רגע"
+    },
+    {
+        "english": "Even",
+        "hebrew_spoken": "Afilu",
+        "hebrew_letters": "אפילו",
+        "word_type": "Particle",
+        "lesson": "Lesson 9",
+        "english_example": "Even I know",
+        "hebrew_spoken_example": "Afilu ani yode'a",
+        "hebrew_letters_example": "אפילו אני יודע"
+    },
+    {
+        "english": "Certainly",
+        "hebrew_spoken": "Bevadai",
+        "hebrew_letters": "בוודאי",
+        "word_type": "Particle",
+        "lesson": "Lesson 9",
+        "english_example": "Certainly I'll come",
+        "hebrew_spoken_example": "Bevadai avo",
+        "hebrew_letters_example": "בוודאי אבוא"
+    },
+    {
+        "english": "Of course",
+        "hebrew_spoken": "Kamuvan",
+        "hebrew_letters": "כמובן",
+        "word_type": "Particle",
+        "lesson": "Lesson 9",
+        "english_example": "Of course you can",
+        "hebrew_spoken_example": "Kamuvan she'ata yahol",
+        "hebrew_letters_example": "כמובן שאתה יכול"
+    },
+    {
+        "english": "Every",
+        "hebrew_spoken": "Kol",
+        "hebrew_letters": "כל",
+        "word_type": "Quantifier",
+        "lesson": "Lesson 10",
+        "english_example": "Every day",
+        "hebrew_spoken_example": "Kol yom",
+        "hebrew_letters_example": "כל יום"
+    },
+    {
+        "english": "Many",
+        "hebrew_spoken": "Harbe",
+        "hebrew_letters": "הרבה",
+        "word_type": "Quantifier",
+        "lesson": "Lesson 10",
+        "english_example": "Many people",
+        "hebrew_spoken_example": "Harbe anashim",
+        "hebrew_letters_example": "הרבה אנשים"
+    },
+    {
+        "english": "Much",
+        "hebrew_spoken": "Harbe",
+        "hebrew_letters": "הרבה",
+        "word_type": "Quantifier",
+        "lesson": "Lesson 10",
+        "english_example": "Much water",
+        "hebrew_spoken_example": "Harbe mayim",
+        "hebrew_letters_example": "הרבה מים"
+    },
+    {
+        "english": "Few",
+        "hebrew_spoken": "Me'at",
+        "hebrew_letters": "מעט",
+        "word_type": "Quantifier",
+        "lesson": "Lesson 10",
+        "english_example": "Few options",
+        "hebrew_spoken_example": "Me'at efasharuyot",
+        "hebrew_letters_example": "מעט אפשרויות"
+    },
+    {
+        "english": "Little",
+        "hebrew_spoken": "Me'at",
+        "hebrew_letters": "מעט",
+        "word_type": "Quantifier",
+        "lesson": "Lesson 10",
+        "english_example": "Little time",
+        "hebrew_spoken_example": "Me'at zman",
+        "hebrew_letters_example": "מעט זמן"
+    },
+    {
+        "english": "Some",
+        "hebrew_spoken": "Kama",
+        "hebrew_letters": "כמה",
+        "word_type": "Quantifier",
+        "lesson": "Lesson 10",
+        "english_example": "Some friends",
+        "hebrew_spoken_example": "Kama haverim",
+        "hebrew_letters_example": "כמה חברים"
+    },
+    {
+        "english": "Several",
+        "hebrew_spoken": "Kama",
+        "hebrew_letters": "כמה",
+        "word_type": "Quantifier",
+        "lesson": "Lesson 10",
+        "english_example": "Several times",
+        "hebrew_spoken_example": "Kama pe'amim",
+        "hebrew_letters_example": "כמה פעמים"
+    },
+    {
+        "english": "All",
+        "hebrew_spoken": "Kol",
+        "hebrew_letters": "כל",
+        "word_type": "Quantifier",
+        "lesson": "Lesson 10",
+        "english_example": "All the students",
+        "hebrew_spoken_example": "Kol ha'studentim",
+        "hebrew_letters_example": "כל הסטודנטים"
+    },
+    {
+        "english": "Most",
+        "hebrew_spoken": "Rov",
+        "hebrew_letters": "רוב",
+        "word_type": "Quantifier",
+        "lesson": "Lesson 10",
+        "english_example": "Most people",
+        "hebrew_spoken_example": "Rov ha'anashim",
+        "hebrew_letters_example": "רוב האנשים"
+    },
+    {
+        "english": "Enough",
+        "hebrew_spoken": "Maspik",
+        "hebrew_letters": "מספיק",
+        "word_type": "Quantifier",
+        "lesson": "Lesson 10",
+        "english_example": "Enough money",
+        "hebrew_spoken_example": "Maspik kesef",
+        "hebrew_letters_example": "מספיק כסף"
+    },
+    {
+        "english": "Too much",
+        "hebrew_spoken": "Yoter Miday",
+        "hebrew_letters": "יותר מדי",
+        "word_type": "Quantifier",
+        "lesson": "Lesson 10",
+        "english_example": "Too much work",
+        "hebrew_spoken_example": "Yoter miday avoda",
+        "hebrew_letters_example": "יותר מדי עבודה"
+    },
+    {
+        "english": "Too little",
+        "hebrew_spoken": "Me'at Miday",
+        "hebrew_letters": "מעט מדי",
+        "word_type": "Quantifier",
+        "lesson": "Lesson 10",
+        "english_example": "Too little time",
+        "hebrew_spoken_example": "Me'at miday zman",
+        "hebrew_letters_example": "מעט מדי זמן"
+    },
+    {
+        "english": "Both",
+        "hebrew_spoken": "Shneihem",
+        "hebrew_letters": "שניהם",
+        "word_type": "Quantifier",
+        "lesson": "Lesson 10",
+        "english_example": "Both are good",
+        "hebrew_spoken_example": "Shneihem tovim",
+        "hebrew_letters_example": "שניהם טובים"
+    },
+    {
+        "english": "Half",
+        "hebrew_spoken": "Hetzi",
+        "hebrew_letters": "חצי",
+        "word_type": "Quantifier",
+        "lesson": "Lesson 10",
+        "english_example": "Half an hour",
+        "hebrew_spoken_example": "Hetzi sha'a",
+        "hebrew_letters_example": "חצי שעה"
+    },
+    {
+        "english": "Whole",
+        "hebrew_spoken": "Shalem",
+        "hebrew_letters": "שלם",
+        "word_type": "Quantifier",
+        "lesson": "Lesson 10",
+        "english_example": "The whole day",
+        "hebrew_spoken_example": "Kol ha'yom",
+        "hebrew_letters_example": "כל היום"
+    },
+    {
+        "english": "To be",
+        "hebrew_spoken": "Lihyot",
+        "hebrew_letters": "להיות",
+        "word_type": "Modal/Auxiliary",
+        "lesson": "Lesson 11",
+        "english_example": "I want to be happy",
+        "hebrew_spoken_example": "Ani rotze lihyot sameah",
+        "hebrew_letters_example": "אני רוצה להיות שמח"
+    },
+    {
+        "english": "To have",
+        "hebrew_spoken": "Yesh",
+        "hebrew_letters": "יש",
+        "word_type": "Modal/Auxiliary",
+        "lesson": "Lesson 11",
+        "english_example": "I have a car",
+        "hebrew_spoken_example": "Yesh li mehonit",
+        "hebrew_letters_example": "יש לי מכונית"
+    },
+    {
+        "english": "Can",
+        "hebrew_spoken": "Yahol",
+        "hebrew_letters": "יכול",
+        "word_type": "Modal/Auxiliary",
+        "lesson": "Lesson 11",
+        "english_example": "I can help",
+        "hebrew_spoken_example": "Ani yahol la'azor",
+        "hebrew_letters_example": "אני יכול לעזור"
+    },
+    {
+        "english": "Must",
+        "hebrew_spoken": "Hayav",
+        "hebrew_letters": "חייב",
+        "word_type": "Modal/Auxiliary",
+        "lesson": "Lesson 11",
+        "english_example": "You must go",
+        "hebrew_spoken_example": "Ata hayav lalehet",
+        "hebrew_letters_example": "אתה חייב ללכת"
+    },
+    {
+        "english": "Should",
+        "hebrew_spoken": "Tzarih",
+        "hebrew_letters": "צריך",
+        "word_type": "Modal/Auxiliary",
+        "lesson": "Lesson 11",
+        "english_example": "You should eat",
+        "hebrew_spoken_example": "Ata tzarih le'ehol",
+        "hebrew_letters_example": "אתה צריך לאכול"
+    },
+    {
+        "english": "Want",
+        "hebrew_spoken": "Rotze",
+        "hebrew_letters": "רוצה",
+        "word_type": "Modal/Auxiliary",
+        "lesson": "Lesson 11",
+        "english_example": "I want coffee",
+        "hebrew_spoken_example": "Ani rotze kafe",
+        "hebrew_letters_example": "אני רוצה קפה"
+    },
+    {
+        "english": "Need",
+        "hebrew_spoken": "Tzarih",
+        "hebrew_letters": "צריך",
+        "word_type": "Modal/Auxiliary",
+        "lesson": "Lesson 11",
+        "english_example": "I need help",
+        "hebrew_spoken_example": "Ani tzarih ezra",
+        "hebrew_letters_example": "אני צריך עזרה"
+    },
+    {
+        "english": "Would",
+        "hebrew_spoken": "Haya",
+        "hebrew_letters": "היה",
+        "word_type": "Modal/Auxiliary",
+        "lesson": "Lesson 11",
+        "english_example": "I would go",
+        "hebrew_spoken_example": "Hayiti holeh",
+        "hebrew_letters_example": "הייתי הולך"
+    },
+    {
+        "english": "Could",
+        "hebrew_spoken": "Yahol Haya",
+        "hebrew_letters": "יכול היה",
+        "word_type": "Modal/Auxiliary",
+        "lesson": "Lesson 11",
+        "english_example": "He could help",
+        "hebrew_spoken_example": "Hu yahol haya la'azor",
+        "hebrew_letters_example": "הוא יכול היה לעזור"
+    },
+    {
+        "english": "May",
+        "hebrew_spoken": "Mutar",
+        "hebrew_letters": "מותר",
+        "word_type": "Modal/Auxiliary",
+        "lesson": "Lesson 11",
+        "english_example": "May I enter?",
+        "hebrew_spoken_example": "Mutar li lehikanes?",
+        "hebrew_letters_example": "מותר לי להיכנס?"
+    },
+    {
+        "english": "Might",
+        "hebrew_spoken": "Yitahen",
+        "hebrew_letters": "יתכן",
+        "word_type": "Modal/Auxiliary",
+        "lesson": "Lesson 11",
+        "english_example": "It might rain",
+        "hebrew_spoken_example": "Yitahen she'yered geshem",
+        "hebrew_letters_example": "יתכן שירד גשם"
+    },
+    {
+        "english": "Like (as)",
+        "hebrew_spoken": "Kmo",
+        "hebrew_letters": "כמו",
+        "word_type": "Comparison",
+        "lesson": "Lesson 12",
+        "english_example": "Like a child",
+        "hebrew_spoken_example": "Kmo yeled",
+        "hebrew_letters_example": "כמו ילד"
+    },
+    {
+        "english": "Than",
+        "hebrew_spoken": "Mi",
+        "hebrew_letters": "מ",
+        "word_type": "Comparison",
+        "lesson": "Lesson 12",
+        "english_example": "Bigger than",
+        "hebrew_spoken_example": "Gadol mi",
+        "hebrew_letters_example": "גדול מ"
+    },
+    {
+        "english": "As...as",
+        "hebrew_spoken": "Kmo",
+        "hebrew_letters": "כמו",
+        "word_type": "Comparison",
+        "lesson": "Lesson 12",
+        "english_example": "As big as",
+        "hebrew_spoken_example": "Gadol kmo",
+        "hebrew_letters_example": "גדול כמו"
+    },
+    {
+        "english": "More...than",
+        "hebrew_spoken": "Yoter...Mi",
+        "hebrew_letters": "יותר...מ",
+        "word_type": "Comparison",
+        "lesson": "Lesson 12",
+        "english_example": "More beautiful than",
+        "hebrew_spoken_example": "Yoter yafe mi",
+        "hebrew_letters_example": "יותר יפה מ"
+    },
+    {
+        "english": "Less...than",
+        "hebrew_spoken": "Pahot...Mi",
+        "hebrew_letters": "פחות...מ",
+        "word_type": "Comparison",
+        "lesson": "Lesson 12",
+        "english_example": "Less expensive than",
+        "hebrew_spoken_example": "Pahot yakar mi",
+        "hebrew_letters_example": "פחות יקר מ"
+    },
+    {
+        "english": "For",
+        "hebrew_spoken": "Bishvil",
+        "hebrew_letters": "בשביל",
+        "word_type": "Relation",
+        "lesson": "Lesson 12",
+        "english_example": "For you",
+        "hebrew_spoken_example": "Bishvilha",
+        "hebrew_letters_example": "בשבילך"
+    },
+    {
+        "english": "Since",
+        "hebrew_spoken": "Me'az",
+        "hebrew_letters": "מאז",
+        "word_type": "Relation",
+        "lesson": "Lesson 12",
+        "english_example": "Since yesterday",
+        "hebrew_spoken_example": "Me'az etmol",
+        "hebrew_letters_example": "מאז אתמול"
+    },
+    {
+        "english": "Until",
+        "hebrew_spoken": "Ad",
+        "hebrew_letters": "עד",
+        "word_type": "Relation",
+        "lesson": "Lesson 12",
+        "english_example": "Until tomorrow",
+        "hebrew_spoken_example": "Ad mahar",
+        "hebrew_letters_example": "עד מחר"
+    },
+    {
+        "english": "During",
+        "hebrew_spoken": "Bemashehu",
+        "hebrew_letters": "במשך",
+        "word_type": "Relation",
+        "lesson": "Lesson 12",
+        "english_example": "During the day",
+        "hebrew_spoken_example": "Bemashehu ha'yom",
+        "hebrew_letters_example": "במשך היום"
+    },
+    {
+        "english": "Instead of",
+        "hebrew_spoken": "Bimekom",
+        "hebrew_letters": "במקום",
+        "word_type": "Relation",
+        "lesson": "Lesson 12",
+        "english_example": "Instead of coffee",
+        "hebrew_spoken_example": "Bimekom kafe",
+        "hebrew_letters_example": "במקום קפה"
+    },
+    {
+        "english": "Except",
+        "hebrew_spoken": "Hutz Mi",
+        "hebrew_letters": "חוץ מ",
+        "word_type": "Relation",
+        "lesson": "Lesson 12",
+        "english_example": "Everyone except him",
+        "hebrew_spoken_example": "Kulam hutz mimenu",
+        "hebrew_letters_example": "כולם חוץ ממנו"
+    },
+    {
+        "english": "Besides",
+        "hebrew_spoken": "Milevad",
+        "hebrew_letters": "מלבד",
+        "word_type": "Relation",
+        "lesson": "Lesson 12",
+        "english_example": "Besides that",
+        "hebrew_spoken_example": "Milevad ze",
+        "hebrew_letters_example": "מלבד זה"
+    },
+    {
+        "english": "According to",
+        "hebrew_spoken": "Lefi",
+        "hebrew_letters": "לפי",
+        "word_type": "Relation",
+        "lesson": "Lesson 12",
+        "english_example": "According to the plan",
+        "hebrew_spoken_example": "Lefi ha'toknit",
+        "hebrew_letters_example": "לפי התוכנית"
+    },
+    {
+        "english": "Against",
+        "hebrew_spoken": "Neged",
+        "hebrew_letters": "נגד",
+        "word_type": "Relation",
+        "lesson": "Lesson 12",
+        "english_example": "Against the rules",
+        "hebrew_spoken_example": "Neged ha'klalim",
+        "hebrew_letters_example": "נגד הכללים"
+    },
+    {
+        "english": "About",
+        "hebrew_spoken": "Al",
+        "hebrew_letters": "על",
+        "word_type": "Relation",
+        "lesson": "Lesson 12",
+        "english_example": "Talk about it",
+        "hebrew_spoken_example": "Ledaber al ze",
+        "hebrew_letters_example": "לדבר על זה"
+    },
+    {
+        "english": "Regarding",
+        "hebrew_spoken": "Be'inyan",
+        "hebrew_letters": "בעניין",
+        "word_type": "Relation",
+        "lesson": "Lesson 12",
+        "english_example": "Regarding your question",
+        "hebrew_spoken_example": "Be'inyan ha'she'ela shelha",
+        "hebrew_letters_example": "בעניין השאלה שלך"
+    }
+]

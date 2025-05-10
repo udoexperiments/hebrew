@@ -1,0 +1,71 @@
+/* css/base.css - Base styles and resets */
+
+/* Reset and base styles */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "SF Pro Display", -apple-system, BlinkMacSystemFont, sans-serif;
+  background-color: var(--background-color);
+  color: #333;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  transition: background-color var(--transition-duration) ease;
+}
+
+/* App container */
+.app-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: var(--spacing-standard);
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  gap: var(--spacing-standard);
+}
+
+/* Header */
+header {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-standard);
+}
+
+/* Main content */
+main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Footer */
+footer {
+  display: flex;
+  flex-direction: column;
+  gap: calc(var(--spacing-standard) / 2);
+  align-items: center;
+}
+
+/* Transitions and visibility */
+.control-group:not(:first-child),
+main,
+footer {
+  opacity: 1;
+  visibility: visible;
+  transition: opacity 300ms ease, visibility 300ms ease;
+}
+
+.hidden {
+  opacity: 0 !important;
+  visibility: hidden !important;
+  height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow: hidden !important;
+  position: absolute !important;
+}

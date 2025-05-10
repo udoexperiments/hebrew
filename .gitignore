@@ -1,4 +1,6 @@
 scripts/
 raw_data/
+resources/scripts/
+resources/raw_data/
 .DS_Store
 **/.DS_Store

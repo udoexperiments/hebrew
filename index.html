@@ -3,60 +3,64 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Language Learning App</title>
-    <link rel="stylesheet" href="styles.css">
-    <link href="https://fonts.googleapis.com/css2?family=SF+Pro+Display:wght@400;500;600&display=swap" rel="stylesheet">
+    <title>Hebrew Language Learning App</title>
+    
+    <!-- CSS imports -->
+    <link rel="stylesheet" href="css/main.css">
+    
+    <!-- JavaScript module import -->
+    <script type="module" src="js/main.js"></script>
 </head>
 <body>
     <div class="app-container">
         <header>
             <div class="control-group">
-                <button id="menu-button" class="direction-button">
+                <button id="menu-button" class="action-button">
                     <span class="button-text">Menu</span>
                 </button>
-            </div>
-            <div class="control-group">
-                <select id="category-select" class="glass-select" defaultValue="sentences">
-                    <option value="sentences_present">Sentences_Present</option>
-                    <option value="sentences_past">Sentences_Past</option>
-                    <option value="sentences_future">Sentences_Future</option>
-                    <option value="verbs">Verbs</option>
-                    <option value="nouns">Nouns</option>
-                    <option value="adjectives">Adjectives</option>
-                    <option value="grammar">Grammar</option>
-                    <option value="basics">Basics</option>
-                </select>
                 <button id="switch-direction" class="direction-button">
                     <span class="button-text">English → Hebrew</span>
                 </button>
             </div>
+            
+            <div class="control-group" style="display: none;">
+                <select id="category-select" class="glass-select">
+                    <!-- Options populated by JavaScript -->
+                </select>
+            </div>
         </header>
-
-        <div id="menu-grid" class="menu-grid"></div>
 
         <main>
             <div class="card-container">
-                <div id="english-section" class="language-card">
-                    <div class="content-area">
-                        <p id="english-text"></p>
+                <div class="language-card">
+                    <div id="english-section">
+                        <div class="content-area">
+                            <div id="english-text"></div>
+                        </div>
                     </div>
                 </div>
                 
-                <div id="hebrew-section" class="language-card">
-                    <div class="content-area">
-                        <div id="hebrew-content"></div>
+                <div class="language-card">
+                    <div id="hebrew-section">
+                        <div class="content-area">
+                            <div id="hebrew-content"></div>
+                        </div>
                     </div>
                 </div>
             </div>
         </main>
+        
+        <!-- Menu grid outside of main -->
+        <div id="menu-grid" class="menu-grid">
+            <!-- Menu items populated by JavaScript -->
+        </div>
 
         <footer>
             <button id="show-continue" class="action-button">
                 <span class="button-text">Show</span>
             </button>
+            <!-- Progress display and feedback buttons added dynamically -->
         </footer>
     </div>
-    <script src="script.js"></script>
 </body>
 </html>
-

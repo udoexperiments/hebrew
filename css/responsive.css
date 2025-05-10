@@ -1,0 +1,195 @@
+/* css/responsive.css - Responsive design */
+
+/* Tablet and up */
+@media (min-width: 768px) {
+  .card-container {
+    flex-direction: row;
+  }
+
+  .language-card {
+    width: 50%;
+  }
+}
+
+/* Mobile optimizations */
+@media (max-width: 767px) {
+  :root {
+    --spacing-standard: 8px;
+    --section-height: 180px;
+  }
+
+  .control-group {
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  .glass-select,
+  .direction-button,
+  .action-button {
+    width: auto;
+    padding: 8px 12px;
+    font-size: 14px;
+    min-height: 36px;
+  }
+
+  #switch-direction {
+    width: 100%;
+  }
+
+  .app-container {
+    padding: 8px;
+    gap: 8px;
+  }
+
+  .card-container {
+    gap: 8px;
+  }
+
+  .language-card {
+    padding: 8px;
+  }
+
+  .menu-grid {
+    padding: 8px;
+    gap: 8px;
+  }
+
+  .menu-item {
+    font-size: 12px;
+    padding: 6px;
+    min-width: auto;
+    height: 32px;
+  }
+
+  header {
+    gap: 8px;
+  }
+
+  .content-area {
+    font-size: 16px;
+    padding: 8px;
+  }
+
+  footer {
+    gap: 4px;
+    margin-top: 4px;
+  }
+
+  #progress-display {
+    margin-top: 4px;
+  }
+  
+  .progress-container {
+    max-width: 100%;
+  }
+  
+  .progress-bar {
+    height: 6px;
+  }
+  
+  .progress-text {
+    font-size: 12px;
+  }
+
+  .feedback-container {
+    gap: 8px;
+  }
+
+  .feedback-button {
+    padding: 8px;
+    font-size: 14px;
+    min-height: 36px;
+  }
+
+  .form-group {
+    margin-bottom: 6px;
+    padding: 4px;
+  }
+
+  #show-continue {
+    width: 100%;
+    padding: 8px 16px;
+    font-size: 14px;
+  }
+
+  /* Ensure the app fits in viewport height */
+  .app-container {
+    min-height: calc(100vh - 16px);
+    max-height: 100vh;
+    overflow-y: auto;
+  }
+
+  /* Compact layout for cards on mobile */
+  body,
+  html {
+    height: 100%;
+    overflow: hidden;
+  }
+
+  .app-container {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .card-container {
+    flex: 1;
+    overflow: hidden;
+  }
+
+  #english-section,
+  #hebrew-section {
+    flex: 1;
+    height: auto;
+    min-height: 0;
+    max-height: none;
+  }
+
+  footer {
+    padding-top: 4px;
+    padding-bottom: 4px;
+  }
+
+  #show-continue {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  /* Menu button styling */
+  #menu-button {
+    width: 100%;
+    min-width: auto;
+    max-width: 100%;
+    margin: 0 auto;
+  }
+
+  /* Menu grid responsive layout */
+  .menu-grid {
+    padding: var(--spacing-standard);
+    gap: var(--spacing-standard);
+    width: 100%;
+  }
+
+  .menu-control-container,
+  .lesson-container {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .menu-grid.visible {
+    width: 100%;
+    padding: var(--spacing-standard);
+  }
+
+  .lesson-buttons-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}

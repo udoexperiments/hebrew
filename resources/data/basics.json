@@ -1,0 +1,1780 @@
+[
+    {
+        "english": "Sunday",
+        "hebrew_spoken": "Yom Rishon",
+        "hebrew_letters": "יום ראשון",
+        "word_type": "Day of the Week",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Monday",
+        "hebrew_spoken": "Yom Sheni",
+        "hebrew_letters": "יום שני",
+        "word_type": "Day of the Week",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Tuesday",
+        "hebrew_spoken": "Yom Shlishi",
+        "hebrew_letters": "יום שלישי",
+        "word_type": "Day of the Week",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Wednesday",
+        "hebrew_spoken": "Yom Revi'i",
+        "hebrew_letters": "יום רביעי",
+        "word_type": "Day of the Week",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Thursday",
+        "hebrew_spoken": "Yom Chamishi",
+        "hebrew_letters": "יום חמישי",
+        "word_type": "Day of the Week",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Friday",
+        "hebrew_spoken": "Yom Shishi",
+        "hebrew_letters": "יום שישי",
+        "word_type": "Day of the Week",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Saturday",
+        "hebrew_spoken": "Yom Shabbat",
+        "hebrew_letters": "יום שבת",
+        "word_type": "Day of the Week",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "January",
+        "hebrew_spoken": "Yanvar",
+        "hebrew_letters": "ינואר",
+        "word_type": "Month",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "February",
+        "hebrew_spoken": "Februar",
+        "hebrew_letters": "פברואר",
+        "word_type": "Month",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "March",
+        "hebrew_spoken": "Martz",
+        "hebrew_letters": "מרץ",
+        "word_type": "Month",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "April",
+        "hebrew_spoken": "April",
+        "hebrew_letters": "אפריל",
+        "word_type": "Month",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "May",
+        "hebrew_spoken": "Mai",
+        "hebrew_letters": "מאי",
+        "word_type": "Month",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "June",
+        "hebrew_spoken": "Yuni",
+        "hebrew_letters": "יוני",
+        "word_type": "Month",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "July",
+        "hebrew_spoken": "Yuli",
+        "hebrew_letters": "יולי",
+        "word_type": "Month",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "August",
+        "hebrew_spoken": "August",
+        "hebrew_letters": "אוגוסט",
+        "word_type": "Month",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "September",
+        "hebrew_spoken": "Septemebr",
+        "hebrew_letters": "ספטמבר",
+        "word_type": "Month",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "October",
+        "hebrew_spoken": "Oktober",
+        "hebrew_letters": "אוקטובר",
+        "word_type": "Month",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "November",
+        "hebrew_spoken": "Novemebr",
+        "hebrew_letters": "נובמבר",
+        "word_type": "Month",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "December",
+        "hebrew_spoken": "December",
+        "hebrew_letters": "דצמבר",
+        "word_type": "Month",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "Left",
+        "hebrew_spoken": "Smol",
+        "hebrew_letters": "שמאל",
+        "word_type": "Direction",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Right",
+        "hebrew_spoken": "Yamin",
+        "hebrew_letters": "ימין",
+        "word_type": "Direction",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Straight",
+        "hebrew_spoken": "Yashar",
+        "hebrew_letters": "ישר",
+        "word_type": "Direction",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Up",
+        "hebrew_spoken": "Lema'ala",
+        "hebrew_letters": "למעלה",
+        "word_type": "Direction",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Down",
+        "hebrew_spoken": "Lemata",
+        "hebrew_letters": "למטה",
+        "word_type": "Direction",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Forward",
+        "hebrew_spoken": "Kadima",
+        "hebrew_letters": "קדימה",
+        "word_type": "Direction",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Backward",
+        "hebrew_spoken": "Achor",
+        "hebrew_letters": "אחור",
+        "word_type": "Direction",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Today",
+        "hebrew_spoken": "Hayom",
+        "hebrew_letters": "היום",
+        "word_type": "Time Expression",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Tomorrow",
+        "hebrew_spoken": "Machar",
+        "hebrew_letters": "מחר",
+        "word_type": "Time Expression",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Yesterday",
+        "hebrew_spoken": "Etmol",
+        "hebrew_letters": "אתמול",
+        "word_type": "Time Expression",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Morning",
+        "hebrew_spoken": "Boker",
+        "hebrew_letters": "בוקר",
+        "word_type": "Time Expression",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Afternoon",
+        "hebrew_spoken": "Acharei Hatzohorayim",
+        "hebrew_letters": "אחרי הצהריים",
+        "word_type": "Time Expression",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Evening",
+        "hebrew_spoken": "Erev",
+        "hebrew_letters": "ערב",
+        "word_type": "Time Expression",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Night",
+        "hebrew_spoken": "Laila",
+        "hebrew_letters": "לילה",
+        "word_type": "Time Expression",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Now",
+        "hebrew_spoken": "Achshav",
+        "hebrew_letters": "עכשיו",
+        "word_type": "Time Expression",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Later",
+        "hebrew_spoken": "Yoter meuchar",
+        "hebrew_letters": "יותר מאוחר",
+        "word_type": "Time Expression",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Red",
+        "hebrew_spoken": "Adom",
+        "hebrew_letters": "אדום",
+        "word_type": "Color",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Blue",
+        "hebrew_spoken": "Kachol",
+        "hebrew_letters": "כחול",
+        "word_type": "Color",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Green",
+        "hebrew_spoken": "Yarok",
+        "hebrew_letters": "ירוק",
+        "word_type": "Color",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Yellow",
+        "hebrew_spoken": "Tzahov",
+        "hebrew_letters": "צהוב",
+        "word_type": "Color",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Black",
+        "hebrew_spoken": "Shachor",
+        "hebrew_letters": "שחור",
+        "word_type": "Color",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "White",
+        "hebrew_spoken": "Lavan",
+        "hebrew_letters": "לבן",
+        "word_type": "Color",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Gray",
+        "hebrew_spoken": "Afor",
+        "hebrew_letters": "אפור",
+        "word_type": "Color",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Pink",
+        "hebrew_spoken": "Varod",
+        "hebrew_letters": "ורוד",
+        "word_type": "Color",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Orange",
+        "hebrew_spoken": "Katom",
+        "hebrew_letters": "כתום",
+        "word_type": "Color",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Purple",
+        "hebrew_spoken": "Segol",
+        "hebrew_letters": "סגול",
+        "word_type": "Color",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Brown",
+        "hebrew_spoken": "Chum",
+        "hebrew_letters": "חום",
+        "word_type": "Color",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Mother",
+        "hebrew_spoken": "Ima",
+        "hebrew_letters": "אמא",
+        "word_type": "Family",
+        "lesson": "Lesson 6"
+    },
+    {
+        "english": "Father",
+        "hebrew_spoken": "Aba",
+        "hebrew_letters": "אבא",
+        "word_type": "Family",
+        "lesson": "Lesson 6"
+    },
+    {
+        "english": "Brother",
+        "hebrew_spoken": "Ach",
+        "hebrew_letters": "אח",
+        "word_type": "Family",
+        "lesson": "Lesson 6"
+    },
+    {
+        "english": "Sister",
+        "hebrew_spoken": "Achot",
+        "hebrew_letters": "אחות",
+        "word_type": "Family",
+        "lesson": "Lesson 6"
+    },
+    {
+        "english": "Grandfather",
+        "hebrew_spoken": "Saba",
+        "hebrew_letters": "סבא",
+        "word_type": "Family",
+        "lesson": "Lesson 6"
+    },
+    {
+        "english": "Grandmother",
+        "hebrew_spoken": "Savta",
+        "hebrew_letters": "סבתא",
+        "word_type": "Family",
+        "lesson": "Lesson 6"
+    },
+    {
+        "english": "Uncle",
+        "hebrew_spoken": "Dod",
+        "hebrew_letters": "דוד",
+        "word_type": "Family",
+        "lesson": "Lesson 6"
+    },
+    {
+        "english": "Aunt",
+        "hebrew_spoken": "Doda",
+        "hebrew_letters": "דודה",
+        "word_type": "Family",
+        "lesson": "Lesson 6"
+    },
+    {
+        "english": "Cousin (m.)",
+        "hebrew_spoken": "Ben Doda",
+        "hebrew_letters": "בן דוד",
+        "word_type": "Family",
+        "lesson": "Lesson 6"
+    },
+    {
+        "english": "Cousin (f.)",
+        "hebrew_spoken": "Bat Doda",
+        "hebrew_letters": "בת דודה",
+        "word_type": "Family",
+        "lesson": "Lesson 6"
+    },
+    {
+        "english": "Son",
+        "hebrew_spoken": "Ben",
+        "hebrew_letters": "בן",
+        "word_type": "Family",
+        "lesson": "Lesson 6"
+    },
+    {
+        "english": "Daughter",
+        "hebrew_spoken": "Bat",
+        "hebrew_letters": "בת",
+        "word_type": "Family",
+        "lesson": "Lesson 6"
+    },
+    {
+        "english": "Nephew",
+        "hebrew_spoken": "Achyan",
+        "hebrew_letters": "אחיין",
+        "word_type": "Family",
+        "lesson": "Lesson 6"
+    },
+    {
+        "english": "Niece",
+        "hebrew_spoken": "Achyanit",
+        "hebrew_letters": "אחיינית",
+        "word_type": "Family",
+        "lesson": "Lesson 6"
+    },
+    {
+        "english": "Husband",
+        "hebrew_spoken": "Ba'al",
+        "hebrew_letters": "בעל",
+        "word_type": "Family",
+        "lesson": "Lesson 6"
+    },
+    {
+        "english": "Wife",
+        "hebrew_spoken": "Ischa",
+        "hebrew_letters": "אשה",
+        "word_type": "Family",
+        "lesson": "Lesson 6"
+    },
+    {
+        "english": "Zero",
+        "hebrew_spoken": "Efes",
+        "hebrew_letters": "אפס",
+        "word_type": "Number",
+        "lesson": "Lesson 7"
+    },
+    {
+        "english": "One",
+        "hebrew_spoken": "Ehad (m) / Ahat (f)",
+        "hebrew_letters": "אחד / אחת",
+        "word_type": "Number",
+        "lesson": "Lesson 7"
+    },
+    {
+        "english": "Two",
+        "hebrew_spoken": "Shnayim (m) / Shtayim (f)",
+        "hebrew_letters": "שניים / שתיים",
+        "word_type": "Number",
+        "lesson": "Lesson 7"
+    },
+    {
+        "english": "Three",
+        "hebrew_spoken": "Shlosha (m) / Shalosh (f)",
+        "hebrew_letters": "שלושה / שלוש",
+        "word_type": "Number",
+        "lesson": "Lesson 7"
+    },
+    {
+        "english": "Four",
+        "hebrew_spoken": "Arba'a (m) / Arba (f)",
+        "hebrew_letters": "ארבעה / ארבע",
+        "word_type": "Number",
+        "lesson": "Lesson 7"
+    },
+    {
+        "english": "Five",
+        "hebrew_spoken": "Hamisha (m) / Hamesh (f)",
+        "hebrew_letters": "חמישה / חמש",
+        "word_type": "Number",
+        "lesson": "Lesson 7"
+    },
+    {
+        "english": "Six",
+        "hebrew_spoken": "Shisha (m) / Shesh (f)",
+        "hebrew_letters": "שישה / שש",
+        "word_type": "Number",
+        "lesson": "Lesson 7"
+    },
+    {
+        "english": "Seven",
+        "hebrew_spoken": "Shiv'a (m) / Sheva (f)",
+        "hebrew_letters": "שבעה / שבע",
+        "word_type": "Number",
+        "lesson": "Lesson 7"
+    },
+    {
+        "english": "Eight",
+        "hebrew_spoken": "Shmona (m) / Shmone (f)",
+        "hebrew_letters": "שמונה / שמונה",
+        "word_type": "Number",
+        "lesson": "Lesson 7"
+    },
+    {
+        "english": "Nine",
+        "hebrew_spoken": "Tish'a (m) / Tesha (f)",
+        "hebrew_letters": "תשעה / תשע",
+        "word_type": "Number",
+        "lesson": "Lesson 7"
+    },
+    {
+        "english": "Ten",
+        "hebrew_spoken": "Asara (m) / Eser (f)",
+        "hebrew_letters": "עשרה / עשר",
+        "word_type": "Number",
+        "lesson": "Lesson 7"
+    },
+    {
+        "english": "Eleven",
+        "hebrew_spoken": "Ahad-asar",
+        "hebrew_letters": "אחד עשר",
+        "word_type": "Number",
+        "lesson": "Lesson 7"
+    },
+    {
+        "english": "Twelve",
+        "hebrew_spoken": "Shnem-asar",
+        "hebrew_letters": "שנים עשר",
+        "word_type": "Number",
+        "lesson": "Lesson 7"
+    },
+    {
+        "english": "Thirteen",
+        "hebrew_spoken": "Shlosha-asar",
+        "hebrew_letters": "שלושה עשר",
+        "word_type": "Number",
+        "lesson": "Lesson 7"
+    },
+    {
+        "english": "Fourteen",
+        "hebrew_spoken": "Arba'a-asar",
+        "hebrew_letters": "ארבעה עשר",
+        "word_type": "Number",
+        "lesson": "Lesson 7"
+    },
+    {
+        "english": "Fifteen",
+        "hebrew_spoken": "Hamisha-asar",
+        "hebrew_letters": "חמישה עשר",
+        "word_type": "Number",
+        "lesson": "Lesson 7"
+    },
+    {
+        "english": "Sixteen",
+        "hebrew_spoken": "Shisha-asar",
+        "hebrew_letters": "שישה עשר",
+        "word_type": "Number",
+        "lesson": "Lesson 7"
+    },
+    {
+        "english": "Seventeen",
+        "hebrew_spoken": "Shiv'a-asar",
+        "hebrew_letters": "שבעה עשר",
+        "word_type": "Number",
+        "lesson": "Lesson 7"
+    },
+    {
+        "english": "Eighteen",
+        "hebrew_spoken": "Shmona-asar",
+        "hebrew_letters": "שמונה עשר",
+        "word_type": "Number",
+        "lesson": "Lesson 7"
+    },
+    {
+        "english": "Nineteen",
+        "hebrew_spoken": "Tish'a-asar",
+        "hebrew_letters": "תשעה עשר",
+        "word_type": "Number",
+        "lesson": "Lesson 7"
+    },
+    {
+        "english": "Twenty",
+        "hebrew_spoken": "Esrim",
+        "hebrew_letters": "עשרים",
+        "word_type": "Number",
+        "lesson": "Lesson 7"
+    },
+    {
+        "english": "Thirty",
+        "hebrew_spoken": "Shloshim",
+        "hebrew_letters": "שלושים",
+        "word_type": "Number",
+        "lesson": "Lesson 7"
+    },
+    {
+        "english": "Forty",
+        "hebrew_spoken": "Arba'im",
+        "hebrew_letters": "ארבעים",
+        "word_type": "Number",
+        "lesson": "Lesson 7"
+    },
+    {
+        "english": "Fifty",
+        "hebrew_spoken": "Hamishim",
+        "hebrew_letters": "חמישים",
+        "word_type": "Number",
+        "lesson": "Lesson 7"
+    },
+    {
+        "english": "Water [p]",
+        "hebrew_spoken": "Mayim",
+        "hebrew_letters": "מים",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Coffee [m]",
+        "hebrew_spoken": "Kafe",
+        "hebrew_letters": "קפה",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Tea [m]",
+        "hebrew_spoken": "Te",
+        "hebrew_letters": "תה",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Milk [m]",
+        "hebrew_spoken": "Halav",
+        "hebrew_letters": "חלב",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Juice [m]",
+        "hebrew_spoken": "Mitz",
+        "hebrew_letters": "מיץ",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Wine [m]",
+        "hebrew_spoken": "Yayin",
+        "hebrew_letters": "יין",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Beer [f]",
+        "hebrew_spoken": "Bira",
+        "hebrew_letters": "בירה",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Bread [m]",
+        "hebrew_spoken": "Lehem",
+        "hebrew_letters": "לחם",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Egg [f]",
+        "hebrew_spoken": "Beitza",
+        "hebrew_letters": "ביצה",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Cheese [f]",
+        "hebrew_spoken": "Gvina",
+        "hebrew_letters": "גבינה",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Butter [f]",
+        "hebrew_spoken": "Hem'a",
+        "hebrew_letters": "חמאה",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Apple [m]",
+        "hebrew_spoken": "Tapuah",
+        "hebrew_letters": "תפוח",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Orange [m]",
+        "hebrew_spoken": "Tapuz",
+        "hebrew_letters": "תפוז",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Banana [f]",
+        "hebrew_spoken": "Banana",
+        "hebrew_letters": "בננה",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Grape [m]",
+        "hebrew_spoken": "Anav",
+        "hebrew_letters": "ענב",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Strawberry [m]",
+        "hebrew_spoken": "Tut",
+        "hebrew_letters": "תות",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Watermelon [f]",
+        "hebrew_spoken": "Avatiah",
+        "hebrew_letters": "אבטיח",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Lemon [m]",
+        "hebrew_spoken": "Limon",
+        "hebrew_letters": "לימון",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Tomato [f]",
+        "hebrew_spoken": "Agvaniya",
+        "hebrew_letters": "עגבניה",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Cucumber [f]",
+        "hebrew_spoken": "Melafefon",
+        "hebrew_letters": "מלפפון",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Carrot [m]",
+        "hebrew_spoken": "Gezer",
+        "hebrew_letters": "גזר",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Potato [m]",
+        "hebrew_spoken": "Tapuah Adama",
+        "hebrew_letters": "תפוח אדמה",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Onion [m]",
+        "hebrew_spoken": "Batzal",
+        "hebrew_letters": "בצל",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Garlic [m]",
+        "hebrew_spoken": "Shum",
+        "hebrew_letters": "שום",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Chicken [m]",
+        "hebrew_spoken": "Of",
+        "hebrew_letters": "עוף",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Meat [m]",
+        "hebrew_spoken": "Basar",
+        "hebrew_letters": "בשר",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Fish [m]",
+        "hebrew_spoken": "Dag",
+        "hebrew_letters": "דג",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Rice [m]",
+        "hebrew_spoken": "Orez",
+        "hebrew_letters": "אורז",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Pasta [f]",
+        "hebrew_spoken": "Pasta",
+        "hebrew_letters": "פסטה",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Soup [m]",
+        "hebrew_spoken": "Marak",
+        "hebrew_letters": "מרק",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Salad [m]",
+        "hebrew_spoken": "Salat",
+        "hebrew_letters": "סלט",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Pizza [f]",
+        "hebrew_spoken": "Pizza",
+        "hebrew_letters": "פיצה",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Hummus [m]",
+        "hebrew_spoken": "Hummus",
+        "hebrew_letters": "חומוס",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Falafel [m]",
+        "hebrew_spoken": "Falafel",
+        "hebrew_letters": "פלאפל",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Pita [f]",
+        "hebrew_spoken": "Pita",
+        "hebrew_letters": "פיתה",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Salt [m]",
+        "hebrew_spoken": "Melah",
+        "hebrew_letters": "מלח",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Pepper [m]",
+        "hebrew_spoken": "Pilpel",
+        "hebrew_letters": "פלפל",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Sugar [m]",
+        "hebrew_spoken": "Sukar",
+        "hebrew_letters": "סוכר",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Honey [m]",
+        "hebrew_spoken": "Dvash",
+        "hebrew_letters": "דבש",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Olive [m]",
+        "hebrew_spoken": "Zayit",
+        "hebrew_letters": "זית",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Oil [m]",
+        "hebrew_spoken": "Shemen",
+        "hebrew_letters": "שמן",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Cake [f]",
+        "hebrew_spoken": "Uga",
+        "hebrew_letters": "עוגה",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Cookie [f]",
+        "hebrew_spoken": "Ugiya",
+        "hebrew_letters": "עוגייה",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Ice cream [f]",
+        "hebrew_spoken": "Glida",
+        "hebrew_letters": "גלידה",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Chocolate [m]",
+        "hebrew_spoken": "Shokolad",
+        "hebrew_letters": "שוקולד",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Candy [m]",
+        "hebrew_spoken": "Mamtak",
+        "hebrew_letters": "ממתק",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Breakfast [f]",
+        "hebrew_spoken": "Aruhat Boker",
+        "hebrew_letters": "ארוחת בוקר",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Lunch [f]",
+        "hebrew_spoken": "Aruhat Tzohorayim",
+        "hebrew_letters": "ארוחת צהריים",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Dinner [f]",
+        "hebrew_spoken": "Aruhat Erev",
+        "hebrew_letters": "ארוחת ערב",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Yogurt [f]",
+        "hebrew_spoken": "Yogurt",
+        "hebrew_letters": "יוגורט",
+        "word_type": "Food and Drink",
+        "lesson": "Lesson 8"
+    },
+    {
+        "english": "Head [m]",
+        "hebrew_spoken": "Rosh",
+        "hebrew_letters": "ראש",
+        "word_type": "Body Part",
+        "lesson": "Lesson 9"
+    },
+    {
+        "english": "Eye [f]",
+        "hebrew_spoken": "Ayin",
+        "hebrew_letters": "עין",
+        "word_type": "Body Part",
+        "lesson": "Lesson 9"
+    },
+    {
+        "english": "Ear [f]",
+        "hebrew_spoken": "Ozen",
+        "hebrew_letters": "אוזן",
+        "word_type": "Body Part",
+        "lesson": "Lesson 9"
+    },
+    {
+        "english": "Nose [m]",
+        "hebrew_spoken": "Af",
+        "hebrew_letters": "אף",
+        "word_type": "Body Part",
+        "lesson": "Lesson 9"
+    },
+    {
+        "english": "Mouth [m]",
+        "hebrew_spoken": "Pe",
+        "hebrew_letters": "פה",
+        "word_type": "Body Part",
+        "lesson": "Lesson 9"
+    },
+    {
+        "english": "Tooth [f]",
+        "hebrew_spoken": "Shen",
+        "hebrew_letters": "שן",
+        "word_type": "Body Part",
+        "lesson": "Lesson 9"
+    },
+    {
+        "english": "Tongue [f]",
+        "hebrew_spoken": "Lashon",
+        "hebrew_letters": "לשון",
+        "word_type": "Body Part",
+        "lesson": "Lesson 9"
+    },
+    {
+        "english": "Lips [f,p]",
+        "hebrew_spoken": "Sfatayim",
+        "hebrew_letters": "שפתיים",
+        "word_type": "Body Part",
+        "lesson": "Lesson 9"
+    },
+    {
+        "english": "Hand [f]",
+        "hebrew_spoken": "Yad",
+        "hebrew_letters": "יד",
+        "word_type": "Body Part",
+        "lesson": "Lesson 9"
+    },
+    {
+        "english": "Finger [f]",
+        "hebrew_spoken": "Etzba",
+        "hebrew_letters": "אצבע",
+        "word_type": "Body Part",
+        "lesson": "Lesson 9"
+    },
+    {
+        "english": "Arm [f]",
+        "hebrew_spoken": "Zroa",
+        "hebrew_letters": "זרוע",
+        "word_type": "Body Part",
+        "lesson": "Lesson 9"
+    },
+    {
+        "english": "Leg [f]",
+        "hebrew_spoken": "Regel",
+        "hebrew_letters": "רגל",
+        "word_type": "Body Part",
+        "lesson": "Lesson 9"
+    },
+    {
+        "english": "Foot [f]",
+        "hebrew_spoken": "Kaf Regel",
+        "hebrew_letters": "כף רגל",
+        "word_type": "Body Part",
+        "lesson": "Lesson 9"
+    },
+    {
+        "english": "Knee [f]",
+        "hebrew_spoken": "Bereh",
+        "hebrew_letters": "ברך",
+        "word_type": "Body Part",
+        "lesson": "Lesson 9"
+    },
+    {
+        "english": "Heart [m]",
+        "hebrew_spoken": "Lev",
+        "hebrew_letters": "לב",
+        "word_type": "Body Part",
+        "lesson": "Lesson 9"
+    },
+    {
+        "english": "Back [m]",
+        "hebrew_spoken": "Gav",
+        "hebrew_letters": "גב",
+        "word_type": "Body Part",
+        "lesson": "Lesson 9"
+    },
+    {
+        "english": "Stomach [f]",
+        "hebrew_spoken": "Beten",
+        "hebrew_letters": "בטן",
+        "word_type": "Body Part",
+        "lesson": "Lesson 9"
+    },
+    {
+        "english": "Chest [m]",
+        "hebrew_spoken": "Haze",
+        "hebrew_letters": "חזה",
+        "word_type": "Body Part",
+        "lesson": "Lesson 9"
+    },
+    {
+        "english": "Shoulder [f]",
+        "hebrew_spoken": "Katef",
+        "hebrew_letters": "כתף",
+        "word_type": "Body Part",
+        "lesson": "Lesson 9"
+    },
+    {
+        "english": "Neck [m]",
+        "hebrew_spoken": "Tzavar",
+        "hebrew_letters": "צוואר",
+        "word_type": "Body Part",
+        "lesson": "Lesson 9"
+    },
+    {
+        "english": "Table [m]",
+        "hebrew_spoken": "Shulhan",
+        "hebrew_letters": "שולחן",
+        "word_type": "Household Item",
+        "lesson": "Lesson 10"
+    },
+    {
+        "english": "Chair [m]",
+        "hebrew_spoken": "Kise",
+        "hebrew_letters": "כיסא",
+        "word_type": "Household Item",
+        "lesson": "Lesson 10"
+    },
+    {
+        "english": "Bed [f]",
+        "hebrew_spoken": "Mita",
+        "hebrew_letters": "מיטה",
+        "word_type": "Household Item",
+        "lesson": "Lesson 10"
+    },
+    {
+        "english": "Sofa [f]",
+        "hebrew_spoken": "Sapa",
+        "hebrew_letters": "ספה",
+        "word_type": "Household Item",
+        "lesson": "Lesson 10"
+    },
+    {
+        "english": "Door [f]",
+        "hebrew_spoken": "Delet",
+        "hebrew_letters": "דלת",
+        "word_type": "Household Item",
+        "lesson": "Lesson 10"
+    },
+    {
+        "english": "Window [m]",
+        "hebrew_spoken": "Halon",
+        "hebrew_letters": "חלון",
+        "word_type": "Household Item",
+        "lesson": "Lesson 10"
+    },
+    {
+        "english": "Mirror [f]",
+        "hebrew_spoken": "Mar'a",
+        "hebrew_letters": "מראה",
+        "word_type": "Household Item",
+        "lesson": "Lesson 10"
+    },
+    {
+        "english": "Lamp [f]",
+        "hebrew_spoken": "Menora",
+        "hebrew_letters": "מנורה",
+        "word_type": "Household Item",
+        "lesson": "Lesson 10"
+    },
+    {
+        "english": "Television [f]",
+        "hebrew_spoken": "Televizia",
+        "hebrew_letters": "טלוויזיה",
+        "word_type": "Household Item",
+        "lesson": "Lesson 10"
+    },
+    {
+        "english": "Phone [m]",
+        "hebrew_spoken": "Telefon",
+        "hebrew_letters": "טלפון",
+        "word_type": "Household Item",
+        "lesson": "Lesson 10"
+    },
+    {
+        "english": "Computer [m]",
+        "hebrew_spoken": "Mahshev",
+        "hebrew_letters": "מחשב",
+        "word_type": "Household Item",
+        "lesson": "Lesson 10"
+    },
+    {
+        "english": "Book [m]",
+        "hebrew_spoken": "Sefer",
+        "hebrew_letters": "ספר",
+        "word_type": "Household Item",
+        "lesson": "Lesson 10"
+    },
+    {
+        "english": "Pen [m]",
+        "hebrew_spoken": "Et",
+        "hebrew_letters": "עט",
+        "word_type": "Household Item",
+        "lesson": "Lesson 10"
+    },
+    {
+        "english": "Paper [m]",
+        "hebrew_spoken": "Niyar",
+        "hebrew_letters": "נייר",
+        "word_type": "Household Item",
+        "lesson": "Lesson 10"
+    },
+    {
+        "english": "Plate [f]",
+        "hebrew_spoken": "Tzalahat",
+        "hebrew_letters": "צלחת",
+        "word_type": "Household Item",
+        "lesson": "Lesson 10"
+    },
+    {
+        "english": "Cup [f]",
+        "hebrew_spoken": "Kos",
+        "hebrew_letters": "כוס",
+        "word_type": "Household Item",
+        "lesson": "Lesson 10"
+    },
+    {
+        "english": "Fork [m]",
+        "hebrew_spoken": "Mazleg",
+        "hebrew_letters": "מזלג",
+        "word_type": "Household Item",
+        "lesson": "Lesson 10"
+    },
+    {
+        "english": "Knife [f]",
+        "hebrew_spoken": "Sakin",
+        "hebrew_letters": "סכין",
+        "word_type": "Household Item",
+        "lesson": "Lesson 10"
+    },
+    {
+        "english": "Spoon [f]",
+        "hebrew_spoken": "Kapit",
+        "hebrew_letters": "כפית",
+        "word_type": "Household Item",
+        "lesson": "Lesson 10"
+    },
+    {
+        "english": "Towel [f]",
+        "hebrew_spoken": "Magevet",
+        "hebrew_letters": "מגבת",
+        "word_type": "Household Item",
+        "lesson": "Lesson 10"
+    },
+    {
+        "english": "Blanket [f]",
+        "hebrew_spoken": "Smiha",
+        "hebrew_letters": "שמיכה",
+        "word_type": "Household Item",
+        "lesson": "Lesson 10"
+    },
+    {
+        "english": "Pillow [f]",
+        "hebrew_spoken": "Karit",
+        "hebrew_letters": "כרית",
+        "word_type": "Household Item",
+        "lesson": "Lesson 10"
+    },
+    {
+        "english": "Key [m]",
+        "hebrew_spoken": "Mafteah",
+        "hebrew_letters": "מפתח",
+        "word_type": "Household Item",
+        "lesson": "Lesson 10"
+    },
+    {
+        "english": "Clock [m]",
+        "hebrew_spoken": "Sha'on",
+        "hebrew_letters": "שעון",
+        "word_type": "Household Item",
+        "lesson": "Lesson 10"
+    },
+    {
+        "english": "Sun [f]",
+        "hebrew_spoken": "Shemesh",
+        "hebrew_letters": "שמש",
+        "word_type": "Nature and Environment",
+        "lesson": "Lesson 11"
+    },
+    {
+        "english": "Moon [f]",
+        "hebrew_spoken": "Levana",
+        "hebrew_letters": "לבנה",
+        "word_type": "Nature and Environment",
+        "lesson": "Lesson 11"
+    },
+    {
+        "english": "Star [m]",
+        "hebrew_spoken": "Kohav",
+        "hebrew_letters": "כוכב",
+        "word_type": "Nature and Environment",
+        "lesson": "Lesson 11"
+    },
+    {
+        "english": "Sky [m]",
+        "hebrew_spoken": "Shamayim",
+        "hebrew_letters": "שמיים",
+        "word_type": "Nature and Environment",
+        "lesson": "Lesson 11"
+    },
+    {
+        "english": "Cloud [m]",
+        "hebrew_spoken": "Anan",
+        "hebrew_letters": "ענן",
+        "word_type": "Nature and Environment",
+        "lesson": "Lesson 11"
+    },
+    {
+        "english": "Rain [m]",
+        "hebrew_spoken": "Geshem",
+        "hebrew_letters": "גשם",
+        "word_type": "Nature and Environment",
+        "lesson": "Lesson 11"
+    },
+    {
+        "english": "Snow [m]",
+        "hebrew_spoken": "Sheleg",
+        "hebrew_letters": "שלג",
+        "word_type": "Nature and Environment",
+        "lesson": "Lesson 11"
+    },
+    {
+        "english": "Wind [f]",
+        "hebrew_spoken": "Ruah",
+        "hebrew_letters": "רוח",
+        "word_type": "Nature and Environment",
+        "lesson": "Lesson 11"
+    },
+    {
+        "english": "Tree [m]",
+        "hebrew_spoken": "Etz",
+        "hebrew_letters": "עץ",
+        "word_type": "Nature and Environment",
+        "lesson": "Lesson 11"
+    },
+    {
+        "english": "Flower [m]",
+        "hebrew_spoken": "Perah",
+        "hebrew_letters": "פרח",
+        "word_type": "Nature and Environment",
+        "lesson": "Lesson 11"
+    },
+    {
+        "english": "Grass [m]",
+        "hebrew_spoken": "Deshe",
+        "hebrew_letters": "דשא",
+        "word_type": "Nature and Environment",
+        "lesson": "Lesson 11"
+    },
+    {
+        "english": "Mountain [m]",
+        "hebrew_spoken": "Har",
+        "hebrew_letters": "הר",
+        "word_type": "Nature and Environment",
+        "lesson": "Lesson 11"
+    },
+    {
+        "english": "Valley [m]",
+        "hebrew_spoken": "Emek",
+        "hebrew_letters": "עמק",
+        "word_type": "Nature and Environment",
+        "lesson": "Lesson 11"
+    },
+    {
+        "english": "River [m]",
+        "hebrew_spoken": "Nahar",
+        "hebrew_letters": "נהר",
+        "word_type": "Nature and Environment",
+        "lesson": "Lesson 11"
+    },
+    {
+        "english": "Sea [m]",
+        "hebrew_spoken": "Yam",
+        "hebrew_letters": "ים",
+        "word_type": "Nature and Environment",
+        "lesson": "Lesson 11"
+    },
+    {
+        "english": "Lake [m]",
+        "hebrew_spoken": "Agam",
+        "hebrew_letters": "אגם",
+        "word_type": "Nature and Environment",
+        "lesson": "Lesson 11"
+    },
+    {
+        "english": "Stone [f]",
+        "hebrew_spoken": "Even",
+        "hebrew_letters": "אבן",
+        "word_type": "Nature and Environment",
+        "lesson": "Lesson 11"
+    },
+    {
+        "english": "Sand [m]",
+        "hebrew_spoken": "Hol",
+        "hebrew_letters": "חול",
+        "word_type": "Nature and Environment",
+        "lesson": "Lesson 11"
+    },
+    {
+        "english": "Earth [f]",
+        "hebrew_spoken": "Adama",
+        "hebrew_letters": "אדמה",
+        "word_type": "Nature and Environment",
+        "lesson": "Lesson 11"
+    },
+    {
+        "english": "Fire [f]",
+        "hebrew_spoken": "Esh",
+        "hebrew_letters": "אש",
+        "word_type": "Nature and Environment",
+        "lesson": "Lesson 11"
+    },
+    {
+        "english": "Air [m]",
+        "hebrew_spoken": "Avir",
+        "hebrew_letters": "אוויר",
+        "word_type": "Nature and Environment",
+        "lesson": "Lesson 11"
+    },
+    {
+        "english": "Desert [m]",
+        "hebrew_spoken": "Midbar",
+        "hebrew_letters": "מדבר",
+        "word_type": "Nature and Environment",
+        "lesson": "Lesson 11"
+    },
+    {
+        "english": "Forest [m]",
+        "hebrew_spoken": "Ya'ar",
+        "hebrew_letters": "יער",
+        "word_type": "Nature and Environment",
+        "lesson": "Lesson 11"
+    },
+    {
+        "english": "Wave [m]",
+        "hebrew_spoken": "Gal",
+        "hebrew_letters": "גל",
+        "word_type": "Nature and Environment",
+        "lesson": "Lesson 11"
+    },
+    {
+        "english": "Music [f]",
+        "hebrew_spoken": "Musika",
+        "hebrew_letters": "מוסיקה",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Song [m]",
+        "hebrew_spoken": "Shir",
+        "hebrew_letters": "שיר",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Melody [f]",
+        "hebrew_spoken": "Mangina",
+        "hebrew_letters": "מנגינה",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Rhythm [m]",
+        "hebrew_spoken": "Ketzev",
+        "hebrew_letters": "קצב",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Beat [f]",
+        "hebrew_spoken": "Pe'ima",
+        "hebrew_letters": "פעימה",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Note [m]",
+        "hebrew_spoken": "Ta'am",
+        "hebrew_letters": "תו",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Scale [m]",
+        "hebrew_spoken": "Sulam",
+        "hebrew_letters": "סולם",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Voice [m]",
+        "hebrew_spoken": "Kol",
+        "hebrew_letters": "קול",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Singer [m/f]",
+        "hebrew_spoken": "Zamar/Zameret",
+        "hebrew_letters": "זמר/זמרת",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Instrument [m]",
+        "hebrew_spoken": "Kli",
+        "hebrew_letters": "כלי",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Piano [m]",
+        "hebrew_spoken": "Psanter",
+        "hebrew_letters": "פסנתר",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Guitar [f]",
+        "hebrew_spoken": "Gitara",
+        "hebrew_letters": "גיטרה",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Violin [m]",
+        "hebrew_spoken": "Kinor",
+        "hebrew_letters": "כינור",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Drum [m]",
+        "hebrew_spoken": "Tof",
+        "hebrew_letters": "תוף",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Bass [m]",
+        "hebrew_spoken": "Bas",
+        "hebrew_letters": "בס",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Microphone [m]",
+        "hebrew_spoken": "Mikrofon",
+        "hebrew_letters": "מיקרופון",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Speaker [m]",
+        "hebrew_spoken": "Ramkol",
+        "hebrew_letters": "רמקול",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Headphones [f]",
+        "hebrew_spoken": "Ozniyot",
+        "hebrew_letters": "אוזניות",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Studio [m]",
+        "hebrew_spoken": "Studio",
+        "hebrew_letters": "סטודיו",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Recording [f]",
+        "hebrew_spoken": "Haklata",
+        "hebrew_letters": "הקלטה",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Album [m]",
+        "hebrew_spoken": "Albom",
+        "hebrew_letters": "אלבום",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Concert [m]",
+        "hebrew_spoken": "Konsert",
+        "hebrew_letters": "קונצרט",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Band [f]",
+        "hebrew_spoken": "Lehaka",
+        "hebrew_letters": "להקה",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Orchestra [f]",
+        "hebrew_spoken": "Tizmoret",
+        "hebrew_letters": "תזמורת",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Conductor [m]",
+        "hebrew_spoken": "Menazeah",
+        "hebrew_letters": "מנצח",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Composer [m]",
+        "hebrew_spoken": "Melhin",
+        "hebrew_letters": "מלחין",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Artist [m/f]",
+        "hebrew_spoken": "Oman/Omanit",
+        "hebrew_letters": "אמן/אמנית",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Art [f]",
+        "hebrew_spoken": "Omanut",
+        "hebrew_letters": "אמנות",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Painting [m]",
+        "hebrew_spoken": "Tziyur",
+        "hebrew_letters": "ציור",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Drawing [m]",
+        "hebrew_spoken": "Risha",
+        "hebrew_letters": "רישא",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Sculpture [m]",
+        "hebrew_spoken": "Pisuah",
+        "hebrew_letters": "פיסול",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Photography [m]",
+        "hebrew_spoken": "Tzilum",
+        "hebrew_letters": "צילום",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Camera [f]",
+        "hebrew_spoken": "Matzlema",
+        "hebrew_letters": "מצלמה",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Gallery [f]",
+        "hebrew_spoken": "Galeria",
+        "hebrew_letters": "גלריה",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Museum [m]",
+        "hebrew_spoken": "Muzeon",
+        "hebrew_letters": "מוזיאון",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Exhibition [f]",
+        "hebrew_spoken": "Ta'aruha",
+        "hebrew_letters": "תערוכה",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Color [m]",
+        "hebrew_spoken": "Tzeva",
+        "hebrew_letters": "צבע",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Brush [f]",
+        "hebrew_spoken": "Mivrešet",
+        "hebrew_letters": "מברשת",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Canvas [m]",
+        "hebrew_spoken": "Bad",
+        "hebrew_letters": "בד",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Frame [f]",
+        "hebrew_spoken": "Misgeret",
+        "hebrew_letters": "מסגרת",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Stage [f]",
+        "hebrew_spoken": "Bama",
+        "hebrew_letters": "במה",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Performance [f]",
+        "hebrew_spoken": "Hofaa",
+        "hebrew_letters": "הופעה",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Sound [m]",
+        "hebrew_spoken": "Tzlil",
+        "hebrew_letters": "צליל",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Volume [f]",
+        "hebrew_spoken": "Otzma",
+        "hebrew_letters": "עוצמה",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Frequency [m]",
+        "hebrew_spoken": "Teder",
+        "hebrew_letters": "תדר",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Mixing [m]",
+        "hebrew_spoken": "Miksuah",
+        "hebrew_letters": "מיקסוח",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Amplifier [m]",
+        "hebrew_spoken": "Magber",
+        "hebrew_letters": "מגבר",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Cable [m]",
+        "hebrew_spoken": "Kavel",
+        "hebrew_letters": "כבל",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Plug [m]",
+        "hebrew_spoken": "Takeb",
+        "hebrew_letters": "תקע",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    },
+    {
+        "english": "Software [f]",
+        "hebrew_spoken": "Tohna",
+        "hebrew_letters": "תוכנה",
+        "word_type": "Music, Audio Technology and Art",
+        "lesson": "Lesson 12"
+    }
+]
