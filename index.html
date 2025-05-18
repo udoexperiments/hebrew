@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hebrew Language Learning App</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>Hebrew Learning App</title>
     
     <!-- CSS imports -->
     <link rel="stylesheet" href="css/main.css">
@@ -16,21 +16,16 @@
         <header>
             <div class="control-group">
                 <button id="menu-button" class="action-button">
-                    <span class="button-text">Menu</span>
+                    <span class="button-text">☰ Menu</span>
                 </button>
                 <button id="switch-direction" class="direction-button">
                     <span class="button-text">English → Hebrew</span>
                 </button>
             </div>
-            
-            <div class="control-group" style="display: none;">
-                <select id="category-select" class="glass-select">
-                    <!-- Options populated by JavaScript -->
-                </select>
-            </div>
         </header>
 
         <main>
+            <!-- Cards -->
             <div class="card-container">
                 <div class="language-card">
                     <div id="english-section">
@@ -48,19 +43,46 @@
                     </div>
                 </div>
             </div>
+            
+            <!-- Progress Display -->
+            <div id="progress-display">
+                <!-- Progress bar will be added dynamically -->
+            </div>
         </main>
-        
-        <!-- Menu grid outside of main -->
-        <div id="menu-grid" class="menu-grid">
-            <!-- Menu items populated by JavaScript -->
-        </div>
 
         <footer>
-            <button id="show-continue" class="action-button">
-                <span class="button-text">Show</span>
-            </button>
-            <!-- Progress display and feedback buttons added dynamically -->
+            <!-- Bottom navigation -->
+            <div class="bottom-nav">
+                <div class="nav-item active" id="nav-learn">
+                    <span>📚</span>
+                    <span>Learn</span>
+                </div>
+                <button id="show-continue" class="action-button" style="flex: 2; margin: 0 16px;">
+                    <span class="button-text">Show Answer</span>
+                </button>
+                <div class="nav-item" id="nav-stats">
+                    <span>📊</span>
+                    <span>Stats</span>
+                </div>
+            </div>
+            
+            <!-- Feedback buttons (hidden initially) -->
+            <div id="feedback-buttons" style="display: none;" class="feedback-container">
+                <button class="feedback-button correct">
+                    <span class="button-text">✓ Correct</span>
+                </button>
+                <button class="feedback-button mistake">
+                    <span class="button-text">✗ Mistake</span>
+                </button>
+            </div>
+            
+            <!-- Progress display is moved to main -->
         </footer>
+        
+        <!-- Menu modal -->
+        <div id="menu-grid" class="menu-grid">
+            <!-- Menu will be populated by JavaScript -->
+        </div>
     </div>
 </body>
 </html>

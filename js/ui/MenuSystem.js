@@ -1,4 +1,4 @@
-// js/ui/MenuSystem.js
+// js/ui/MenuSystem.js - Modern menu implementation
 import StateManager from '../managers/StateManager.js';
 import DataService from '../services/DataService.js';
 import ChunkManager from '../managers/ChunkManager.js';
@@ -7,6 +7,10 @@ import UI from './UI.js';
 import { CATEGORIES, SOUND_THEMES, COLOR_THEMES } from '../config/constants.js';
 
 class MenuSystem {
+  constructor() {
+    this.menuOpen = false;
+  }
+
   create() {
     const menuGrid = document.getElementById("menu-grid");
     if (!menuGrid) {
@@ -14,107 +18,155 @@ class MenuSystem {
       return;
     }
     
-    // Only create if empty or force recreation
-    if (menuGrid.children.length > 0) return;
+    // Create modern menu structure
+    const menuContent = document.createElement('div');
+    menuContent.className = 'menu-content';
     
-    console.log("Creating menu...");
+    // Menu header
+    const menuHeader = document.createElement('div');
+    menuHeader.className = 'menu-header';
+    menuHeader.innerHTML = `
+      <h2 class="menu-title">Settings</h2>
+      <button class="action-button" id="close-menu">
+        <span class="button-text">Close</span>
+      </button>
+    `;
+    menuContent.appendChild(menuHeader);
 
-    // Category select
-    this.createControlSection(menuGrid, "Category:", CATEGORIES, 
-      StateManager.get('currentCategory'), async (value) => {
-        StateManager.set('currentCategory', value);
-        await DataService.load(value);
-        DataService.filterByLesson();
-        ChunkManager.initializeRandomization();
-        UI.update();
-        
-        // Update lesson button labels after loading data
-        // Add a small timeout to ensure the DOM is updated
-        setTimeout(() => {
-          this.updateLessonButtonLabels();
-        }, 50);
-      });
-
-    // Chunk size select
-    const chunkOptions = Array.from({ length: 10 }, (_, i) => ({
-      value: (i + 1) * 10,
-      text: `${(i + 1) * 10} words`
-    }));
+    // Category Section
+    const categorySection = this.createSection('Category');
+    const categoryGrid = document.createElement('div');
+    categoryGrid.className = 'menu-control-container';
+    categoryGrid.id = 'category-grid';
     
-    this.createControlSection(menuGrid, "Chunk Size:", chunkOptions, 
-      StateManager.get('chunkSize'), (value) => {
-        StateManager.set('chunkSize', Number.parseInt(value));
-        DataService.filterByLesson();
-        ChunkManager.initializeRandomization();
-        UI.update();
-        UI.updateProgress(); // Add progress update
-      });
-
-    // Lesson buttons
-    this.createLessonButtons(menuGrid);
-
-    // Sound theme select
-    this.createControlSection(menuGrid, "Sound Theme:", SOUND_THEMES, 
-      StateManager.get('soundTheme'), async (value) => {
-        StateManager.set('soundTheme', value);
-        await AudioService.initialize();
-      });
-
-    // Color theme select
-    this.createControlSection(menuGrid, "Color Theme:", COLOR_THEMES, 
-      StateManager.get('colorTheme'), (value) => {
-        StateManager.set('colorTheme', value);
-        UI.updateColorTheme(value);
-      });
-
-    // Update lesson button labels immediately after creation
-    // This will work for any category that has word_type entries
-    setTimeout(() => {
-      this.updateLessonButtonLabels();
-    }, 50);
-  }
-
-  createControlSection(parent, label, options, currentValue, onChange) {
-    const container = document.createElement("div");
-    container.className = "menu-control-container";
-
-    const labelElement = document.createElement("div");
-    labelElement.className = "menu-label";
-    labelElement.textContent = label;
-
-    const select = document.createElement("select");
-    select.className = "glass-select menu-select";
-
-    options.forEach(option => {
-      const optionElement = document.createElement("option");
-      optionElement.value = option.value;
-      optionElement.text = option.text;
-      if (option.value === currentValue) optionElement.selected = true;
-      select.appendChild(optionElement);
+    CATEGORIES.forEach(category => {
+      const card = this.createSettingsCard(
+        category.text,
+        this.getCategoryIcon(category.value),
+        this.getCategoryColor(category.value),
+        category.value === StateManager.get('currentCategory'),
+        () => this.handleCategoryChange(category.value)
+      );
+      categoryGrid.appendChild(card);
     });
+    
+    categorySection.appendChild(categoryGrid);
+    menuContent.appendChild(categorySection);
 
-    select.addEventListener("change", e => onChange(e.target.value));
+    // Study Settings Section
+    const studySection = this.createSection('Study Settings');
+    const studyGrid = document.createElement('div');
+    studyGrid.className = 'menu-control-container';
+    
+    // Direction toggle
+    const directionCard = this.createSettingsCard(
+      'Direction',
+      '🔄',
+      'purple',
+      true,
+      () => this.toggleDirection()
+    );
+    directionCard.innerHTML += `<div class="settings-value" id="direction-value">${
+      StateManager.get('isEnglishToHebrew') ? 'English → Hebrew' : 'Hebrew → English'
+    }</div>`;
+    studyGrid.appendChild(directionCard);
+    
+    // Chunk size
+    const chunkCard = this.createSettingsCard(
+      'Chunk Size',
+      '📦',
+      'blue',
+      true,
+      () => this.cycleChunkSize()
+    );
+    chunkCard.innerHTML += `<div class="settings-value" id="chunk-value">${
+      StateManager.get('chunkSize')
+    } words</div>`;
+    studyGrid.appendChild(chunkCard);
+    
+    studySection.appendChild(studyGrid);
+    menuContent.appendChild(studySection);
 
-    container.appendChild(labelElement);
-    container.appendChild(select);
-    parent.appendChild(container);
+    // Lesson Section
+    const lessonSection = this.createSection('Lessons');
+    const lessonGrid = document.createElement('div');
+    lessonGrid.className = 'lesson-buttons-container';
+    lessonGrid.id = 'lesson-grid';
+    
+    this.createLessonButtons(lessonGrid);
+    lessonSection.appendChild(lessonGrid);
+    menuContent.appendChild(lessonSection);
+
+    // Sound Section
+    const soundSection = this.createSection('Sound Theme');
+    const soundGrid = document.createElement('div');
+    soundGrid.className = 'menu-control-container';
+    
+    SOUND_THEMES.forEach(theme => {
+      const card = this.createSettingsCard(
+        theme.text,
+        '🔊',
+        'teal',
+        theme.value === StateManager.get('soundTheme'),
+        () => this.handleSoundThemeChange(theme.value)
+      );
+      soundGrid.appendChild(card);
+    });
+    
+    soundSection.appendChild(soundGrid);
+    menuContent.appendChild(soundSection);
+
+    // Color Theme Section
+    const themeSection = this.createSection('Color Theme');
+    const themeGrid = document.createElement('div');
+    themeGrid.className = 'menu-control-container';
+    
+    COLOR_THEMES.forEach(theme => {
+      const card = this.createSettingsCard(
+        theme.text,
+        '🎨',
+        'pink',
+        theme.value === StateManager.get('colorTheme'),
+        () => this.handleColorThemeChange(theme.value)
+      );
+      themeGrid.appendChild(card);
+    });
+    
+    themeSection.appendChild(themeGrid);
+    menuContent.appendChild(themeSection);
+
+    // Clear and add content
+    menuGrid.innerHTML = '';
+    menuGrid.appendChild(menuContent);
+    
+    // Add event listeners
+    this.setupEventListeners();
   }
 
-  createLessonButtons(parent) {
-    const container = document.createElement("div");
-    container.className = "lesson-container";
-    container.style.gridColumn = "span 2";
+  createSection(title) {
+    const section = document.createElement('div');
+    section.className = 'menu-section';
+    section.innerHTML = `<h3 class="menu-label">${title}</h3>`;
+    return section;
+  }
 
-    const label = document.createElement("div");
-    label.className = "menu-label";
-    label.textContent = "Lesson:";
-    container.appendChild(label);
+  createSettingsCard(label, icon, color, isActive, onClick) {
+    const card = document.createElement('div');
+    card.className = `settings-card ${isActive ? 'active' : ''}`;
+    card.innerHTML = `
+      <div class="settings-icon ${color}">${icon}</div>
+      <div class="settings-label">${label}</div>
+    `;
+    card.addEventListener('click', onClick);
+    return card;
+  }
 
-    const buttonsContainer = document.createElement("div");
-    buttonsContainer.className = "lesson-buttons-container";
-
+  createLessonButtons(container) {
     // All Lessons button
-    const allLessonsButton = this.createLessonButton("All Lessons", "lesson-all", () => {
+    const allButton = document.createElement('button');
+    allButton.className = `menu-item full-width-button ${StateManager.get('allLessons') ? 'active-lesson' : ''}`;
+    allButton.innerHTML = '<span class="button-text">All Lessons</span>';
+    allButton.addEventListener('click', () => {
       StateManager.update({
         allLessons: true,
         currentLesson: 0
@@ -122,16 +174,16 @@ class MenuSystem {
       DataService.filterByLesson();
       ChunkManager.initializeRandomization();
       UI.update();
-    }, StateManager.get('allLessons'));
-
-    // Add full-width class to All Lessons button
-    allLessonsButton.classList.add("full-width-button");
-
-    buttonsContainer.appendChild(allLessonsButton);
+      this.updateLessonButtons();
+    });
+    container.appendChild(allButton);
 
     // Individual lesson buttons
     for (let i = 1; i <= 12; i++) {
-      const button = this.createLessonButton(`Lesson ${i}`, `lesson-${i}`, () => {
+      const button = document.createElement('button');
+      button.className = `menu-item ${!StateManager.get('allLessons') && StateManager.get('currentLesson') === i ? 'active-lesson' : ''}`;
+      button.innerHTML = `<span class="button-text">${this.getLessonLabel(i)}</span>`;
+      button.addEventListener('click', () => {
         StateManager.update({
           allLessons: false,
           currentLesson: i
@@ -139,143 +191,209 @@ class MenuSystem {
         DataService.filterByLesson();
         ChunkManager.initializeRandomization();
         UI.update();
-      }, !StateManager.get('allLessons') && StateManager.get('currentLesson') === i);
-
-      buttonsContainer.appendChild(button);
-    }
-
-    container.appendChild(buttonsContainer);
-    parent.appendChild(container);
-  }
-
-  createLessonButton(text, id, onClick, isActive) {
-    const button = document.createElement("button");
-    button.className = `menu-item ${isActive ? "active-lesson" : ""}`;
-    button.id = id;
-    button.innerHTML = `<span class="button-text">${text}</span>`;
-    
-    button.onclick = () => {
-      document.querySelectorAll(".menu-item").forEach(item => {
-        item.classList.remove("active-lesson");
+        this.updateLessonButtons();
       });
-      button.classList.add("active-lesson");
-      onClick();
-    };
-
-    return button;
-  }
-
-  toggle() {
-    const isMenuOpen = !StateManager.get('isMenuOpen');
-    StateManager.set('isMenuOpen', isMenuOpen);
-
-    const main = document.querySelector("main");
-    const footer = document.querySelector("footer");
-    const categoryGroup = document.querySelector(".control-group:not(:first-child)");
-    const menuGrid = document.getElementById("menu-grid");
-    const directionButton = document.getElementById("switch-direction");
-
-    if (isMenuOpen) {
-      // Hide main app elements
-      if (main) main.classList.add("hidden");
-      if (footer) footer.classList.add("hidden");
-      if (categoryGroup) categoryGroup.classList.add("hidden");
-      if (directionButton) directionButton.style.display = "none";
-      
-      // Show menu grid
-      if (menuGrid) {
-        menuGrid.classList.add("visible");
-        menuGrid.style.display = "grid";
-        
-        // If menu is empty, create it
-        if (menuGrid.children.length === 0) {
-          this.create();
-        }
-        
-        // Update lesson button labels when opening the menu
-        // Small timeout to ensure DOM is ready
-        setTimeout(() => {
-          this.updateLessonButtonLabels();
-        }, 50);
-      }
-    } else {
-      // Show main app elements
-      if (main) main.classList.remove("hidden");
-      if (footer) footer.classList.remove("hidden");
-      if (categoryGroup) categoryGroup.classList.remove("hidden");
-      if (directionButton) directionButton.style.display = "block";
-      
-      // Hide menu grid
-      if (menuGrid) {
-        menuGrid.classList.remove("visible");
-        menuGrid.style.display = "none";
-      }
-    }
-
-    const menuButton = document.getElementById("menu-button");
-    if (menuButton) {
-      menuButton.querySelector(".button-text").innerText = isMenuOpen ? "Show App" : "Menu";
+      container.appendChild(button);
     }
   }
 
-  updateLessonButtonLabels() {
-    const currentCategory = StateManager.get('currentCategory');
+  getLessonLabel(lessonNum) {
     const data = StateManager.get('data');
-    
-    console.log('Updating lesson labels, category:', currentCategory, 'data length:', data.length);
-    
-    // Get all lesson buttons
-    const lessonButtons = document.querySelectorAll('.menu-item');
-    
     if (data.length > 0) {
-      // Check if any items in the current data have word_type
       const hasWordType = data.some(item => item.word_type);
-      
       if (hasWordType) {
-        // Create a map of lesson number to word_type
         const lessonDescriptions = {};
-        
-        // Group word_type by lesson
         data.forEach(item => {
-          const lessonNum = typeof item.lesson === 'string' ? 
+          const itemLesson = typeof item.lesson === 'string' ? 
             parseInt(item.lesson.replace('Lesson ', '')) : 
             item.lesson;
           
-          if (!lessonDescriptions[lessonNum] && item.word_type) {
-            lessonDescriptions[lessonNum] = item.word_type;
-            console.log(`Lesson ${lessonNum}: ${item.word_type}`);
+          if (!lessonDescriptions[itemLesson] && item.word_type) {
+            lessonDescriptions[itemLesson] = item.word_type;
           }
         });
         
-        // Update button labels
-        lessonButtons.forEach(button => {
-          const buttonId = button.id;
-          if (buttonId && buttonId.startsWith('lesson-') && buttonId !== 'lesson-all') {
-            const lessonNum = parseInt(buttonId.replace('lesson-', ''));
-            if (lessonDescriptions[lessonNum]) {
-              console.log(`Updating button ${buttonId} to: ${lessonDescriptions[lessonNum]}`);
-              button.querySelector('.button-text').textContent = lessonDescriptions[lessonNum];
-            }
-          }
-        });
-      } else {
-        // No word_type found, use default labels
-        console.log('No word_type found in data, using default labels');
-        this.resetToDefaultLabels(lessonButtons);
+        if (lessonDescriptions[lessonNum]) {
+          return lessonDescriptions[lessonNum];
+        }
       }
+    }
+    return `Lesson ${lessonNum}`;
+  }
+
+  getCategoryIcon(category) {
+    const icons = {
+      basics: '🔤',
+      sentences_present: '💬',
+      sentences_past: '⏮️',
+      sentences_future: '⏭️',
+      verbs: '🏃',
+      nouns: '📦',
+      adjectives: '🎨',
+      grammar: '📐',
+    };
+    return icons[category] || '📚';
+  }
+
+  getCategoryColor(category) {
+    const colors = {
+      basics: 'purple',
+      sentences_present: 'blue',
+      sentences_past: 'teal',
+      sentences_future: 'orange',
+      verbs: 'pink',
+      nouns: 'purple',
+      adjectives: 'orange',
+      grammar: 'teal',
+    };
+    return colors[category] || 'blue';
+  }
+
+  updateLessonButtons() {
+    const buttons = document.querySelectorAll('.menu-item');
+    const allLessons = StateManager.get('allLessons');
+    const currentLesson = StateManager.get('currentLesson');
+    
+    buttons.forEach((button, index) => {
+      if (index === 0) { // All Lessons button
+        button.classList.toggle('active-lesson', allLessons);
+      } else {
+        button.classList.toggle('active-lesson', !allLessons && currentLesson === index);
+      }
+    });
+    
+    // Update lesson labels if needed
+    this.updateLessonButtonLabels();
+  }
+
+  updateLessonButtonLabels() {
+    const buttons = document.querySelectorAll('#lesson-grid .menu-item');
+    buttons.forEach((button, index) => {
+      if (index > 0) { // Skip "All Lessons" button
+        const buttonText = button.querySelector('.button-text');
+        if (buttonText) {
+          buttonText.textContent = this.getLessonLabel(index);
+        }
+      }
+    });
+  }
+
+  toggle() {
+    const menuGrid = document.getElementById("menu-grid");
+    if (!menuGrid) return;
+    
+    this.menuOpen = !this.menuOpen;
+    
+    if (this.menuOpen) {
+      menuGrid.classList.add('visible');
+      // Update lesson labels when opening menu
+      this.updateLessonButtonLabels();
     } else {
-      // No data, use default labels
-      this.resetToDefaultLabels(lessonButtons);
+      menuGrid.classList.remove('visible');
+    }
+    
+    // Update menu button text
+    const menuButton = document.getElementById("menu-button");
+    if (menuButton) {
+      menuButton.querySelector(".button-text").innerText = this.menuOpen ? "Close" : "☰ Menu";
     }
   }
-  
-  resetToDefaultLabels(lessonButtons) {
-    lessonButtons.forEach(button => {
-      const buttonId = button.id;
-      if (buttonId && buttonId.startsWith('lesson-') && buttonId !== 'lesson-all') {
-        const lessonNum = buttonId.replace('lesson-', '');
-        button.querySelector('.button-text').textContent = `Lesson ${lessonNum}`;
-      }
+
+  setupEventListeners() {
+    // Close button
+    const closeButton = document.getElementById('close-menu');
+    if (closeButton) {
+      closeButton.addEventListener('click', () => this.toggle());
+    }
+    
+    // Click outside to close
+    const menuGrid = document.getElementById('menu-grid');
+    if (menuGrid) {
+      menuGrid.addEventListener('click', (e) => {
+        if (e.target === menuGrid) {
+          this.toggle();
+        }
+      });
+    }
+  }
+
+  async handleCategoryChange(value) {
+    StateManager.set('currentCategory', value);
+    await DataService.load(value);
+    DataService.filterByLesson();
+    ChunkManager.initializeRandomization();
+    UI.update();
+    UI.updateProgress();
+    
+    // Update active states
+    this.updateActiveStates();
+    this.updateLessonButtonLabels();
+  }
+
+  handleSoundThemeChange(value) {
+    StateManager.set('soundTheme', value);
+    AudioService.initialize();
+    this.updateActiveStates();
+  }
+
+  handleColorThemeChange(value) {
+    StateManager.set('colorTheme', value);
+    UI.updateColorTheme(value);
+    this.updateActiveStates();
+  }
+
+  toggleDirection() {
+    const isEnglishToHebrew = !StateManager.get('isEnglishToHebrew');
+    StateManager.set('isEnglishToHebrew', isEnglishToHebrew);
+    
+    // Update direction display
+    const directionValue = document.getElementById('direction-value');
+    if (directionValue) {
+      directionValue.textContent = isEnglishToHebrew ? 'English → Hebrew' : 'Hebrew → English';
+    }
+    
+    UI.update();
+  }
+
+  cycleChunkSize() {
+    const currentSize = StateManager.get('chunkSize');
+    const sizes = [10, 20, 30, 40, 50];
+    const currentIndex = sizes.indexOf(currentSize);
+    const nextSize = sizes[(currentIndex + 1) % sizes.length];
+    
+    StateManager.set('chunkSize', nextSize);
+    DataService.filterByLesson();
+    ChunkManager.initializeRandomization();
+    UI.update();
+    UI.updateProgress();
+    
+    // Update chunk size display
+    const chunkValue = document.getElementById('chunk-value');
+    if (chunkValue) {
+      chunkValue.textContent = `${nextSize} words`;
+    }
+  }
+
+  updateActiveStates() {
+    // Update category cards
+    const categoryCards = document.querySelectorAll('#category-grid .settings-card');
+    const currentCategory = StateManager.get('currentCategory');
+    categoryCards.forEach((card, index) => {
+      card.classList.toggle('active', CATEGORIES[index].value === currentCategory);
+    });
+    
+    // Update sound theme cards
+    const soundCards = document.querySelectorAll('.menu-section:nth-of-type(4) .settings-card');
+    const currentSound = StateManager.get('soundTheme');
+    soundCards.forEach((card, index) => {
+      card.classList.toggle('active', SOUND_THEMES[index].value === currentSound);
+    });
+    
+    // Update color theme cards
+    const themeCards = document.querySelectorAll('.menu-section:nth-of-type(5) .settings-card');
+    const currentTheme = StateManager.get('colorTheme');
+    themeCards.forEach((card, index) => {
+      card.classList.toggle('active', COLOR_THEMES[index].value === currentTheme);
     });
   }
 }
