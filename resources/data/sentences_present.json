@@ -1,602 +1,1502 @@
 [
     {
-        "english": "I love drinking coffee in the morning.",
-        "hebrew_spoken": "Ani ohev lishtot kafe baboker.",
-        "hebrew_letters": "אני אוהב לשתות קפה בבוקר.",
+        "english": "The happy child eats a big apple under the old tree.",
+        "hebrew_spoken": "Ha-yeled ha-sameach ochel tapuach gadol tachat ha-etz ha-zaken.",
+        "hebrew_letters": "הילד השמח אוכל תפוח גדול תחת העץ הזקן.",
         "lesson": "Lesson 1"
     },
     {
-        "english": "She reads a book every night before bed.",
-        "hebrew_spoken": "Hi korat sefer kol laila lifnei hamita.",
-        "hebrew_letters": "היא קוראת ספר כל לילה לפני המיטה.",
+        "english": "She drinks cold water while the strong man works.",
+        "hebrew_spoken": "Hi shotah mayim karim be'od ha-ish ha-chazak oved.",
+        "hebrew_letters": "היא שותה מים קרים בעוד האיש החזק עובד.",
         "lesson": "Lesson 1"
     },
     {
-        "english": "We go to the beach on weekends.",
-        "hebrew_spoken": "Anachnu holchim la yam besof hashavua.",
-        "hebrew_letters": "אנחנו הולכים לים בסוף השבוע.",
+        "english": "The small cat sleeps on a pretty chair near the window.",
+        "hebrew_spoken": "Ha-chatul ha-katan yashen al kise yafe leyad ha-chalon.",
+        "hebrew_letters": "החתול הקטן ישן על כיסא יפה ליד החלון.",
         "lesson": "Lesson 1"
     },
     {
-        "english": "They are studying Hebrew together.",
-        "hebrew_spoken": "Hem lomdim ivrit beyachad.",
-        "hebrew_letters": "הם לומדים עברית ביחד.",
+        "english": "When the dog runs fast, the sad child laughs.",
+        "hebrew_spoken": "Kshe-ha-kelev ratz maher, ha-yeled ha-atzuv tzochek.",
+        "hebrew_letters": "כשהכלב רץ מהר, הילד העצוב צוחק.",
         "lesson": "Lesson 1"
     },
     {
-        "english": "He likes to cook Italian food.",
-        "hebrew_spoken": "Hu ohev levashel ochel italki.",
-        "hebrew_letters": "הוא אוהב לבשל אוכל איטלקי.",
+        "english": "The young woman walks slowly through the big city.",
+        "hebrew_spoken": "Ha-isha ha-tze'ira holechet le'at derech ha-ir ha-gdola.",
+        "hebrew_letters": "האישה הצעירה הולכת לאט דרך העיר הגדולה.",
         "lesson": "Lesson 1"
     },
     {
-        "english": "The sun is shining brightly today.",
-        "hebrew_spoken": "Hashemesh zorachat beyom hazeh.",
-        "hebrew_letters": "השמש זורחת ביום הזה.",
+        "english": "He writes beautiful stories in a small book every day.",
+        "hebrew_spoken": "Hu kotev sipurim yafim be-sefer katan kol yom.",
+        "hebrew_letters": "הוא כותב סיפורים יפים בספר קטן כל יום.",
         "lesson": "Lesson 1"
     },
     {
-        "english": "In summer I like to swim in the river.",
-        "hebrew_spoken": "Bekayitz ani ohev lishtot bamaim.",
-        "hebrew_letters": "בקיץ אני אוהב לשחות בנהר.",
+        "english": "The smart student reads expensive books at the ancient school.",
+        "hebrew_spoken": "Ha-talmid ha-chacham kore sfarim yekarim be-beit ha-sefer ha-atik.",
+        "hebrew_letters": "התלמיד החכם קורא ספרים יקרים בבית הספר העתיק.",
         "lesson": "Lesson 1"
     },
     {
-        "english": "She is listening to music while working.",
-        "hebrew_spoken": "Hi shoma'at musika bema she'hi ovedet.",
-        "hebrew_letters": "היא שומעת מוזיקה בזמן שהיא עובדת.",
+        "english": "She speaks quietly but everyone still hears.",
+        "hebrew_spoken": "Hi medaberet be-sheket aval kulam adayin shom'im.",
+        "hebrew_letters": "היא מדברת בשקט אבל כולם עדיין שומעים.",
         "lesson": "Lesson 1"
     },
     {
-        "english": "We visit our grandparents on Sundays.",
-        "hebrew_spoken": "Anachnu mevakrim et hasaba vehasavta beyom rishon.",
-        "hebrew_letters": "אנחנו מבקרים את הסבא והסבתא ביום ראשון.",
+        "english": "The old teacher listens carefully while the weak student speaks.",
+        "hebrew_spoken": "Ha-moreh ha-zaken makshiv be-kpida be'od ha-talmid ha-chalash medaber.",
+        "hebrew_letters": "המורה הזקן מקשיב בקפידה בעוד התלמיד החלש מדבר.",
         "lesson": "Lesson 1"
     },
     {
-        "english": "They are learning a new language.",
-        "hebrew_spoken": "Hem lomdim safah chadasha.",
-        "hebrew_letters": "הם לומדים שפה חדשה.",
+        "english": "I see a pretty woman near the new house with a big dog.",
+        "hebrew_spoken": "Ani ro'eh isha yafa leyad ha-bayit ha-chadash im kelev gadol.",
+        "hebrew_letters": "אני רואה אישה יפה ליד הבית החדש עם כלב גדול.",
         "lesson": "Lesson 1"
     },
     {
-        "english": "I enjoy hiking in the mountains.",
-        "hebrew_spoken": "Ani nehene lehitayel baharim.",
-        "hebrew_letters": "אני נהנה לטייל בהרים.",
+        "english": "The ugly cat hears something and runs to the open door.",
+        "hebrew_spoken": "Ha-chatul ha-mechoar shomea mashehu ve-ratz la-delet ha-ptucha.",
+        "hebrew_letters": "החתול המכוער שומע משהו ורץ לדלת הפתוחה.",
         "lesson": "Lesson 1"
     },
     {
-        "english": "The cat is sleeping on the chair.",
-        "hebrew_spoken": "Hachatul yashen al hakesa.",
-        "hebrew_letters": "החתול ישן על הכסא.",
+        "english": "The strong man works hard but the stupid dog just sleeps.",
+        "hebrew_spoken": "Ha-ish ha-chazak oved kashe aval ha-kelev ha-tipesh rak yashen.",
+        "hebrew_letters": "האיש החזק עובד קשה אבל הכלב הטיפש רק ישן.",
         "lesson": "Lesson 1"
     },
     {
-        "english": "We celebrate my birthday every year.",
-        "hebrew_spoken": "Anachnu chogegim et yom huladeti kol shana.",
-        "hebrew_letters": "אנחנו חוגגים את יום הולדתי כל שנה.",
+        "english": "She learns new things every day at the big school.",
+        "hebrew_spoken": "Hi lomedet dvarim chadashim kol yom be-beit ha-sefer ha-gadol.",
+        "hebrew_letters": "היא לומדת דברים חדשים כל יום בבית הספר הגדול.",
         "lesson": "Lesson 1"
     },
     {
-        "english": "She works in a big company.",
-        "hebrew_spoken": "Hi ovedet bechevrah gdolah.",
-        "hebrew_letters": "היא עובדת בחברה גדולה.",
+        "english": "The good teacher teaches the young children under the big tree.",
+        "hebrew_spoken": "Ha-moreh ha-tov melamed et ha-yeladim ha-tze'irim tachat ha-etz ha-gadol.",
+        "hebrew_letters": "המורה הטוב מלמד את הילדים הצעירים תחת העץ הגדול.",
         "lesson": "Lesson 1"
     },
     {
-        "english": "He is writing a letter to his friend.",
-        "hebrew_spoken": "Hu kotev michtav lechaver shelo.",
-        "hebrew_letters": "הוא כותב מכתב לחבר שלו.",
+        "english": "When I buy cheap bread, the happy woman smiles.",
+        "hebrew_spoken": "Kshe-ani koneh lechem zol, ha-isha ha-smecha mechayechet.",
+        "hebrew_letters": "כשאני קונה לחם זול, האישה השמחה מחייכת.",
         "lesson": "Lesson 1"
     },
     {
-        "english": "The kids are playing in the park.",
-        "hebrew_spoken": "Hayeladim misachakim bagan.",
-        "hebrew_letters": "הילדים משחקים בגן.",
+        "english": "He sells beautiful books but nobody buys them.",
+        "hebrew_spoken": "Hu mocher sfarim yafim aval af echad lo koneh otam.",
+        "hebrew_letters": "הוא מוכר ספרים יפים אבל אף אחד לא קונה אותם.",
         "lesson": "Lesson 1"
     },
     {
-        "english": "We watch great movies every weekend.",
-        "hebrew_spoken": "Anachnu ro'im seret nifla kol shavua.",
-        "hebrew_letters": "אנחנו רואים סרט נפלא כל שבוע.",
+        "english": "The happy child loves the small cat more than the big dog.",
+        "hebrew_spoken": "Ha-yeled ha-sameach ohev et ha-chatul ha-katan yoter me-ha-kelev ha-gadol.",
+        "hebrew_letters": "הילד השמח אוהב את החתול הקטן יותר מהכלב הגדול.",
         "lesson": "Lesson 1"
     },
     {
-        "english": "She loves painting landscapes.",
-        "hebrew_spoken": "Hi ohevet litzbo'a nofim.",
-        "hebrew_letters": "היא אוהבת לצבוע נופים.",
+        "english": "She hates the slow car but still uses it every day.",
+        "hebrew_spoken": "Hi sonet et ha-mechonit ha-itit aval adayin mishtameshet ba kol yom.",
+        "hebrew_letters": "היא שונאת את המכונית האיטית אבל עדיין משתמשת בה כל יום.",
         "lesson": "Lesson 1"
     },
     {
-        "english": "He goes running every morning.",
-        "hebrew_spoken": "Hu rat kol boker.",
-        "hebrew_letters": "הוא רץ כל בוקר.",
+        "english": "The man opens the old door while the woman closes the window.",
+        "hebrew_spoken": "Ha-ish poteach et ha-delet ha-yeshana be'od ha-isha sogeret et ha-chalon.",
+        "hebrew_letters": "האיש פותח את הדלת הישנה בעוד האישה סוגרת את החלון.",
         "lesson": "Lesson 1"
     },
     {
-        "english": "We bought fresh vegetables at the market.",
-        "hebrew_spoken": "Kaninu yerakot triyot bashuk.",
-        "hebrew_letters": "קנינו ירקות טריים בשוק.",
+        "english": "She closes the door happy while everyone is sleeping.",
+        "hebrew_spoken": "Hi sogeret et ha-delet smecha be'od kulam yeshenim.",
+        "hebrew_letters": "היא סוגרת את הדלת שמחה בעוד כולם ישנים.",
         "lesson": "Lesson 1"
     },
     {
-        "english": "They danced at the party all night.",
-        "hebrew_spoken": "Hem rakdu bamesiba kol halaila.",
-        "hebrew_letters": "הם רקדו במסיבה כל הלילה.",
+        "english": "The fast dog runs around the expensive table and the cheap chair.",
+        "hebrew_spoken": "Ha-kelev ha-maher ratz saviv la-shulchan ha-yakar ve-ha-kise ha-zol.",
+        "hebrew_letters": "הכלב המהיר רץ סביב לשולחן היקר והכיסא הזול.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Someone writes something bad on the new table.",
+        "hebrew_spoken": "Mishehu kotev mashehu ra al ha-shulchan ha-chadash.",
+        "hebrew_letters": "מישהו כותב משהו רע על השולחן החדש.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Everyone loves the pretty teacher but hates the ugly school.",
+        "hebrew_spoken": "Kulam ohavim et ha-moreh ha-yafe aval son'im et beit ha-sefer ha-mechoar.",
+        "hebrew_letters": "כולם אוהבים את המורה היפה אבל שונאים את בית הספר המכוער.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "The weak woman drinks water slowly near the big window.",
+        "hebrew_spoken": "Ha-isha ha-chalasha shotah mayim le'at leyad ha-chalon ha-gadol.",
+        "hebrew_letters": "האישה החלשה שותה מים לאט ליד החלון הגדול.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "When the sun is strong, the happy children run outside.",
+        "hebrew_spoken": "Kshe-ha-shemesh chazaka, ha-yeladim ha-smechim ratzim ba-chutz.",
+        "hebrew_letters": "כשהשמש חזקה, הילדים השמחים רצים בחוץ.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "The sad man sits alone and reads an old book about the city.",
+        "hebrew_spoken": "Ha-ish ha-atzuv yoshev levad ve-kore sefer yashan al ha-ir.",
+        "hebrew_letters": "האיש העצוב יושב לבד וקורא ספר ישן על העיר.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "I eat bread and apples while she drinks water.",
+        "hebrew_spoken": "Ani ochel lechem ve-tapuchim be'od hi shotah mayim.",
+        "hebrew_letters": "אני אוכל לחם ותפוחים בעוד היא שותה מים.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "The young student always asks the old teacher good questions.",
+        "hebrew_spoken": "Ha-talmid ha-tza'ir tamid sho'el et ha-moreh ha-zaken she'elot tovot.",
+        "hebrew_letters": "התלמיד הצעיר תמיד שואל את המורה הזקן שאלות טובות.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "She never sleeps when the big dog is in the small house.",
+        "hebrew_spoken": "Hi af pa'am lo yeshena kshe-ha-kelev ha-gadol ba-bayit ha-katan.",
+        "hebrew_letters": "היא אף פעם לא ישנה כשהכלב הגדול בבית הקטן.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "The smart child sees everything but says nothing.",
+        "hebrew_spoken": "Ha-yeled ha-chacham ro'eh hakol aval lo omer klum.",
+        "hebrew_letters": "הילד החכם רואה הכול אבל לא אומר כלום.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "He teaches well because he loves the happy students.",
+        "hebrew_spoken": "Hu melamed tov ki hu ohev et ha-talmidim ha-smechim.",
+        "hebrew_letters": "הוא מלמד טוב כי הוא אוהב את התלמידים השמחים.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "The cat hears the dog and runs under the big table.",
+        "hebrew_spoken": "Ha-chatul shomea et ha-kelev ve-ratz tachat ha-shulchan ha-gadol.",
+        "hebrew_letters": "החתול שומע את הכלב ורץ תחת השולחן הגדול.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Maybe the new teacher is better than the old one.",
+        "hebrew_spoken": "Ulai ha-moreh ha-chadash tov yoter me-ha-yashan.",
+        "hebrew_letters": "אולי המורה החדש טוב יותר מהישן.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Not everyone likes expensive things, some prefer cheap ones.",
+        "hebrew_spoken": "Lo kulam ohavim dvarim yekarim, yesh she-ma'adifim zolim.",
+        "hebrew_letters": "לא כולם אוהבים דברים יקרים, יש שמעדיפים זולים.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "The strong man opens the heavy door for the weak woman.",
+        "hebrew_spoken": "Ha-ish ha-chazak poteach et ha-delet ha-kveda bishvil ha-isha ha-chalasha.",
+        "hebrew_letters": "האיש החזק פותח את הדלת הכבדה בשביל האישה החלשה.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "She walks fast through the ancient city while he runs slow.",
+        "hebrew_spoken": "Hi holechet maher derech ha-ir ha-atika be'od hu ratz le'at.",
+        "hebrew_letters": "היא הולכת מהר דרך העיר העתיקה בעוד הוא רץ לאט.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "The pretty woman sells good bread near the big tree.",
+        "hebrew_spoken": "Ha-isha ha-yafa mocheret lechem tov leyad ha-etz ha-gadol.",
+        "hebrew_letters": "האישה היפה מוכרת לחם טוב ליד העץ הגדול.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Only the smart students understand the old teacher.",
+        "hebrew_spoken": "Rak ha-talmidim ha-chachamim mevinim et ha-moreh ha-zaken.",
+        "hebrew_letters": "רק התלמידים החכמים מבינים את המורה הזקן.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "The child loves apples but hates the water.",
+        "hebrew_spoken": "Ha-yeled ohev tapuchim aval soneh et ha-mayim.",
+        "hebrew_letters": "הילד אוהב תפוחים אבל שונא את המים.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Every day the sad dog sits near the closed door and waits.",
+        "hebrew_spoken": "Kol yom ha-kelev ha-atzuv yoshev leyad ha-delet ha-sgura u-mechakeh.",
+        "hebrew_letters": "כל יום הכלב העצוב יושב ליד הדלת הסגורה ומחכה.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "The old man speaks slowly but the young woman listens fast.",
+        "hebrew_spoken": "Ha-ish ha-zaken medaber le'at aval ha-isha ha-tze'ira makshiva maher.",
+        "hebrew_letters": "האיש הזקן מדבר לאט אבל האישה הצעירה מקשיבה מהר.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "When it is cold, the small cat sleeps on the big chair.",
+        "hebrew_spoken": "Kshe-kar, ha-chatul ha-katan yashen al ha-kise ha-gadol.",
+        "hebrew_letters": "כשקר, החתול הקטן ישן על הכיסא הגדול.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "He reads good books because he wants to be smart.",
+        "hebrew_spoken": "Hu kore sfarim tovim ki hu rotzeh lihyot chacham.",
+        "hebrew_letters": "הוא קורא ספרים טובים כי הוא רוצה להיות חכם.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "The stupid man buys expensive things but never uses them.",
+        "hebrew_spoken": "Ha-ish ha-tipesh koneh dvarim yekarim aval af pa'am lo mishtamesh bahem.",
+        "hebrew_letters": "האיש הטיפש קונה דברים יקרים אבל אף פעם לא משתמש בהם.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "The happy teacher opens the window and lets the sun in.",
+        "hebrew_spoken": "Ha-moreh ha-sameach poteach et ha-chalon u-machnish et ha-shemesh.",
+        "hebrew_letters": "המורה השמח פותח את החלון ומכניס את השמש.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "She works here but lives in a different big city.",
+        "hebrew_spoken": "Hi ovedet po aval gara be-ir gdola acheret.",
+        "hebrew_letters": "היא עובדת פו אבל גרה בעיר גדולה אחרת.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "The fast child runs to school with a small book.",
+        "hebrew_spoken": "Ha-yeled ha-maher ratz le-beit ha-sefer im sefer katan.",
+        "hebrew_letters": "הילד המהיר רץ לבית הספר עם ספר קטן.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Something is wrong with the new car but nobody knows what.",
+        "hebrew_spoken": "Mashehu lo beseder im ha-mechonit ha-chadasha aval af echad lo yodea ma.",
+        "hebrew_letters": "משהו לא בסדר עם המכונית החדשה אבל אף אחד לא יודע מה.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "The woman teaches her child to love books and hate nothing.",
+        "hebrew_spoken": "Ha-isha melameded et ha-yeled shelah le'ehov sfarim ve-lo lisnoh klum.",
+        "hebrew_letters": "האישה מלמדת את הילד שלה לאהוב ספרים ולא לשנוא כלום.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "I see the beautiful tree through the big window every morning.",
+        "hebrew_spoken": "Ani ro'eh et ha-etz ha-yafe derech ha-chalon ha-gadol kol boker.",
+        "hebrew_letters": "אני רואה את העץ היפה דרך החלון הגדול כל בוקר.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "The new friend comes to the big house while the bird sings.",
+        "hebrew_spoken": "Ha-chaver ha-chadash ba la-bayit ha-gadol be'od ha-tzipor shara.",
+        "hebrew_letters": "החבר החדש בא לבית הגדול בעוד הציפור שרה.",
         "lesson": "Lesson 2"
     },
     {
-        "english": "She is making a delicious cake.",
-        "hebrew_spoken": "Hi osah uga metuka.",
-        "hebrew_letters": "היא עושה עוגה מתוקה.",
+        "english": "She returns happy from the restaurant with pretty flowers.",
+        "hebrew_spoken": "Hi chozeret smecha me-ha-mis'ada im prachim yafim.",
+        "hebrew_letters": "היא חוזרת שמחה מהמסעדה עם פרחים יפים.",
         "lesson": "Lesson 2"
     },
     {
-        "english": "I meet my old friend every month.",
-        "hebrew_spoken": "Ani pogesh chaver yashan kol chodesh.",
-        "hebrew_letters": "אני פוגש חבר ישן כל חודש.",
+        "english": "The young child jumps on the soft bed while the doctor watches.",
+        "hebrew_spoken": "Ha-yeled ha-tza'ir kofetz al ha-mita ha-racha be'od ha-rofe tzofeh.",
+        "hebrew_letters": "הילד הצעיר קופץ על המיטה הרכה בעוד הרופא צופה.",
         "lesson": "Lesson 2"
     },
     {
-        "english": "We saw a rainbow after the rain.",
-        "hebrew_spoken": "Rainninu keshet basof hagashem.",
-        "hebrew_letters": "ראינו קשת בסוף הגשם.",
+        "english": "When the music plays, everyone dances in the long street.",
+        "hebrew_spoken": "Kshe-ha-musica menagenet, kulam rokdim ba-rechov ha-aroch.",
+        "hebrew_letters": "כשהמוסיקה מנגנת, כולם רוקדים ברחוב הארוך.",
         "lesson": "Lesson 2"
     },
     {
-        "english": "They live in a small village.",
-        "hebrew_spoken": "Hem garim bekfar katan.",
-        "hebrew_letters": "הם גרים בכפר קטן.",
+        "english": "The small bird flies fast above the dirty bus.",
+        "hebrew_spoken": "Ha-tzipor ha-ktana afa maher me'al ha-otobus ha-meluchlach.",
+        "hebrew_letters": "הציפור הקטנה עפה מהר מעל האוטובוס המלוכלך.",
         "lesson": "Lesson 2"
     },
     {
-        "english": "She plays the piano beautifully.",
-        "hebrew_spoken": "Hi menagenet piano yafe me'od.",
-        "hebrew_letters": "היא מנגנת בפסנתר יפה מאוד.",
+        "english": "He swims in cold water every day and never gets sick.",
+        "hebrew_spoken": "Hu socheh be-mayim karim kol yom ve-af pa'am lo choleh.",
+        "hebrew_letters": "הוא שוחה במים קרים כל יום ואף פעם לא חולה.",
         "lesson": "Lesson 2"
     },
     {
-        "english": "I need to buy a new phone.",
-        "hebrew_spoken": "Ani tzarich liknot telefon chadash.",
-        "hebrew_letters": "אני צריך לקנות טלפון חדש.",
+        "english": "The strong man climbs the big tree while his friend follows.",
+        "hebrew_spoken": "Ha-ish ha-chazak metapes al ha-etz ha-gadol be'od ha-chaver shelo okev.",
+        "hebrew_letters": "האיש החזק מטפס על העץ הגדול בעוד החבר שלו עוקב.",
         "lesson": "Lesson 2"
     },
     {
-        "english": "We have picnics in the park.",
-        "hebrew_spoken": "Anachnu osim piknik bagan.",
-        "hebrew_letters": "אנחנו עושים פיקניק בגן.",
+        "english": "She falls sometimes but always stands up again happy.",
+        "hebrew_spoken": "Hi nofelet lif'amim aval tamid kama shuv smecha.",
+        "hebrew_letters": "היא נופלת לפעמים אבל תמיד קמה שוב שמחה.",
         "lesson": "Lesson 2"
     },
     {
-        "english": "They are talking about their plans.",
-        "hebrew_spoken": "Hem medabrim al ha'tochniyot shelahem.",
-        "hebrew_letters": "הם מדברים על התוכניות שלהם.",
+        "english": "I sit on the hard chair and read while the train arrives.",
+        "hebrew_spoken": "Ani yoshev al ha-kise ha-kashe ve-kore be'od ha-rakevet magi'a.",
+        "hebrew_letters": "אני יושב על הכיסא הקשה וקורא בעוד הרכבת מגיעה.",
         "lesson": "Lesson 2"
     },
     {
-        "english": "The train arrives at 5 o’clock.",
-        "hebrew_spoken": "Harakevet magia besha'a hamesh.",
-        "hebrew_letters": "הרכבת מגיעה בשעה חמש.",
+        "english": "The nurse stands near the narrow window and watches the street.",
+        "hebrew_spoken": "Ha-achot omedet leyad ha-chalon ha-tzar ve-tzofah ba-rechov.",
+        "hebrew_letters": "האחות עומדת ליד החלון הצר וצופה ברחוב.",
         "lesson": "Lesson 2"
     },
     {
-        "english": "She is wearing a red dress.",
-        "hebrew_spoken": "Hi loveshet simla aduma.",
-        "hebrew_letters": "היא לובשת שמלה אדומה.",
+        "english": "He turns to the left and sees a beautiful flower garden.",
+        "hebrew_spoken": "Hu poneh smola ve-ro'eh ginat prachim yafa.",
+        "hebrew_letters": "הוא פונה שמאלה ורואה גינת פרחים יפה.",
         "lesson": "Lesson 2"
     },
     {
-        "english": "He is reading the newspaper.",
-        "hebrew_spoken": "Hu kore et haitaon.",
-        "hebrew_letters": "הוא קורא את העיתון.",
+        "english": "The old bus stops near the bookstore and everyone leaves.",
+        "hebrew_spoken": "Ha-otobus ha-yashan otzer leyad ha-sifriya ve-kulam yotzim.",
+        "hebrew_letters": "האוטובוס הישן עוצר ליד הספרייה וכולם יוצאים.",
         "lesson": "Lesson 2"
     },
     {
-        "english": "We walk along the river.",
-        "hebrew_spoken": "Anachnu holchim le'orech hanahar.",
-        "hebrew_letters": "אנחנו הולכים לאורך הנהר.",
+        "english": "She starts to work early but the lazy friend continues sleeping.",
+        "hebrew_spoken": "Hi matchila la'avod mukdam aval ha-chaver ha-atzel mamshich lishon.",
+        "hebrew_letters": "היא מתחילה לעבוד מוקדם אבל החבר העצל ממשיך לישון.",
         "lesson": "Lesson 2"
     },
     {
-        "english": "They travel to different countries.",
-        "hebrew_spoken": "Hem nosim la'aratzot shonot.",
-        "hebrew_letters": "הם נוסעים לארצות שונות.",
+        "english": "When the airplane arrives, the happy family runs to meet it.",
+        "hebrew_spoken": "Kshe-ha-matos magi'a, ha-mishpacha ha-smecha ratza likrato.",
+        "hebrew_letters": "כשהמטוס מגיע, המשפחה השמחה רצה לקראתו.",
         "lesson": "Lesson 2"
     },
     {
-        "english": "The baby is sleeping peacefully.",
-        "hebrew_spoken": "Hatino yashen beshalva.",
-        "hebrew_letters": "התינוק ישן בשלווה.",
+        "english": "He leaves the dark restaurant because the food is bad.",
+        "hebrew_spoken": "Hu yotze me-ha-mis'ada ha-afela ki ha-ochel ra.",
+        "hebrew_letters": "הוא יוצא מהמסעדה האפלה כי האוכל רע.",
         "lesson": "Lesson 2"
     },
     {
-        "english": "She is baking fresh bread.",
-        "hebrew_spoken": "Hi ofah lechem tari.",
-        "hebrew_letters": "היא אופה לחם טרי.",
+        "english": "She enters the bright bookstore looking for a cheap book.",
+        "hebrew_spoken": "Hi nichneset la-sifriya ha-behira ve-mechapeset sefer zol.",
+        "hebrew_letters": "היא נכנסת לספרייה הבהירה ומחפשת ספר זול.",
         "lesson": "Lesson 2"
     },
     {
-        "english": "We are learning Hebrew every day.",
-        "hebrew_spoken": "Anachnu lomdim ivrit kol yom.",
-        "hebrew_letters": "אנחנו לומדים עברית כל יום.",
+        "english": "The heavy airplane passes above the wide street slowly.",
+        "hebrew_spoken": "Ha-matos ha-kaved over me'al ha-rechov ha-rachav le'at.",
+        "hebrew_letters": "המטוס הכבד עובר מעל הרחוב הרחב לאט.",
         "lesson": "Lesson 2"
     },
     {
-        "english": "The flowers are blooming in spring.",
-        "hebrew_spoken": "Haperachim porechim ba'aviv.",
-        "hebrew_letters": "הפרחים פורחים באביב.",
+        "english": "The smart teacher leads the students through the empty park.",
+        "hebrew_spoken": "Ha-moreh ha-chacham movil et ha-talmidim derech ha-park ha-reyk.",
+        "hebrew_letters": "המורה החכם מוביל את התלמידים דרך הפארק הריק.",
         "lesson": "Lesson 2"
     },
     {
-        "english": "He has a meeting in the afternoon.",
-        "hebrew_spoken": "Hu yesh lo p'gisha ba'achar tzohorayim.",
-        "hebrew_letters": "הוא יש לו פגישה אחר הצהריים.",
+        "english": "The loyal dog follows the old man everywhere he walks.",
+        "hebrew_spoken": "Ha-kelev ha-ne'eman okev acharey ha-ish ha-zaken le-chol makom she-hu holech.",
+        "hebrew_letters": "הכלב הנאמן עוקב אחרי האיש הזקן לכל מקום שהוא הולך.",
         "lesson": "Lesson 2"
     },
     {
-        "english": "They enjoy watching the sunset.",
-        "hebrew_spoken": "Hem nehene'im milihiyot et hashkiya.",
-        "hebrew_letters": "הם נהנים מלראות את השקיעה.",
+        "english": "I buy a clean shirt and new pants for the dance.",
+        "hebrew_spoken": "Ani koneh chultza nekiya u-michnasayim chadashim la-rikud.",
+        "hebrew_letters": "אני קונה חולצה נקייה ומכנסיים חדשים לריקוד.",
         "lesson": "Lesson 2"
     },
     {
-        "english": "I like visiting museums.",
-        "hebrew_spoken": "Ani ohev levaker bamusim.",
-        "hebrew_letters": "אני אוהב לבקר במוזיאונים.",
+        "english": "The fish swims in cold water while the bird flies above.",
+        "hebrew_spoken": "Ha-dag sachah be-mayim karim be'od ha-tzipor afa lema'ala.",
+        "hebrew_letters": "הדג שחה במים קרים בעוד הציפור עפה למעלה.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "She sells beautiful flowers near the full bus stop.",
+        "hebrew_spoken": "Hi mocheret prachim yafim leyad tachanat ha-otobus ha-mele'a.",
+        "hebrew_letters": "היא מוכרת פרחים יפים ליד תחנת האוטובוס המלאה.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "The heavy watch falls from the narrow table.",
+        "hebrew_spoken": "Ha-sha'on ha-kaved nofel me-ha-shulchan ha-tzar.",
+        "hebrew_letters": "השעון הכבד נופל מהשולחן הצר.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "When it is hot, everyone swims in the cold water.",
+        "hebrew_spoken": "Kshe-cham, kulam sochim ba-mayim ha-karim.",
+        "hebrew_letters": "כשחם, כולם שוחים במים הקרים.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "The light key opens the heavy door easily.",
+        "hebrew_spoken": "Ha-mafteach ha-kal poteach et ha-delet ha-kveda be-kalut.",
+        "hebrew_letters": "המפתח הקל פותח את הדלת הכבדה בקלות.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "He wears new glasses and a soft hat today.",
+        "hebrew_spoken": "Hu lovesh mishkafayim chadashim ve-kova rach hayom.",
+        "hebrew_letters": "הוא לובש משקפיים חדשים וכובע רך היום.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "The dirty shoes stand near the clean door.",
+        "hebrew_spoken": "Ha-na'alayim ha-melukhlechot omdot leyad ha-delet ha-nekiya.",
+        "hebrew_letters": "הנעליים המלוכלכות עומדות ליד הדלת הנקייה.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "She dances happy while the computer plays music.",
+        "hebrew_spoken": "Hi rokedet smecha be'od ha-machshev menagen musica.",
+        "hebrew_letters": "היא רוקדת שמחה בעוד המחשב מנגן מוסיקה.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "The kind nurse helps the weak man climb into the bus.",
+        "hebrew_spoken": "Ha-achot ha-adiva ozeret la-ish ha-chalash la'alot la-otobus.",
+        "hebrew_letters": "האחות האדיבה עוזרת לאיש החלש לעלות לאוטובוס.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "I see beautiful flowers through the bright window of the train.",
+        "hebrew_spoken": "Ani ro'eh prachim yafim derech ha-chalon ha-bahir shel ha-rakevet.",
+        "hebrew_letters": "אני רואה פרחים יפים דרך החלון הבהיר של הרכבת.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "The young doctor works hard and returns home late.",
+        "hebrew_spoken": "Ha-rofe ha-tza'ir oved kashe ve-chozer ha-bayta me'uchar.",
+        "hebrew_letters": "הרופא הצעיר עובד קשה וחוזר הביתה מאוחר.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "She continues to read even when everyone else dances.",
+        "hebrew_spoken": "Hi mamshicha likro gam kshe-kulam rokdim.",
+        "hebrew_letters": "היא ממשיכה לקרוא גם כשכולם רוקדים.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "The full restaurant is hot but the empty one is cold.",
+        "hebrew_spoken": "Ha-mis'ada ha-mele'a chama aval ha-reyka kara.",
+        "hebrew_letters": "המסעדה המלאה חמה אבל הריקה קרה.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "When the bird sings, the sad child becomes happy.",
+        "hebrew_spoken": "Kshe-ha-tzipor shara, ha-yeled ha-atzuv na'aseh sameach.",
+        "hebrew_letters": "כשהציפור שרה, הילד העצוב נעשה שמח.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "He jumps from the hard chair onto the soft bed.",
+        "hebrew_spoken": "Hu kofetz me-ha-kise ha-kashe el ha-mita ha-racha.",
+        "hebrew_letters": "הוא קופץ מהכיסא הקשה אל המיטה הרכה.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "The dark street is narrow but the bright one is wide.",
+        "hebrew_spoken": "Ha-rechov ha-afel tzar aval ha-bahir rachav.",
+        "hebrew_letters": "הרחוב האפל צר אבל הבהיר רחב.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "She passes the old bookstore every day but never enters.",
+        "hebrew_spoken": "Hi overet leyad ha-sifriya ha-yeshana kol yom aval af pa'am lo nichneset.",
+        "hebrew_letters": "היא עוברת ליד הספרייה הישנה כל יום אבל אף פעם לא נכנסת.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "The airplane is fast but the old train is slow.",
+        "hebrew_spoken": "Ha-matos maher aval ha-rakevet ha-yeshana itit.",
+        "hebrew_letters": "המטוס מהיר אבל הרכבת הישנה איטית.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "He leads the young students and she follows quietly.",
+        "hebrew_spoken": "Hu movil et ha-talmidim ha-tze'irim ve-hi okevet be-sheket.",
+        "hebrew_letters": "הוא מוביל את התלמידים הצעירים והיא עוקבת בשקט.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "The friendly doctor sits in the restaurant and drinks coffee.",
+        "hebrew_spoken": "Ha-rofe ha-yediduti yoshev ba-mis'ada ve-shoteh kafe.",
+        "hebrew_letters": "הרופא הידידותי יושב במסעדה ושותה קפה.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "When the bus stops, the tired nurse finally sits.",
+        "hebrew_spoken": "Kshe-ha-otobus otzer, ha-achot ha-ayefa sof sof yoshevet.",
+        "hebrew_letters": "כשהאוטובוס עוצר, האחות העייפה סוף סוף יושבת.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "I climb the big tree and see the whole city from above.",
+        "hebrew_spoken": "Ani metapes al ha-etz ha-gadol ve-ro'eh et kol ha-ir milema'ala.",
+        "hebrew_letters": "אני מטפס על העץ הגדול ורואה את כל העיר מלמעלה.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "The light bird flies above the heavy bus.",
+        "hebrew_spoken": "Ha-tzipor ha-kala afa me'al ha-otobus ha-kaved.",
+        "hebrew_letters": "הציפור הקלה עפה מעל האוטובוס הכבד.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "She opens the new book while sitting in the empty train.",
+        "hebrew_spoken": "Hi potachat et ha-sefer ha-chadash be'od hi yoshevet ba-rakevet ha-reyka.",
+        "hebrew_letters": "היא פותחת את הספר החדש בעוד היא יושבת ברכבת הריקה.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "The clean flower smells good but the dirty one smells bad.",
+        "hebrew_spoken": "Ha-perach ha-naki meri'ach tov aval ha-meluchlach meri'ach ra.",
+        "hebrew_letters": "הפרח הנקי מריח טוב אבל המלוכלך מריח רע.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "He returns to the narrow street where his friend waits.",
+        "hebrew_spoken": "Hu chozer la-rechov ha-tzar sham ha-chaver shelo mechakeh.",
+        "hebrew_letters": "הוא חוזר לרחוב הצר שם החבר שלו מחכה.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "The old woman starts to dance and everyone follows.",
+        "hebrew_spoken": "Ha-isha ha-zkena matchila lirkod ve-kulam okvim.",
+        "hebrew_letters": "האישה הזקנה מתחילה לרקוד וכולם עוקבים.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "I see the bright moon through the window while the city sleeps.",
+        "hebrew_spoken": "Ani ro'eh et ha-yare'ach ha-bahir derech ha-chalon be'od ha-ir yeshena.",
+        "hebrew_letters": "אני רואה את הירח הבהיר דרך החלון בעוד העיר ישנה.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "The short doctor and the tall nurse work together.",
+        "hebrew_spoken": "Ha-rofe ha-katzar ve-ha-achot ha-gvoha ovdim yachad.",
+        "hebrew_letters": "הרופא הקצר והאחות הגבוהה עובדים יחד.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "The heavy glasses fall from the narrow shelf onto the soft bed.",
+        "hebrew_spoken": "Ha-mishkafayim ha-kvedim noflim me-ha-madaf ha-tzar al ha-mita ha-racha.",
+        "hebrew_letters": "המשקפיים הכבדים נופלים מהמדף הצר על המיטה הרכה.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "I ask the old teacher about the deep river near the mountain.",
+        "hebrew_spoken": "Ani sho'el et ha-moreh ha-zaken al ha-nahar ha-amok leyad ha-har.",
+        "hebrew_letters": "אני שואל את המורה הזקן על הנהר העמוק ליד ההר.",
         "lesson": "Lesson 3"
     },
     {
-        "english": "She helps her younger brother with homework.",
-        "hebrew_spoken": "Hi ozeret la'achi hakatan be'shiurei bayit.",
-        "hebrew_letters": "היא עוזרת לאחיה הקטן בשיעורי בית.",
+        "english": "She answers honestly while looking at the beautiful picture on the wall.",
+        "hebrew_spoken": "Hi onah be-kenut be'od hi mistakelelet ba-tmuna ha-yafa al ha-kir.",
+        "hebrew_letters": "היא עונה בכנות בעוד היא מסתכלת בתמונה היפה על הקיר.",
         "lesson": "Lesson 3"
     },
     {
-        "english": "We played soccer in the evening.",
-        "hebrew_spoken": "Sichaknu kaduregel ba'erev.",
-        "hebrew_letters": "שיחקנו כדורגל בערב.",
+        "english": "The brave man tells exciting stories about the high mountains.",
+        "hebrew_spoken": "Ha-ish ha-amitz mesaper sipurim meragshim al he-harim ha-gvohim.",
+        "hebrew_letters": "האיש האמיץ מספר סיפורים מרגשים על ההרים הגבוהים.",
         "lesson": "Lesson 3"
     },
     {
-        "english": "The birds are singing in the morning.",
-        "hebrew_spoken": "Hatziporim sharot baboker.",
-        "hebrew_letters": "הציפורים שרות בבוקר.",
+        "english": "The polite teacher explains difficult things in the bright room.",
+        "hebrew_spoken": "Ha-moreh ha-menumas masbir dvarim kashim ba-cheder ha-bahir.",
+        "hebrew_letters": "המורה המנומס מסביר דברים קשים בחדר הבהיר.",
         "lesson": "Lesson 3"
     },
     {
-        "english": "He is fixing his bicycle.",
-        "hebrew_spoken": "Hu metaken et ha'ofanaim shelo.",
-        "hebrew_letters": "הוא מתקן את האופניים שלו.",
+        "english": "I think about the cold sea while sitting in the hot kitchen.",
+        "hebrew_spoken": "Ani choshev al ha-yam ha-kar be'od ani yoshev ba-mitbach ha-cham.",
+        "hebrew_letters": "אני חושב על הים הקר בעוד אני יושב במטבח החם.",
         "lesson": "Lesson 3"
     },
     {
-        "english": "They ate dinner at a restaurant.",
-        "hebrew_spoken": "Hem achlu aruchat erev bemisada.",
-        "hebrew_letters": "הם אכלו ארוחת ערב במסעדה.",
+        "english": "She understands everything because she is smart and generous.",
+        "hebrew_spoken": "Hi mevinah hakol ki hi chachama ve-ndiva.",
+        "hebrew_letters": "היא מבינה הכול כי היא חכמה ונדיבה.",
         "lesson": "Lesson 3"
     },
     {
-        "english": "I am waiting for the bus.",
-        "hebrew_spoken": "Ani mechak le'otobus.",
-        "hebrew_letters": "אני מחכה לאוטובוס.",
+        "english": "The honest friend remembers the beautiful garden with colorful flowers.",
+        "hebrew_spoken": "Ha-chaver ha-kene zocher et ha-gina ha-yafa im ha-prachim ha-tzivoni'im.",
+        "hebrew_letters": "החבר הכן זוכר את הגינה היפה עם הפרחים הצבעוניים.",
         "lesson": "Lesson 3"
     },
     {
-        "english": "She is writing a new story.",
-        "hebrew_spoken": "Hi kotevet sipur chadash.",
-        "hebrew_letters": "היא כותבת סיפור חדש.",
+        "english": "I forget things sometimes but the rude man never forgets.",
+        "hebrew_spoken": "Ani shocheach dvarim lif'amim aval ha-ish ha-chatzuf af pa'am lo shocheach.",
+        "hebrew_letters": "אני שוכח דברים לפעמים אבל האיש החצוף אף פעם לא שוכח.",
         "lesson": "Lesson 3"
     },
     {
-        "english": "We are planning a trip to Jerusalem.",
-        "hebrew_spoken": "Anachnu mitaknim nesiyah le'Yerushalayim.",
-        "hebrew_letters": "אנחנו מתכננים נסיעה לירושלים.",
+        "english": "The selfish woman knows the answer but refuses to share.",
+        "hebrew_spoken": "Ha-isha ha-anochit yoda'at et ha-tshuva aval mesurevet lachalok.",
+        "hebrew_letters": "האישה האנוכית יודעת את התשובה אבל מסרבת לחלוק.",
         "lesson": "Lesson 3"
     },
     {
-        "english": "He is learning to play the guitar.",
-        "hebrew_spoken": "Hu lomed lenagen bagitar.",
-        "hebrew_letters": "הוא לומד לנגן בגיטרה.",
+        "english": "He believes in the friendly doctor who works at the busy hospital.",
+        "hebrew_spoken": "Hu ma'amin ba-rofe ha-yediduti she-oved be-beit ha-cholim ha-asuk.",
+        "hebrew_letters": "הוא מאמין ברופא הידידותי שעובד בבית החולים העסוק.",
         "lesson": "Lesson 3"
     },
     {
-        "english": "She enjoys painting in her free time.",
-        "hebrew_spoken": "Hi nehene leitzbo'a bezman hapnai shela.",
-        "hebrew_letters": "היא נהנית לצבוע בזמן הפנאי שלה.",
+        "english": "The brave students agree to climb the high mountain together.",
+        "hebrew_spoken": "Ha-talmidim ha-amitzim maskimim letapes al ha-har ha-gavoha yachad.",
+        "hebrew_letters": "התלמידים האמיצים מסכימים לטפס על ההר הגבוה יחד.",
         "lesson": "Lesson 3"
     },
     {
-        "english": "We often go to the cinema on Fridays.",
-        "hebrew_spoken": "Anachnu holechim la'kolnoa be'yom shishi.",
-        "hebrew_letters": "אנחנו הולכים לקולנוע ביום שישי.",
+        "english": "The cowardly child argues with everyone about the deep river.",
+        "hebrew_spoken": "Ha-yeled ha-pachdan mitvakeach im kulam al ha-nahar ha-amok.",
+        "hebrew_letters": "הילד הפחדן מתווכח עם כולם על הנהר העמוק.",
         "lesson": "Lesson 3"
     },
     {
-        "english": "He likes listening to classical music.",
-        "hebrew_spoken": "Hu ohev lishmoa musika klasit.",
-        "hebrew_letters": "הוא אוהב לשמוע מוזיקה קלאסית.",
+        "english": "The dishonest man lies about the beautiful view from the ceiling.",
+        "hebrew_spoken": "Ha-ish ha-lo-kene meshaker al ha-nof ha-yafe me-ha-tikra.",
+        "hebrew_letters": "האיש הלא כן משקר על הנוף היפה מהתקרה.",
         "lesson": "Lesson 3"
     },
     {
-        "english": "They traveled to Israel last summer.",
-        "hebrew_spoken": "Hem nasu le'Yisrael bakayitz sheavar.",
-        "hebrew_letters": "הם נסעו לישראל בקיץ שעבר.",
+        "english": "She promises to visit the quiet beach near the old park.",
+        "hebrew_spoken": "Hi mavti'cha levaker et ha-chof ha-shaket leyad ha-park ha-yashan.",
+        "hebrew_letters": "היא מבטיחה לבקר את החוף השקט ליד הפארק הישן.",
         "lesson": "Lesson 3"
     },
     {
-        "english": "The dog is barking outside.",
-        "hebrew_spoken": "Hakelev novach bachutz.",
-        "hebrew_letters": "הכלב נובח בחוץ.",
+        "english": "The generous man prays every morning while the sun rises over the sea.",
+        "hebrew_spoken": "Ha-ish ha-nadiv mitpalel kol boker be'od ha-shemesh zorchat me'al ha-yam.",
+        "hebrew_letters": "האיש הנדיב מתפלל כל בוקר בעוד השמש זורחת מעל הים.",
         "lesson": "Lesson 3"
     },
     {
-        "english": "I usually wake up at 7 o'clock.",
-        "hebrew_spoken": "Ani mitoreh be'sha'a sheva be'erev.",
-        "hebrew_letters": "אני מתעורר בשעה שבע בערב.",
+        "english": "The small bird sings beautiful songs in the green garden.",
+        "hebrew_spoken": "Ha-tzipor ha-ktana shara shirim yafim ba-gina ha-yeruka.",
+        "hebrew_letters": "הציפור הקטנה שרה שירים יפים בגינה הירוקה.",
         "lesson": "Lesson 3"
     },
     {
-        "english": "She is preparing lunch for everyone.",
-        "hebrew_spoken": "Hi mechinah aruchat tzohorayim le'kulam.",
-        "hebrew_letters": "היא מכינה ארוחת צהריים לכולם.",
+        "english": "The mean child shouts loudly at the busy nurse in the room.",
+        "hebrew_spoken": "Ha-yeled ha-rasha tzo'ek chazak al ha-achot ha-asuka ba-cheder.",
+        "hebrew_letters": "הילד הרשע צועק חזק על האחות העסוקה בחדר.",
         "lesson": "Lesson 3"
     },
     {
-        "english": "They are waiting at the train station.",
-        "hebrew_spoken": "Hem mechakim betahanat harakevet.",
-        "hebrew_letters": "הם מחכים בתחנת הרכבת.",
+        "english": "She whispers secrets about the deep sea and the high mountains.",
+        "hebrew_spoken": "Hi locheshet sodot al ha-yam ha-amok ve-he-harim ha-gvohim.",
+        "hebrew_letters": "היא לוחשת סודות על הים העמוק וההרים הגבוהים.",
         "lesson": "Lesson 3"
     },
     {
-        "english": "He is fixing the broken chair.",
-        "hebrew_spoken": "Hu metaken et hakesa hashavur.",
-        "hebrew_letters": "הוא מתקן את הכסא השבור.",
+        "english": "The happy children laugh together under the bright moon.",
+        "hebrew_spoken": "Ha-yeladim ha-smechim tzochkim yachad tachat ha-yare'ach ha-bahir.",
+        "hebrew_letters": "הילדים השמחים צוחקים יחד תחת הירח הבהיר.",
         "lesson": "Lesson 3"
     },
     {
-        "english": "We love walking in the park in autumn.",
-        "hebrew_spoken": "Anachnu ohevim lehitayel bagan be'stav.",
-        "hebrew_letters": "אנחנו אוהבים לטייל בגן בסתיו.",
+        "english": "The sad woman cries near the thick wall of the old house.",
+        "hebrew_spoken": "Ha-isha ha-atzuva bochah leyad ha-kir ha-aveh shel ha-bayit ha-yashan.",
+        "hebrew_letters": "האישה העצובה בוכה ליד הקיר העבה של הבית הישן.",
         "lesson": "Lesson 3"
     },
     {
-        "english": "She teaches English at a school.",
-        "hebrew_spoken": "Hi melamedet anglit be'beit sefer.",
-        "hebrew_letters": "היא מלמדת אנגלית בבית ספר.",
+        "english": "The clean bathroom has a thin lamp on the white ceiling.",
+        "hebrew_spoken": "Ha-shirutim ha-nekiyim yesh lahem menora daka al ha-tikra ha-levana.",
+        "hebrew_letters": "השירותים הנקיים יש להם מנורה דקה על התקרה הלבנה.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "The soft bed stands near the wide window facing the garden.",
+        "hebrew_spoken": "Ha-mita ha-racha omedet leyad ha-chalon ha-rachav mul ha-gina.",
+        "hebrew_letters": "המיטה הרכה עומדת ליד החלון הרחב מול הגינה.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "The bright picture shows the beautiful beach and the blue sky.",
+        "hebrew_spoken": "Ha-tmuna ha-behira mar'a et ha-chof ha-yafe ve-ha-shamayim ha-kchulim.",
+        "hebrew_letters": "התמונה הבהירה מראה את החוף היפה והשמיים הכחולים.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "The shallow river flows slowly near the busy park.",
+        "hebrew_spoken": "Ha-nahar ha-radud zorem le'at leyad ha-park ha-asuk.",
+        "hebrew_letters": "הנהר הרדוד זורם לאט ליד הפארק העסוק.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "The free doctor walks alone on the wide beach every evening.",
+        "hebrew_spoken": "Ha-rofe ha-panu'i holech levad al ha-chof ha-rachav kol erev.",
+        "hebrew_letters": "הרופא הפנוי הולך לבד על החוף הרחב כל ערב.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "I see white clouds above the high mountain from my room.",
+        "hebrew_spoken": "Ani ro'eh ananim levanim me'al ha-har ha-gavoha me-ha-cheder sheli.",
+        "hebrew_letters": "אני רואה עננים לבנים מעל ההר הגבוה מהחדר שלי.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "The hot sun shines on the dirty floor of the old kitchen.",
+        "hebrew_spoken": "Ha-shemesh ha-chama zorachat al ha-ritzpa ha-melukhlechet shel ha-mitbach ha-yashan.",
+        "hebrew_letters": "השמש החמה זורחת על הרצפה המלוכלכת של המטבח הישן.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "She explains why the deep sea is more beautiful than the shallow river.",
+        "hebrew_spoken": "Hi masbirah lama ha-yam ha-amok yafe yoter me-ha-nahar ha-radud.",
+        "hebrew_letters": "היא מסבירה למה הים העמוק יפה יותר מהנהר הרדוד.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "The polite student asks about the beautiful stars in the dark sky.",
+        "hebrew_spoken": "Ha-talmid ha-menumas sho'el al ha-kochavim ha-yafim ba-shamayim ha-afelim.",
+        "hebrew_letters": "התלמיד המנומס שואל על הכוכבים היפים בשמיים האפלים.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "The honest nurse tells the truth even when it is difficult.",
+        "hebrew_spoken": "Ha-achot ha-kena omeret et ha-emet gam kshe-ze kashe.",
+        "hebrew_letters": "האחות הכנה אומרת את האמת גם כשזה קשה.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "He thinks about the beautiful moon while walking near the cold sea.",
+        "hebrew_spoken": "Hu choshev al ha-yare'ach ha-yafe be'od hu holech leyad ha-yam ha-kar.",
+        "hebrew_letters": "הוא חושב על הירח היפה בעוד הוא הולך ליד הים הקר.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "The brave friend swims in the deep sea while everyone watches.",
+        "hebrew_spoken": "Ha-chaver ha-amitz socheh ba-yam ha-amok be'od kulam tzofim.",
+        "hebrew_letters": "החבר האמיץ שוחה בים העמוק בעוד כולם צופים.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "The dirty garden needs cleaning but the busy man forgets.",
+        "hebrew_spoken": "Ha-gina ha-melukhlechet tzricha nikuy aval ha-ish ha-asuk shocheach.",
+        "hebrew_letters": "הגינה המלוכלכת צריכה ניקוי אבל האיש העסוק שוכח.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "She sings softly while the white clouds pass above the park.",
+        "hebrew_spoken": "Hi shara be-rakut be'od ha-ananim ha-levanim ovrim me'al ha-park.",
+        "hebrew_letters": "היא שרה ברכות בעוד העננים הלבנים עוברים מעל הפארק.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "The friendly teacher understands why the children are cowardly.",
+        "hebrew_spoken": "Ha-moreh ha-yediduti mevin lama ha-yeladim pachdanim.",
+        "hebrew_letters": "המורה הידידותי מבין למה הילדים פחדנים.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "The thick wall separates the clean room from the dirty kitchen.",
+        "hebrew_spoken": "Ha-kir ha-aveh mafrid beyn ha-cheder ha-naki la-mitbach ha-meluchlach.",
+        "hebrew_letters": "הקיר העבה מפריד בין החדר הנקי למטבח המלוכלך.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "I believe the generous woman who lives near the beautiful garden.",
+        "hebrew_spoken": "Ani ma'amin la-isha ha-ndiva she-gara leyad ha-gina ha-yafa.",
+        "hebrew_letters": "אני מאמין לאישה הנדיבה שגרה ליד הגינה היפה.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "The selfish child never shares the pretty flowers from the garden.",
+        "hebrew_spoken": "Ha-yeled ha-anochi af pa'am lo mechalek et ha-prachim ha-yafim me-ha-gina.",
+        "hebrew_letters": "הילד האנוכי אף פעם לא מחלק את הפרחים היפים מהגינה.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "She remembers the shallow beach where the happy children played.",
+        "hebrew_spoken": "Hi zocheret et ha-chof ha-radud sham ha-yeladim ha-smechim sichku.",
+        "hebrew_letters": "היא זוכרת את החוף הרדוד שם הילדים השמחים שיחקו.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "The mean teacher shouts at the polite student about the thin book.",
+        "hebrew_spoken": "Ha-moreh ha-rasha tzo'ek al ha-talmid ha-menumas al ha-sefer ha-dak.",
+        "hebrew_letters": "המורה הרשע צועק על התלמיד המנומס על הספר הדק.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "The bright lamp lights the small room where she reads.",
+        "hebrew_spoken": "Ha-menora ha-behira me'ira et ha-cheder ha-katan sham hi koret.",
+        "hebrew_letters": "המנורה הבהירה מאירה את החדר הקטן שם היא קוראת.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "He asks why the wide river flows into the deep sea.",
+        "hebrew_spoken": "Hu sho'el lama ha-nahar ha-rachav zorem la-yam ha-amok.",
+        "hebrew_letters": "הוא שואל למה הנהר הרחב זורם לים העמוק.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "The free bird flies above the high mountains and white clouds.",
+        "hebrew_spoken": "Ha-tzipor ha-chofshit afa me'al he-harim ha-gvohim ve-ha-ananim ha-levanim.",
+        "hebrew_letters": "הציפור החופשית עפה מעל ההרים הגבוהים והעננים הלבנים.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "I whisper to the honest friend about the beautiful picture.",
+        "hebrew_spoken": "Ani lochesh la-chaver ha-kene al ha-tmuna ha-yafa.",
+        "hebrew_letters": "אני לוחש לחבר הכן על התמונה היפה.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "The brave nurse climbs to the ceiling to fix the old lamp.",
+        "hebrew_spoken": "Ha-achot ha-amitza metapeset la-tikra letaken et ha-menora ha-yeshana.",
+        "hebrew_letters": "האחות האמיצה מטפסת לתקרה לתקן את המנורה הישנה.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "The generous doctor gives free help to everyone at the busy park.",
+        "hebrew_spoken": "Ha-rofe ha-nadiv noten ezra chinamit le-kulam ba-park ha-asuk.",
+        "hebrew_letters": "הרופא הנדיב נותן עזרה חינמית לכולם בפארק העסוק.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "She cries happy tears looking at the beautiful sun over the sea.",
+        "hebrew_spoken": "Hi bochah dim'ot simcha be-histaklut al ha-shemesh ha-yafa me'al ha-yam.",
+        "hebrew_letters": "היא בוכה דמעות שמחה בהסתכלות על השמש היפה מעל הים.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "The cowardly man argues about the deep river but never swims.",
+        "hebrew_spoken": "Ha-ish ha-pachdan mitvakeach al ha-nahar ha-amok aval af pa'am lo socheh.",
+        "hebrew_letters": "האיש הפחדן מתווכח על הנהר העמוק אבל אף פעם לא שוחה.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "The thin floor makes noise when people walk in the old room.",
+        "hebrew_spoken": "Ha-ritzpa ha-daka osah ra'ash kshe-anashim holchim ba-cheder ha-yashan.",
+        "hebrew_letters": "הרצפה הדקה עושה רעש כשאנשים הולכים בחדר הישן.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "He laughs at the funny story while she cries at the sad one.",
+        "hebrew_spoken": "Hu tzochek al ha-sipur ha-matzchik be'od hi bochah al ha-atzuv.",
+        "hebrew_letters": "הוא צוחק על הסיפור המצחיק בעוד היא בוכה על העצוב.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "I cook delicious soup in the hot kitchen while my friend waits hungry.",
+        "hebrew_spoken": "Ani mevashel marak ta'im ba-mitbach ha-cham be'od ha-chaver sheli mechakeh ra'ev.",
+        "hebrew_letters": "אני מבשל מרק טעים במטבח החם בעוד החבר שלי מחכה רעב.",
         "lesson": "Lesson 4"
     },
     {
-        "english": "He wants to learn how to dance.",
-        "hebrew_spoken": "Hu rotze lilmod eich lirkod.",
-        "hebrew_letters": "הוא רוצה ללמוד איך לרקוד.",
+        "english": "She cleans the dirty room tired but the patient child helps.",
+        "hebrew_spoken": "Hi menakah et ha-cheder ha-meluchlach ayefa aval ha-yeled ha-savlani ozer.",
+        "hebrew_letters": "היא מנקה את החדר המלוכלך עייפה אבל הילד הסבלני עוזר.",
         "lesson": "Lesson 4"
     },
     {
-        "english": "The kids are watching cartoons.",
-        "hebrew_spoken": "Hayeladim ro'im kartoonim.",
-        "hebrew_letters": "הילדים רואים סרטים מצוירים.",
+        "english": "The loyal man washes fresh vegetables at the busy market.",
+        "hebrew_spoken": "Ha-ish ha-ne'eman rochetz yerakot tari'im ba-shuk ha-asuk.",
+        "hebrew_letters": "האיש הנאמן רוחץ ירקות טריים בשוק העסוק.",
         "lesson": "Lesson 4"
     },
     {
-        "english": "We had a barbecue last Saturday.",
-        "hebrew_spoken": "Asinu al ha'esh be'shabbat she'avar.",
-        "hebrew_letters": "עשינו על האש בשבת שעברה.",
+        "english": "She dresses excited for the party at the new theater.",
+        "hebrew_spoken": "Hi mitlabeshet nirgeshet la-mesiba be-ha-te'atron ha-chadash.",
+        "hebrew_letters": "היא מתלבשת נרגשת למסיבה בתיאטרון החדש.",
         "lesson": "Lesson 4"
     },
     {
-        "english": "She sent me a beautiful postcard.",
-        "hebrew_spoken": "Hi shalcha li gluya yafa.",
-        "hebrew_letters": "היא שלחה לי גלויה יפה.",
+        "english": "The tired doctor showers quickly and drinks strong coffee.",
+        "hebrew_spoken": "Ha-rofe ha-ayef mitkale'ach maher ve-shoteh kafe chazak.",
+        "hebrew_letters": "הרופא העייף מתקלח מהר ושותה קפה חזק.",
         "lesson": "Lesson 4"
     },
     {
-        "english": "He is wearing a blue jacket.",
-        "hebrew_spoken": "Hu loves jaket kachol.",
-        "hebrew_letters": "הוא לובש ז'קט כחול.",
+        "english": "I brush my hair neat before visiting the ancient museum.",
+        "hebrew_spoken": "Ani mesarek et ha-se'ar sheli mesudar lifney bikur ba-muze'on ha-atik.",
+        "hebrew_letters": "אני מסרק את השער שלי מסודר לפני ביקור במוזיאון העתיק.",
         "lesson": "Lesson 4"
     },
     {
-        "english": "They are celebrating their anniversary.",
-        "hebrew_spoken": "Hem chogegim et hayom nesuim shelahem.",
-        "hebrew_letters": "הם חוגגים את יום נישואיהם.",
+        "english": "The energetic child uses the new computer to draw beautiful pictures.",
+        "hebrew_spoken": "Ha-yeled ha-energeti mishtamesh ba-machshev ha-chadash letzayer tmunot yafot.",
+        "hebrew_letters": "הילד האנרגטי משתמש במחשב החדש לצייר תמונות יפות.",
         "lesson": "Lesson 4"
     },
     {
-        "english": "I am learning to play the piano.",
-        "hebrew_spoken": "Ani lomed lenagen be'psanter.",
-        "hebrew_letters": "אני לומד לנגן בפסנתר.",
+        "english": "He fixes the old car while the impatient woman waits.",
+        "hebrew_spoken": "Hu metaken et ha-mechonit ha-yeshana be'od ha-isha chasrat ha-savlanut mechaka.",
+        "hebrew_letters": "הוא מתקן את המכונית הישנה בעוד האישה חסרת הסבלנות מחכה.",
         "lesson": "Lesson 4"
     },
     {
-        "english": "She is visiting her aunt this weekend.",
-        "hebrew_spoken": "Hi mevakeret et dodah bashavua habah.",
-        "hebrew_letters": "היא מבקרת את דודה שלה בשבוע הבא.",
+        "english": "The bored child breaks the cheap chair and everyone is angry.",
+        "hebrew_spoken": "Ha-yeled ha-meshu'amam shover et ha-kise ha-zol ve-kulam ko'asim.",
+        "hebrew_letters": "הילד המשועמם שובר את הכיסא הזול וכולם כועסים.",
         "lesson": "Lesson 4"
     },
     {
-        "english": "We bought a new sofa for the living room.",
-        "hebrew_spoken": "Kaninu sapa chadasha le'salon.",
-        "hebrew_letters": "קנינו ספה חדשה לסלון.",
+        "english": "They build a big hospital near the quiet library.",
+        "hebrew_spoken": "Hem bonim beit cholim gadol leyad ha-sifriya ha-shketa.",
+        "hebrew_letters": "הם בונים בית חולים גדול ליד הספרייה השקטה.",
         "lesson": "Lesson 4"
     },
     {
-        "english": "The waiter brought us the menu.",
-        "hebrew_spoken": "Hamelzar hevi lanu et hatafrit.",
-        "hebrew_letters": "המלצר הביא לנו את התפריט.",
+        "english": "She paints the thick wall calm while loud music plays.",
+        "hebrew_spoken": "Hi tzova'at et ha-kir ha-aveh regu'a be'od musica roeshet menagenet.",
+        "hebrew_letters": "היא צובעת את הקיר העבה רגועה בעוד מוסיקה רועשת מנגנת.",
         "lesson": "Lesson 4"
     },
     {
-        "english": "He is looking for his lost keys.",
-        "hebrew_spoken": "Hu mechapes et hamaftehot shelo.",
-        "hebrew_letters": "הוא מחפש את המפתחות שלו.",
+        "english": "The neat student draws a realistic picture of the beautiful beach.",
+        "hebrew_spoken": "Ha-talmid ha-mesudar metzayer tmuna amitit shel ha-chof ha-yafe.",
+        "hebrew_letters": "התלמיד המסודר מצייר תמונה אמיתית של החוף היפה.",
         "lesson": "Lesson 4"
     },
     {
-        "english": "She is speaking to her friend on the phone.",
-        "hebrew_spoken": "Hi medaberet im hachavera shela batelefon.",
-        "hebrew_letters": "היא מדברת עם חברתה בטלפון.",
+        "english": "I wait thirsty at the busy restaurant for cold juice.",
+        "hebrew_spoken": "Ani mechakeh tzame ba-mis'ada ha-asuka le-mitz kar.",
+        "hebrew_letters": "אני מחכה צמא במסעדה העסוקה למיץ קר.",
         "lesson": "Lesson 4"
     },
     {
-        "english": "We took a taxi to the airport.",
-        "hebrew_spoken": "Lakachnu monit lanamal teufa.",
-        "hebrew_letters": "לקחנו מונית לנמל תעופה.",
+        "english": "She searches for real cheese at the expensive store.",
+        "hebrew_spoken": "Hi mechapeset gvina amitit ba-chanut ha-yekara.",
+        "hebrew_letters": "היא מחפשת גבינה אמיתית בחנות היקרה.",
         "lesson": "Lesson 4"
     },
     {
-        "english": "The children love playing with their toys.",
-        "hebrew_spoken": "Hayeladim ohevim lesachek im hats'uatam.",
-        "hebrew_letters": "הילדים אוהבים לשחק עם הצעצועים שלהם.",
+        "english": "The excited child finds a fake coin at the old market.",
+        "hebrew_spoken": "Ha-yeled ha-nirgas motze matbe'a mezuyaf ba-shuk ha-yashan.",
+        "hebrew_letters": "הילד הנרגש מוצא מטבע מזויף בשוק הישן.",
         "lesson": "Lesson 4"
     },
     {
-        "english": "He usually drinks tea in the evening.",
-        "hebrew_spoken": "Hu rotze lishtot tei ba'erev.",
-        "hebrew_letters": "הוא רוצה לשתות תה בערב.",
+        "english": "I lose my key sometimes when I am messy.",
+        "hebrew_spoken": "Ani me'abed et ha-mafteach sheli lif'amim kshe-ani mevulgan.",
+        "hebrew_letters": "אני מאבד את המפתח שלי לפעמים כשאני מבולגן.",
         "lesson": "Lesson 4"
     },
     {
-        "english": "They are building a new house.",
-        "hebrew_spoken": "Hem bonim bayit chadash.",
-        "hebrew_letters": "הם בונים בית חדש.",
+        "english": "The calm woman wins every game because she is patient.",
+        "hebrew_spoken": "Ha-isha ha-regu'a menatze'achat be-kol mis'chak ki hi savlanit.",
+        "hebrew_letters": "האישה הרגועה מנצחת בכל משחק כי היא סבלנית.",
         "lesson": "Lesson 4"
     },
     {
-        "english": "We saw dolphins in the sea.",
-        "hebrew_spoken": "Ra'inu delfinim bayam.",
-        "hebrew_letters": "ראינו דולפינים בים.",
+        "english": "He tries hard to succeed at the strict school.",
+        "hebrew_spoken": "Hu menaseh chazak lehatzli'ach be-beit ha-sefer ha-kashuach.",
+        "hebrew_letters": "הוא מנסה חזק להצליח בבית הספר הקשוח.",
         "lesson": "Lesson 4"
     },
     {
-        "english": "She made a delicious salad.",
-        "hebrew_spoken": "Hi aseta salat ta'im.",
-        "hebrew_letters": "היא עשתה סלט טעים.",
+        "english": "The lenient teacher helps the student who fails sometimes.",
+        "hebrew_spoken": "Ha-moreh ha-makil ozer la-talmid she-nichshal lif'amim.",
+        "hebrew_letters": "המורה המקל עוזר לתלמיד שנכשל לפעמים.",
         "lesson": "Lesson 4"
     },
     {
-        "english": "He wants to buy a new car.",
-        "hebrew_spoken": "Hu rotze liknot mechonit chadasha.",
-        "hebrew_letters": "הוא רוצה לקנות מכונית חדשה.",
+        "english": "The hungry man eats salty soup and bitter vegetables.",
+        "hebrew_spoken": "Ha-ish ha-ra'ev ochel marak maluach ve-yerakot marim.",
+        "hebrew_letters": "האיש הרעב אוכל מרק מלוח וירקות מרים.",
         "lesson": "Lesson 4"
     },
     {
-        "english": "They danced together at the wedding.",
-        "hebrew_spoken": "Hem rakdu beyachad be'chatuna.",
-        "hebrew_letters": "הם רקדו יחד בחתונה.",
+        "english": "She drinks sweet juice while eating fresh salad.",
+        "hebrew_spoken": "Hi shotah mitz matok be'od hi ochelet salat tari.",
+        "hebrew_letters": "היא שותה מיץ מתוק בעוד היא אוכלת סלט טרי.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "The loud children run through the quiet library.",
+        "hebrew_spoken": "Ha-yeladim ha-roashim ratzim derech ha-sifriya ha-shketa.",
+        "hebrew_letters": "הילדים הרועשים רצים דרך הספרייה השקטה.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "I buy cheap eggs and expensive cheese at the full market.",
+        "hebrew_spoken": "Ani koneh beitzim zolot ve-gvina yekara ba-shuk ha-male.",
+        "hebrew_letters": "אני קונה ביצים זולות וגבינה יקרה בשוק המלא.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "The disloyal friend sells fake things at the new mall.",
+        "hebrew_spoken": "Ha-chaver ha-boged mocher dvarim mezuyafim ba-kanyon ha-chadash.",
+        "hebrew_letters": "החבר הבוגד מוכר דברים מזויפים בקניון החדש.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "She cooks hot meat while the thirsty child drinks cold milk.",
+        "hebrew_spoken": "Hi mevashelet basar cham be'od ha-yeled ha-tzame shoteh chalav kar.",
+        "hebrew_letters": "היא מבשלת בשר חם בעוד הילד הצמא שותה חלב קר.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "The tired nurse waits at the bank after a long day.",
+        "hebrew_spoken": "Ha-achot ha-ayefa mechaka ba-bank acharey yom aroch.",
+        "hebrew_letters": "האחות העייפה מחכה בבנק אחרי יום ארוך.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "He washes the dirty fruit calm before eating.",
+        "hebrew_spoken": "Hu rochetz et ha-pri ha-meluchlach ragu'a lifney ha-achila.",
+        "hebrew_letters": "הוא רוחץ את הפרי המלוכלך רגוע לפני האכילה.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "The energetic student succeeds because she never gives up.",
+        "hebrew_spoken": "Ha-talmida ha-energetit matzlicha ki hi af pa'am lo mevatra.",
+        "hebrew_letters": "התלמידה האנרגטית מצליחה כי היא אף פעם לא מוותרת.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "I search for good coffee at the busy post office.",
+        "hebrew_spoken": "Ani mechapes kafe tov ba-do'ar ha-asuk.",
+        "hebrew_letters": "אני מחפש קפה טוב בדואר העסוק.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "The quiet man builds beautiful things in the messy room.",
+        "hebrew_spoken": "Ha-ish ha-shaket boneh dvarim yafim ba-cheder ha-mevulgan.",
+        "hebrew_letters": "האיש השקט בונה דברים יפים בחדר המבולגן.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "She tries to fix the broken chair but fails.",
+        "hebrew_spoken": "Hi menasah letaken et ha-kise ha-shavur aval nichshelet.",
+        "hebrew_letters": "היא מנסה לתקן את הכיסא השבור אבל נכשלת.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "The bored doctor reads an old book at the empty theater.",
+        "hebrew_spoken": "Ha-rofe ha-meshu'amam kore sefer yashan ba-te'atron ha-reyk.",
+        "hebrew_letters": "הרופא המשועמם קורא ספר ישן בתיאטרון הריק.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "I paint the wall excited while my friend cooks dinner.",
+        "hebrew_spoken": "Ani tzove'a et ha-kir nirgas be'od ha-chaver sheli mevashel aruchat erev.",
+        "hebrew_letters": "אני צובע את הקיר נרגש בעוד החבר שלי מבשל ארוחת ערב.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "The patient teacher explains again until everyone understands.",
+        "hebrew_spoken": "Ha-moreh ha-savlani masbir shuv ad she-kulam mevinim.",
+        "hebrew_letters": "המורה הסבלני מסביר שוב עד שכולם מבינים.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "She loses the real key and finds a fake one.",
+        "hebrew_spoken": "Hi me'abedet et ha-mafteach ha-amiti u-motzet mezuyaf.",
+        "hebrew_letters": "היא מאבדת את המפתח האמיתי ומוצאת מזויף.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "The impatient child breaks everything when he is bored.",
+        "hebrew_spoken": "Ha-yeled chasar ha-savlanut shover hakol kshe-hu meshu'amam.",
+        "hebrew_letters": "הילד חסר הסבלנות שובר הכול כשהוא משועמם.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "I draw a beautiful picture of the ancient museum.",
+        "hebrew_spoken": "Ani metzayer tmuna yafa shel ha-muze'on ha-atik.",
+        "hebrew_letters": "אני מצייר תמונה יפה של המוזיאון העתיק.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "The strict woman cleans the neat room every day.",
+        "hebrew_spoken": "Ha-isha ha-kshucha menakah et ha-cheder ha-mesudar kol yom.",
+        "hebrew_letters": "האישה הקשוחה מנקה את החדר המסודר כל יום.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "He uses the loud computer while the quiet baby sleeps.",
+        "hebrew_spoken": "Hu mishtamesh ba-machshev ha-roesh be'od ha-tinok ha-shaket yashen.",
+        "hebrew_letters": "הוא משתמש במחשב הרועש בעוד התינוק השקט ישן.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "The loyal nurse helps hungry people at the busy hospital.",
+        "hebrew_spoken": "Ha-achot ha-ne'emana ozeret la-anashim ha-re'evim be-beit ha-cholim ha-asuk.",
+        "hebrew_letters": "האחות הנאמנה עוזרת לאנשים הרעבים בבית החולים העסוק.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "She dresses calm while the excited friend waits outside.",
+        "hebrew_spoken": "Hi mitlabeshet regu'a be'od ha-chavera ha-nirgeshet mechaka ba-chutz.",
+        "hebrew_letters": "היא מתלבשת רגועה בעוד החברה הנרגשת מחכה בחוץ.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "The messy child showers finally after playing all day.",
+        "hebrew_spoken": "Ha-yeled ha-mevulgan mitkale'ach sof sof acharey sichek kol ha-yom.",
+        "hebrew_letters": "הילד המבולגן מתקלח סוף סוף אחרי ששיחק כל היום.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "I wait calm at the quiet library for my tired friend.",
+        "hebrew_spoken": "Ani mechakeh ragu'a ba-sifriya ha-shketa la-chaver ha-ayef sheli.",
+        "hebrew_letters": "אני מחכה רגוע בספרייה השקטה לחבר העייף שלי.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "The thirsty woman searches for cold juice at the hot market.",
+        "hebrew_spoken": "Ha-isha ha-tzme'a mechapeset mitz kar ba-shuk ha-cham.",
+        "hebrew_letters": "האישה הצמאה מחפשת מיץ קר בשוק החם.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "He wins excited and everyone in the theater cheers.",
+        "hebrew_spoken": "Hu menatze'ach nirgas ve-kulam ba-te'atron meri'im.",
+        "hebrew_letters": "הוא מנצח נרגש וכולם בתיאטרון מריעים.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "The lenient doctor gives free help at the poor post office.",
+        "hebrew_spoken": "Ha-rofe ha-makil noten ezra chinamit ba-do'ar he-ani.",
+        "hebrew_letters": "הרופא המקל נותן עזרה חינמית בדואר העני.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "She builds neat shelves in the messy store.",
+        "hebrew_spoken": "Hi bonah madafim mesuddarim ba-chanut ha-mevulgenet.",
+        "hebrew_letters": "היא בונה מדפים מסודרים בחנות המבולגנת.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "The hungry child eats everything quickly and asks for more.",
+        "hebrew_spoken": "Ha-yeled ha-ra'ev ochel hakol maher u-mevakesh od.",
+        "hebrew_letters": "הילד הרעב אוכל הכול מהר ומבקש עוד.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "I cook calm while the loud music plays in the kitchen.",
+        "hebrew_spoken": "Ani mevashel ragu'a be'od ha-musica ha-roeshet menagenet ba-mitbach.",
+        "hebrew_letters": "אני מבשל רגוע בעוד המוסיקה הרועשת מנגנת במטבח.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "The excited children find hidden treasure at the old museum.",
+        "hebrew_spoken": "Ha-yeladim ha-nirgsim motzim otzer mustera ba-muze'on ha-yashan.",
+        "hebrew_letters": "הילדים הנרגשים מוצאים אוצר מוסתר במוזיאון הישן.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "I smile at my tired mother while she cooks delicious food.",
+        "hebrew_spoken": "Ani mechayech le-ima ha-ayefa sheli be'od hi mevashelet ochel ta'im.",
+        "hebrew_letters": "אני מחייך לאמא העייפה שלי בעוד היא מבשלת אוכל טעים.",
         "lesson": "Lesson 5"
     },
     {
-        "english": "She is studying at the university.",
-        "hebrew_spoken": "Hi lomedet ba'universita.",
-        "hebrew_letters": "היא לומדת באוניברסיטה.",
+        "english": "She worries about her brother who swims in the dangerous sea.",
+        "hebrew_spoken": "Hi do'eget le-ach shelah she-socheh ba-yam ha-mesukan.",
+        "hebrew_letters": "היא דואגת לאח שלה ששוחה בים המסוכן.",
         "lesson": "Lesson 5"
     },
     {
-        "english": "We booked a hotel for our vacation.",
-        "hebrew_spoken": "Hazmanu malon la'chofesh shelanu.",
-        "hebrew_letters": "הזמנו מלון לחופשה שלנו.",
+        "english": "The brave father fears nothing except seeing his daughter sad.",
+        "hebrew_spoken": "Ha-aba ha-amitz mefached mi-klum chutz me-lir'ot et ha-bat shelo atzuva.",
+        "hebrew_letters": "האבא האמיץ מפחד מכלום חוץ מלראות את הבת שלו עצובה.",
         "lesson": "Lesson 5"
     },
     {
-        "english": "He is driving to work now.",
-        "hebrew_spoken": "Hu noheg la'avoda achshav.",
-        "hebrew_letters": "הוא נוהג לעבודה עכשיו.",
+        "english": "My happy sister enjoys sweet cake at the family dinner.",
+        "hebrew_spoken": "Ha-achot ha-smecha sheli nehenet me-uga metuka ba-aruchat ha-mishpacha.",
+        "hebrew_letters": "האחות השמחה שלי נהנית מעוגה מתוקה בארוחת המשפחה.",
         "lesson": "Lesson 5"
     },
     {
-        "english": "She takes care of her little brother.",
-        "hebrew_spoken": "Hi do'eged la'achi hakatan.",
-        "hebrew_letters": "היא דואגת לאחיה הקטן.",
+        "english": "The softhearted grandmother is never angry at the messy children.",
+        "hebrew_spoken": "Ha-savta rakat ha-lev af pa'am lo ko'eset al ha-yeladim ha-mevulganim.",
+        "hebrew_letters": "הסבתא רכת הלב אף פעם לא כועסת על הילדים המבולגנים.",
         "lesson": "Lesson 5"
     },
     {
-        "english": "We ate ice cream at the beach.",
-        "hebrew_spoken": "Achalnu glida be'chof.",
-        "hebrew_letters": "אכלנו גלידה בחוף.",
+        "english": "My happy uncle dances while my sad aunt sits alone.",
+        "hebrew_spoken": "Ha-dod ha-sameach sheli roked be'od ha-doda ha-atzuva yoshevet levad.",
+        "hebrew_letters": "הדוד השמח שלי רוקד בעוד הדודה העצובה יושבת לבד.",
         "lesson": "Lesson 5"
     },
     {
-        "english": "They are waiting for the bus.",
-        "hebrew_spoken": "Hem mechakim la'otobus.",
-        "hebrew_letters": "הם מחכים לאוטובוס.",
+        "english": "The coldhearted neighbor is sad because nobody visits him.",
+        "hebrew_spoken": "Ha-shachen kar ha-lev atzuv ki af echad lo mevaker oto.",
+        "hebrew_letters": "השכן קר הלב עצוב כי אף אחד לא מבקר אותו.",
         "lesson": "Lesson 5"
     },
     {
-        "english": "She is writing a letter to her friend.",
-        "hebrew_spoken": "Hi kotevet michtav lechavera shela.",
-        "hebrew_letters": "היא כותבת מכתב לחברתה.",
+        "english": "I help my old grandfather climb the difficult stairs.",
+        "hebrew_spoken": "Ani ozer la-saba ha-zaken sheli la'alot et ha-madregot ha-kashot.",
+        "hebrew_letters": "אני עוזר לסבא הזקן שלי לעלות את המדרגות הקשות.",
         "lesson": "Lesson 5"
     },
     {
-        "english": "He enjoys watching sports.",
-        "hebrew_spoken": "Hu nehene milirot sport.",
-        "hebrew_letters": "הוא נהנה לראות ספורט.",
+        "english": "She meets her best friend at the safe park every day.",
+        "hebrew_spoken": "Hi nifgeshet im ha-chavera ha-tova beyoter shelah ba-park ha-batu'ach kol yom.",
+        "hebrew_letters": "היא נפגשת עם החברה הטובה ביותר שלה בפארק הבטוח כל יום.",
         "lesson": "Lesson 5"
     },
     {
-        "english": "We spent the whole day at the zoo.",
-        "hebrew_spoken": "Bilinu et kol hayom be'gan hachayot.",
-        "hebrew_letters": "בילינו את כל היום בגן החיות.",
+        "english": "The generous cousin invites the whole family to his big house.",
+        "hebrew_spoken": "Ben ha-dod ha-nadiv mazmin et kol ha-mishpacha la-bayit ha-gadol shelo.",
+        "hebrew_letters": "בן הדוד הנדיב מזמין את כל המשפחה לבית הגדול שלו.",
         "lesson": "Lesson 5"
     },
     {
-        "english": "She works in a bookstore.",
-        "hebrew_spoken": "Hi ovedet b'chanut sfarim.",
-        "hebrew_letters": "היא עובדת בחנות ספרים.",
+        "english": "We visit the sick grandmother at the busy hospital.",
+        "hebrew_spoken": "Anachnu mevakrim et ha-savta ha-chola be-beit ha-cholim ha-asuk.",
+        "hebrew_letters": "אנחנו מבקרים את הסבתא החולה בבית החולים העסוק.",
         "lesson": "Lesson 5"
     },
     {
-        "english": "He is cleaning his apartment.",
-        "hebrew_spoken": "Hu menake et hadira shelo.",
-        "hebrew_letters": "הוא מנקה את הדירה שלו.",
+        "english": "The small baby smiles at everyone but cries when hungry.",
+        "hebrew_spoken": "Ha-tinok ha-katan mechayech le-kulam aval bocheh kshe-hu ra'ev.",
+        "hebrew_letters": "התינוק הקטן מחייך לכולם אבל בוכה כשהוא רעב.",
         "lesson": "Lesson 5"
     },
     {
-        "english": "They are laughing at a funny joke.",
-        "hebrew_spoken": "Hem tzochakim al bidicha metzchika.",
-        "hebrew_letters": "הם צוחקים על בדיחה מצחיקה.",
+        "english": "The fast boy runs through the wet street after the rain.",
+        "hebrew_spoken": "Ha-yeled ha-maher ratz derech ha-rechov ha-ratuv acharey ha-geshem.",
+        "hebrew_letters": "הילד המהיר רץ דרך הרחוב הרטוב אחרי הגשם.",
         "lesson": "Lesson 5"
     },
     {
-        "english": "She found a beautiful seashell.",
-        "hebrew_spoken": "Hi matza'a klichat yam yafa.",
-        "hebrew_letters": "היא מצאה קונכייה יפה.",
+        "english": "The pretty girl draws complicated pictures of her family.",
+        "hebrew_spoken": "Ha-yalda ha-yafa metzayeret tmunot mesubekhot shel ha-mishpacha shelah.",
+        "hebrew_letters": "הילדה היפה מצייירת תמונות מסובכות של המשפחה שלה.",
         "lesson": "Lesson 5"
     },
     {
-        "english": "We are going to the market tomorrow.",
-        "hebrew_spoken": "Anachnu holchim la'shuk machar.",
-        "hebrew_letters": "אנחנו הולכים לשוק מחר.",
+        "english": "My loyal husband works hard but always finds time for the children.",
+        "hebrew_spoken": "Ha-ba'al ha-ne'eman sheli oved kashe aval tamid motze zman la-yeladim.",
+        "hebrew_letters": "הבעל הנאמן שלי עובד קשה אבל תמיד מוצא זמן לילדים.",
         "lesson": "Lesson 5"
     },
     {
-        "english": "He plays the guitar in a band.",
-        "hebrew_spoken": "Hu menagen bagitar be'lahaka.",
-        "hebrew_letters": "הוא מנגן בגיטרה בלהקה.",
+        "english": "My patient wife cooks spicy food that everyone loves.",
+        "hebrew_spoken": "Ha-isha ha-savlanit sheli mevashelet ochel charif she-kulam ohavim.",
+        "hebrew_letters": "האישה הסבלנית שלי מבשלת אוכל חריף שכולם אוהבים.",
         "lesson": "Lesson 5"
     },
     {
-        "english": "She gave him a nice present.",
-        "hebrew_spoken": "Hi natna lo matana yafa.",
-        "hebrew_letters": "היא נתנה לו מתנה יפה.",
+        "english": "The smart son learns difficult things easily at school.",
+        "hebrew_spoken": "Ha-ben ha-chacham lomed dvarim kashim be-kalut be-beit ha-sefer.",
+        "hebrew_letters": "הבן החכם לומד דברים קשים בקלות בבית הספר.",
         "lesson": "Lesson 5"
     },
     {
-        "english": "We are learning about history.",
-        "hebrew_spoken": "Anachnu lomdim al historia.",
-        "hebrew_letters": "אנחנו לומדים על היסטוריה.",
+        "english": "My young daughter reads easy books but understands complicated ones.",
+        "hebrew_spoken": "Ha-bat ha-tze'ira sheli koret sfarim kalim aval mevina mesubekhim.",
+        "hebrew_letters": "הבת הצעירה שלי קוראת ספרים קלים אבל מבינה מסובכים.",
         "lesson": "Lesson 5"
     },
     {
-        "english": "He is washing his car.",
-        "hebrew_spoken": "Hu rochetz et ha'mechonit shelo.",
-        "hebrew_letters": "הוא רוחץ את המכונית שלו.",
+        "english": "The kind aunt visits every week with delicious sour candy.",
+        "hebrew_spoken": "Ha-doda ha-adiva mevakeret kol shavu'a im sukariyot chamutzot ta'imot.",
+        "hebrew_letters": "הדודה האדיבה מבקרת כל שבוע עם סוכריות חמוצות טעימות.",
         "lesson": "Lesson 5"
     },
     {
-        "english": "They are making plans for the weekend.",
-        "hebrew_spoken": "Hem metaknim tochniot la'sof hashavua.",
-        "hebrew_letters": "הם מתכננים תוכניות לסוף השבוע.",
+        "english": "The strong uncle helps build safe houses for the family.",
+        "hebrew_spoken": "Ha-dod ha-chazak ozer livnot batim betuchim la-mishpacha.",
+        "hebrew_letters": "הדוד החזק עוזר לבנות בתים בטוחים למשפחה.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "The curly-haired cousin laughs at everything and worries about nothing.",
+        "hebrew_spoken": "Ben ha-dod im ha-se'ar ha-metultal tzochek me-hakol ve-lo do'eg mi-klum.",
+        "hebrew_letters": "בן הדוד עם השער המתולתל צוחק מהכול ולא דואג מכלום.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "The straight road to grandmother's house is safe but long.",
+        "hebrew_spoken": "Ha-kvish ha-yashar le-beit savta batu'ach aval aroch.",
+        "hebrew_letters": "הכביש הישר לבית סבתא בטוח אבל ארוך.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "I enjoy sweet and salty food but hate bitter vegetables.",
+        "hebrew_spoken": "Ani nehene me-ochel matok u-maluach aval soneh yerakot marim.",
+        "hebrew_letters": "אני נהנה מאוכל מתוק ומלוח אבל שונא ירקות מרים.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "She smiles happy when the family eats delicious dinner together.",
+        "hebrew_spoken": "Hi mechayechet smecha kshe-ha-mishpacha ochelet aruchat erev ta'ima yachad.",
+        "hebrew_letters": "היא מחייכת שמחה כשהמשפחה אוכלת ארוחת ערב טעימה יחד.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "The dry bread is old but the fresh fruit is sweet.",
+        "hebrew_spoken": "Ha-lechem ha-yavesh yashan aval ha-pri ha-tari matok.",
+        "hebrew_letters": "הלחם היבש ישן אבל הפרי הטרי מתוק.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "My mother fears the dangerous street but the brave father crosses.",
+        "hebrew_spoken": "Ha-ima sheli mefachedet me-ha-rechov ha-mesukan aval ha-aba ha-amitz chotzeh.",
+        "hebrew_letters": "האמא שלי מפחדת מהרחוב המסוכן אבל האבא האמיץ חוצה.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "The tight pants are new but the loose shirt is comfortable.",
+        "hebrew_spoken": "Ha-michnasayim ha-tzarim chadashim aval ha-chultza ha-refuya nocha.",
+        "hebrew_letters": "המכנסיים הצרים חדשים אבל החולצה הרפויה נוחה.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "She invites her friend to taste the spicy soup.",
+        "hebrew_spoken": "Hi mazmina et ha-chavera shelah lit'om et ha-marak ha-charif.",
+        "hebrew_letters": "היא מזמינה את החברה שלה לטעום את המרק החריף.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "The worried mother watches while the boy plays in the wet garden.",
+        "hebrew_spoken": "Ha-ima ha-do'eget tzofah be'od ha-yeled mesachek ba-gina ha-retuva.",
+        "hebrew_letters": "האמא הדואגת צופה בעוד הילד משחק בגינה הרטובה.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "My grandfather tells complicated stories about the difficult old days.",
+        "hebrew_spoken": "Ha-saba sheli mesaper sipurim mesubekhim al ha-yamim ha-kashim ha-yeshanim.",
+        "hebrew_letters": "הסבא שלי מספר סיפורים מסובכים על הימים הקשים הישנים.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "The softhearted daughter helps everyone even when she is tired.",
+        "hebrew_spoken": "Ha-bat rakat ha-lev ozeret le-kulam gam kshe-hi ayefa.",
+        "hebrew_letters": "הבת רכת הלב עוזרת לכולם גם כשהיא עייפה.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "The easy recipe makes delicious cake that the family enjoys.",
+        "hebrew_spoken": "Ha-matefet ha-kala osah uga ta'ima she-ha-mishpacha nehenet mimena.",
+        "hebrew_letters": "המתכון הקל עושה עוגה טעימה שהמשפחה נהנית ממנה.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "I fear the complicated test but my sister says it is easy.",
+        "hebrew_spoken": "Ani mefached me-ha-mivkhan ha-mesubekh aval ha-achot sheli omeret she-hu kal.",
+        "hebrew_letters": "אני מפחד מהמבחן המסובך אבל האחות שלי אומרת שהוא קל.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "The coldhearted man never visits his sick mother.",
+        "hebrew_spoken": "Ha-ish kar ha-lev af pa'am lo mevaker et ha-ima ha-chola shelo.",
+        "hebrew_letters": "האיש קר הלב אף פעם לא מבקר את האמא החולה שלו.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "The wet dog runs into the house and everyone is angry.",
+        "hebrew_spoken": "Ha-kelev ha-ratuv ratz la-bayit ve-kulam ko'asim.",
+        "hebrew_letters": "הכלב הרטוב רץ לבית וכולם כועסים.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "She enjoys the safe beach while her worried brother watches.",
+        "hebrew_spoken": "Hi nehenet me-ha-chof ha-batu'ach be'od ha-ach ha-do'eg shelah tzofeh.",
+        "hebrew_letters": "היא נהנית מהחוף הבטוח בעוד האח הדואג שלה צופה.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "The generous grandmother cooks sweet food for all the grandchildren.",
+        "hebrew_spoken": "Ha-savta ha-ndiva mevashelet ochel matok le-kol ha-nechadim.",
+        "hebrew_letters": "הסבתא הנדיבה מבשלת אוכל מתוק לכל הנכדים.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "My brave wife climbs the dangerous mountain while I wait below.",
+        "hebrew_spoken": "Ha-isha ha-amitza sheli metapeset al ha-har ha-mesukan be'od ani mechakeh lema'atah.",
+        "hebrew_letters": "האישה האמיצה שלי מטפסת על ההר המסוכן בעוד אני מחכה למטה.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "The bitter coffee wakes the tired father every morning.",
+        "hebrew_spoken": "Ha-kafe ha-mar me'ir et ha-aba ha-ayef kol boker.",
+        "hebrew_letters": "הקפה המר מעיר את האבא העייף כל בוקר.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "I meet my happy neighbors at the market every week.",
+        "hebrew_spoken": "Ani nifgash im ha-shchenim ha-smechim sheli ba-shuk kol shavu'a.",
+        "hebrew_letters": "אני נפגש עם השכנים השמחים שלי בשוק כל שבוע.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "The dry weather makes everyone thirsty and the children drink cold juice.",
+        "hebrew_spoken": "Mezeg ha-avir ha-yavesh osah et kulam tzme'im ve-ha-yeladim shotim mitz kar.",
+        "hebrew_letters": "מזג האוויר היבש עושה את כולם צמאים והילדים שותים מיץ קר.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "She worries about her tight schedule but manages everything.",
+        "hebrew_spoken": "Hi do'eget le-luach ha-zmanim ha-tzafuf shelah aval mesaderet hakol.",
+        "hebrew_letters": "היא דואגת ללוח הזמנים הצפוף שלה אבל מסדרת הכול.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "The family visits the ancient museum to see complicated art.",
+        "hebrew_spoken": "Ha-mishpacha mevakeret et ha-muze'on ha-atik lir'ot omanut mesubakhat.",
+        "hebrew_letters": "המשפחה מבקרת את המוזיאון העתיק לראות אמנות מסובכת.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "My curly-haired daughter smiles at the friendly neighbor.",
+        "hebrew_spoken": "Ha-bat sheli im ha-se'ar ha-metultal mechayechet la-shachen ha-yediduti.",
+        "hebrew_letters": "הבת שלי עם השער המתולתל מחייכת לשכן הידידותי.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "The loose belt is more comfortable than the tight one.",
+        "hebrew_spoken": "Ha-chagora ha-refuya nocha yoter me-ha-tzara.",
+        "hebrew_letters": "החגורה הרפויה נוחה יותר מהצרה.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "He enjoys dangerous sports but his mother always worries.",
+        "hebrew_spoken": "Hu nehene mi-sport mesukan aval ha-ima shelo tamid do'eget.",
+        "hebrew_letters": "הוא נהנה מספורט מסוכן אבל האמא שלו תמיד דואגת.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "The sour lemon makes delicious juice that the children love.",
+        "hebrew_spoken": "Ha-limon ha-chamutz oseh mitz ta'im she-ha-yeladim ohavim.",
+        "hebrew_letters": "הלימון החמוץ עושה מיץ טעים שהילדים אוהבים.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "I invite my best friend to meet my whole family.",
+        "hebrew_spoken": "Ani mazmin et ha-chaver ha-tov beyoter sheli lifgosh et kol ha-mishpacha sheli.",
+        "hebrew_letters": "אני מזמין את החבר הטוב ביותר שלי לפגוש את כל המשפחה שלי.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "The safe neighborhood has friendly neighbors and happy families.",
+        "hebrew_spoken": "Ha-shchuna ha-betucha yesh bah shchenim yedidutim u-mishpachot smechot.",
+        "hebrew_letters": "השכונה הבטוחה יש בה שכנים ידידותיים ומשפחות שמחות.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "The complicated family dinner has salty meat and sweet dessert.",
+        "hebrew_spoken": "Aruchat ha-mishpacha ha-mesubakhat yesh bah basar maluach ve-kinuach matok.",
+        "hebrew_letters": "ארוחת המשפחה המסובכת יש בה בשר מלוח וקינוח מתוק.",
         "lesson": "Lesson 5"
     }
 ]
