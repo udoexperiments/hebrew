@@ -1,7 +1,7 @@
 // Service worker: precaches the whole app so it works fully offline.
 // Strategy: stale-while-revalidate — serve from cache instantly, refresh the
 // cache in the background when online, so content updates arrive on the next launch.
-const CACHE = 'hebrew-app-v1';
+const CACHE = 'hebrew-app-v2';
 
 const PRECACHE = [
   './',
@@ -49,7 +49,10 @@ const PRECACHE = [
 
 self.addEventListener('install', (event) => {
   event.waitUntil(
-    caches.open(CACHE).then((cache) => cache.addAll(PRECACHE)).then(() => self.skipWaiting())
+    caches.open(CACHE)
+      // no-cache: always revalidate with the server, never trust the HTTP cache
+      .then((cache) => cache.addAll(PRECACHE.map((url) => new Request(url, { cache: 'no-cache' }))))
+      .then(() => self.skipWaiting())
   );
 });
 
@@ -67,7 +70,7 @@ self.addEventListener('fetch', (event) => {
   event.respondWith(
     caches.open(CACHE).then(async (cache) => {
       const cached = await cache.match(event.request, { ignoreSearch: true });
-      const network = fetch(event.request)
+      const network = fetch(event.request, { cache: 'no-cache' })
         .then((response) => {
           if (response.ok) cache.put(event.request.url.split('?')[0], response.clone());
           return response;
