@@ -21,7 +21,11 @@ body {
 .app-container {
   max-width: 1200px;
   margin: 0 auto;
-  padding: var(--spacing-standard);
+  /* keep content clear of the iPhone status bar / home indicator in standalone mode */
+  padding: max(var(--spacing-standard), env(safe-area-inset-top))
+    max(var(--spacing-standard), env(safe-area-inset-right))
+    max(var(--spacing-standard), env(safe-area-inset-bottom))
+    max(var(--spacing-standard), env(safe-area-inset-left));
   width: 100%;
   display: flex;
   flex-direction: column;
