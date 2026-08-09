@@ -33,7 +33,9 @@
   },
   "jest": {
     "testEnvironment": "jsdom",
-    "moduleFileExtensions": ["js"],
+    "moduleFileExtensions": [
+      "js"
+    ],
     "transform": {
       "^.+\\.js$": "babel-jest"
     },

@@ -5,3 +5,4 @@ resources/raw_data/
 resources/old_data/
 .DS_Store
 **/.DS_Store
+node_modules/
