@@ -14,7 +14,7 @@
   .feedback-button,
   .lesson-button {
     background: var(--color-quaternary);
-    color: black;
+    color: var(--button-text-color, black);
     border: none;
     border-radius: 12px;
     padding: var(--spacing-standard);
@@ -36,11 +36,11 @@
   /* Select elements */
   .glass-select {
     background: var(--color-tertiary);
-    border: 1px solid rgba(0, 0, 0, 0.1);
+    border: 1px solid var(--border-subtle, rgba(0, 0, 0, 0.1));
     border-radius: 12px;
     padding: 10px var(--spacing-standard);
-    font-size: 12px;
-    color: #333;
+    font-size: 14px;
+    color: var(--select-text-color, #333);
     cursor: pointer;
   }
   
@@ -110,7 +110,7 @@
     line-height: 1.5;
     padding: calc(var(--spacing-standard) / 2);
     overflow-y: auto;
-    color: #333;
+    color: var(--card-text-color, #333);
   }
   
   /* Hebrew content */
@@ -173,7 +173,7 @@
     top: 8px;
     right: 8px;
     background: var(--color-quaternary);
-    color: black;
+    color: var(--button-text-color, black);
     border: none;
     border-radius: 8px;
     padding: 4px 8px;
@@ -198,7 +198,7 @@
   #progress-display {
     text-align: center;
     margin-top: calc(var(--spacing-standard) / 2);
-    color: #333;
+    color: var(--text-color, #333);
     width: 100%;
   }
   
@@ -307,51 +307,45 @@
     display: none;
     grid-template-columns: repeat(2, 1fr);
     gap: var(--spacing-standard);
-    padding: var(--spacing-standard);
     width: 100%;
-    margin: var(--spacing-standard) auto;
     position: relative;
     z-index: 10;
   }
-  
+
   .menu-grid.visible {
     display: grid !important;
   }
-  
+
   .menu-control-container {
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
+    gap: calc(var(--spacing-standard) / 2);
     background: var(--color-quaternary);
     border-radius: 12px;
     padding: var(--spacing-standard);
-    margin-bottom: var(--spacing-standard);
     width: 100%;
-    margin-left: 0;
-    margin-right: 0;
   }
-  
+
   .menu-label {
     font-weight: bold;
-    margin-bottom: calc(var(--spacing-standard) / 2);
-    color: #333;
+    color: var(--text-color, #333);
   }
-  
+
   .menu-select {
     width: 100%;
   }
-  
+
   /* Lesson buttons */
   .lesson-container {
     display: flex;
     flex-direction: column;
+    gap: calc(var(--spacing-standard) / 2);
     background: var(--color-quaternary);
     border-radius: 12px;
     padding: var(--spacing-standard);
-    margin-bottom: var(--spacing-standard);
     width: 100%;
     grid-column: span 2;
-    margin-left: 0;
-    margin-right: 0;
   }
   
   .lesson-buttons-container {
@@ -363,7 +357,7 @@
   
   .menu-item {
     background: var(--color-quaternary);
-    color: black;
+    color: var(--button-text-color, black);
     border: none;
     border-radius: 12px;
     padding: calc(var(--spacing-standard) / 2);
@@ -380,7 +374,7 @@
   
   .active-lesson {
     background-color: var(--color-primary) !important;
-    color: white !important;
+    color: var(--on-primary-color, white) !important;
     font-weight: bold;
   }
   

@@ -49,11 +49,6 @@
     padding: 8px;
   }
 
-  .menu-grid {
-    padding: 8px;
-    gap: 8px;
-  }
-
   .menu-item {
     font-size: 12px;
     padding: 6px;
@@ -172,21 +167,13 @@
 
   /* Menu grid responsive layout */
   .menu-grid {
-    padding: var(--spacing-standard);
     gap: var(--spacing-standard);
     width: 100%;
   }
 
-  .menu-control-container,
-  .lesson-container {
+  /* keep all menu selects equal width (overrides the width:auto above) */
+  .menu-select {
     width: 100%;
-    margin-left: 0;
-    margin-right: 0;
-  }
-
-  .menu-grid.visible {
-    width: 100%;
-    padding: var(--spacing-standard);
   }
 
   .lesson-buttons-container {
