@@ -22,11 +22,12 @@ export const SOUND_THEMES = [
 
 export const COLOR_THEMES = [
   { value: "pastel", text: "Pastel" },
-  { value: "thompson", text: "Thompson" },
-  { value: "lines", text: "Lines" },
-  { value: "moderndark", text: "Modern Dark" },
-  { value: "moderntech", text: "Modern Tech" },
-  // Add new themes here
-  // { value: "dark", text: "Dark Mode" },
-  // { value: "highcontrast", text: "High Contrast" },
+  { value: "sage", text: "Sage" },
+  { value: "rose-eucalyptus", text: "Rose & Eucalyptus" },
+  { value: "nocturne", text: "Nocturne (Dark)" },
 ];
+
+export const CHUNK_OPTIONS = Array.from({ length: 10 }, (_, i) => ({
+  value: (i + 1) * 10,
+  text: `${(i + 1) * 10} words`,
+}));

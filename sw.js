@@ -1,10 +1,11 @@
 // Service worker: precaches the whole app so it works fully offline.
 // Strategy: stale-while-revalidate — serve from cache instantly, refresh the
 // cache in the background when online, so content updates arrive on the next launch.
-const CACHE = 'hebrew-app-v2';
+const CACHE = 'hebrew-app-v3';
 
 const PRECACHE = [
   './',
+  'index.html',
   'manifest.webmanifest',
   'css/base.css',
   'css/components.css',
@@ -21,6 +22,7 @@ const PRECACHE = [
   'js/ui/ContentFormatter.js',
   'js/ui/MenuSystem.js',
   'js/ui/UI.js',
+  'js/ui/icons.js',
   'js/utils/helpers.js',
   'icons/icon-192.png',
   'icons/icon-512.png',
@@ -69,7 +71,11 @@ self.addEventListener('fetch', (event) => {
   // ignoreSearch: the app appends ?t=<timestamp> cache-busters to data fetches
   event.respondWith(
     caches.open(CACHE).then(async (cache) => {
-      const cached = await cache.match(event.request, { ignoreSearch: true });
+      let cached = await cache.match(event.request, { ignoreSearch: true });
+      // Any in-scope navigation falls back to the app shell when offline
+      if (!cached && event.request.mode === 'navigate') {
+        cached = await cache.match('./');
+      }
       const network = fetch(event.request, { cache: 'no-cache' })
         .then((response) => {
           if (response.ok) cache.put(event.request.url.split('?')[0], response.clone());

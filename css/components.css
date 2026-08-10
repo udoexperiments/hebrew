@@ -1,385 +1,580 @@
 /* css/components.css - Component styles */
 
-/* Control groups */
-.control-group {
-    display: flex;
-    gap: var(--spacing-standard);
-    justify-content: center;
-    align-items: stretch;
-  }
-  
-  /* Buttons */
-  .direction-button,
-  .action-button,
-  .feedback-button,
-  .lesson-button {
-    background: var(--color-quaternary);
-    color: var(--button-text-color, black);
-    border: none;
-    border-radius: 12px;
-    padding: var(--spacing-standard);
-    font-size: 16px;
-    cursor: pointer;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-    flex: 1;
-    min-width: 120px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    transition: all var(--transition-duration) ease;
-  }
-  
-  .button-text {
-    text-align: center;
-  }
-  
-  /* Select elements */
-  .glass-select {
-    background: var(--color-tertiary);
-    border: 1px solid var(--border-subtle, rgba(0, 0, 0, 0.1));
-    border-radius: 12px;
-    padding: 10px var(--spacing-standard);
-    font-size: 14px;
-    color: var(--select-text-color, #333);
-    cursor: pointer;
-  }
-  
-  /* Feedback buttons */
-  .feedback-container {
-    display: flex;
-    justify-content: space-between;
-    gap: var(--spacing-standard);
-    width: 100%;
-  }
-  
-  .feedback-button.correct {
-    background: var(--color-green);
-  }
-  
-  .feedback-button.mistake {
-    background: var(--color-orange);
-  }
-  
-  /* Cards */
-  .card-container {
-    display: flex;
-    flex-direction: column;
-    gap: var(--spacing-standard);
-    flex: 1;
-  }
-  
-  .language-card {
-    border-radius: 16px;
-    padding: calc(var(--spacing-standard) / 2);
-    flex: 1;
-    display: flex;
-    flex-direction: column;
-    transition: background-color var(--transition-duration) ease;
-  }
-  
-  #english-section,
-  #hebrew-section {
-    height: var(--section-height);
-    min-height: var(--section-height);
-    max-height: var(--section-height);
-    position: relative;
-    overflow: hidden;
-    transition: background-color var(--transition-duration) ease;
-    border-radius: 12px;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
-  }
-  
-  #english-section {
-    background-color: var(--english-card-color);
-  }
-  
-  #hebrew-section {
-    background-color: var(--hebrew-card-color);
-  }
-  
-  .content-area {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 18px;
-    line-height: 1.5;
-    padding: calc(var(--spacing-standard) / 2);
-    overflow-y: auto;
-    color: var(--card-text-color, #333);
-  }
-  
-  /* Hebrew content */
-  .hebrew-text {
-    width: 100%;
-    line-height: 1.5;
-  }
-  
-  .form-group {
-    margin-bottom: var(--spacing-standard);
-    padding: calc(var(--spacing-standard) / 2);
-  }
-  
-  .label {
-    font-weight: 600;
-    color: var(--color-primary);
-    margin-right: var(--spacing-standard);
-  }
-  
-  .spoken,
-  .letters {
-    margin-right: var(--spacing-standard);
-    line-height: 1.5;
-  }
-  
-  /* Grammar examples styling */
-  .example-section {
-    margin-top: calc(var(--spacing-standard) * 1.5);
-    padding-top: var(--spacing-standard);
-    border-top: 1px solid rgba(0, 0, 0, 0.1);
-  }
-  
-  .example {
-    font-size: 0.9em;
-    opacity: 0.8;
-  }
-  
-  .grammar-english {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: var(--spacing-standard);
-    height: 100%;
-  }
-  
-  .main-text {
-    font-size: 1em;
-  }
-  
-  .example-text {
-    font-size: 0.85em;
-    opacity: 0.8;
-    font-style: italic;
-  }
-  
-  /* Example toggle button */
-  .example-toggle {
-    position: absolute;
-    top: 8px;
-    right: 8px;
-    background: var(--color-quaternary);
-    color: var(--button-text-color, black);
-    border: none;
-    border-radius: 8px;
-    padding: 4px 8px;
-    font-size: 12px;
-    cursor: pointer;
-    opacity: 0.8;
-    transition: opacity 0.2s ease;
-    z-index: 10;
-  }
-  
-  .example-toggle:hover {
-    opacity: 1;
-  }
-  
-  /* Ensure the card has relative positioning for the button */
-  #hebrew-section,
-  #english-section {
-    position: relative;
-  }
-  
-  /* Progress display */
-  #progress-display {
-    text-align: center;
-    margin-top: calc(var(--spacing-standard) / 2);
-    color: var(--text-color, #333);
-    width: 100%;
-  }
-  
-  /* Progress bar styles */
-  .progress-container {
-    width: 100%;
-    max-width: 300px;
-    margin: 0 auto;
-  }
-  
-  .progress-bar {
-    width: 100%;
-    height: 8px;
-    background-color: rgba(0, 0, 0, 0.1);
-    border-radius: 4px;
-    overflow: hidden;
-    position: relative;
-    margin-bottom: 8px;
-  }
-  
-  .progress-fill {
-    height: 100%;
-    background-color: var(--color-green);
-    border-radius: 4px;
-    width: 0%;
-    transition: width 0.3s ease-in-out, background-color 0.2s ease;
-    position: relative;
-  }
-  
-  /* Mistake flash animation */
-  .progress-fill.mistake-flash {
-    animation: mistakeFlash 0.5s ease-in-out;
-  }
-  
-  @keyframes mistakeFlash {
-    0% { background-color: var(--color-green); }
-    50% { background-color: var(--color-orange); }
-    100% { background-color: var(--color-green); }
-  }
-  
-  .progress-text {
-    font-size: 14px;
-    text-align: center;
-    margin-top: 4px;
-  }
-  
-  /* Add completion animation */
-  .progress-fill.complete {
-    animation: progressComplete 0.5s ease-in-out;
-  }
-  
-  @keyframes progressComplete {
-    0% { transform: scale(1); }
-    50% { transform: scale(1.05); }
-    100% { transform: scale(1); }
-  }
-  
-  /* Theme-specific progress bar colors */
-  [data-theme="moderndark"] .progress-bar,
-  [data-theme="moderntech"] .progress-bar {
-    background-color: rgba(255, 255, 255, 0.1);
-  }
-  
-  [data-theme="moderndark"] .progress-fill,
-  [data-theme="moderntech"] .progress-fill {
-    background-color: var(--color-green);
-  }
-  
-  /* Add a subtle animation when progress increases */
-  .progress-fill {
-    position: relative;
-    overflow: hidden;
-  }
-  
-  .progress-fill::after {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: linear-gradient(
-      90deg,
-      transparent,
-      rgba(255, 255, 255, 0.2),
-      transparent
-    );
-    transform: translateX(-100%);
-    animation: progressShine 2s infinite;
-  }
-  
-  @keyframes progressShine {
-    0% {
-      transform: translateX(-100%);
-    }
-    50% {
-      transform: translateX(100%);
-    }
-    100% {
-      transform: translateX(100%);
-    }
-  }
-  
-  /* Menu */
-  .menu-grid {
-    display: none;
-    grid-template-columns: repeat(2, 1fr);
-    gap: var(--spacing-standard);
-    width: 100%;
-    position: relative;
-    z-index: 10;
-  }
+/* ===== Practice header ===== */
+.practice-header {
+  display: flex;
+  align-items: center;
+  gap: calc(var(--spacing-standard) / 1.5);
+}
 
-  .menu-grid.visible {
-    display: grid !important;
-  }
+.icon-button {
+  flex: none;
+  width: 46px;
+  height: 46px;
+  border-radius: 50%;
+  border: none;
+  background: var(--surface);
+  color: var(--text-color);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: var(--shadow);
+}
 
-  .menu-control-container {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    gap: calc(var(--spacing-standard) / 2);
-    background: var(--color-quaternary);
-    border-radius: 12px;
-    padding: var(--spacing-standard);
-    width: 100%;
-  }
+.icon-button svg {
+  width: 22px;
+  height: 22px;
+}
 
-  .menu-label {
-    font-weight: bold;
-    color: var(--text-color, #333);
-  }
+/* Pill dropdowns (native select overlaid transparently) */
+.pill-select {
+  position: relative;
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 12px 16px;
+  border-radius: 999px;
+  font-size: 15px;
+  font-weight: 600;
+}
 
-  .menu-select {
-    width: 100%;
-  }
+.pill-accent {
+  background: var(--accent);
+  color: var(--on-accent);
+}
 
-  /* Lesson buttons */
-  .lesson-container {
-    display: flex;
-    flex-direction: column;
-    gap: calc(var(--spacing-standard) / 2);
-    background: var(--color-quaternary);
-    border-radius: 12px;
-    padding: var(--spacing-standard);
-    width: 100%;
-    grid-column: span 2;
-  }
-  
-  .lesson-buttons-container {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: calc(var(--spacing-standard) / 2);
-    width: 100%;
-  }
-  
-  .menu-item {
-    background: var(--color-quaternary);
-    color: var(--button-text-color, black);
-    border: none;
-    border-radius: 12px;
-    padding: calc(var(--spacing-standard) / 2);
-    font-size: 14px;
-    cursor: pointer;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-    text-align: center;
-    height: 40px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 100%;
-  }
-  
-  .active-lesson {
-    background-color: var(--color-primary) !important;
-    color: var(--on-primary-color, white) !important;
-    font-weight: bold;
-  }
-  
-  /* Full width button */
-  .full-width-button {
-    grid-column: 1 / -1 !important;
-    width: 100% !important;
-  }
+.pill-accent-2 {
+  background: var(--accent-2);
+  color: var(--on-accent-2);
+}
+
+.pill-label {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.pill-chevron {
+  flex: none;
+  width: 16px;
+  height: 16px;
+}
+
+.pill-select select,
+.menu-row.has-select select {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  border: none;
+  appearance: none;
+  font-size: 16px; /* prevents iOS focus zoom */
+  cursor: pointer;
+}
+
+/* Context label above the cards */
+.context-label {
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--section-label-color);
+  padding: 0 4px;
+  min-height: 16px;
+}
+
+/* ===== Cards ===== */
+.card-container {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-standard);
+  flex: 1;
+  min-height: 0;
+}
+
+.language-card {
+  flex: 1;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+#english-section,
+#hebrew-section {
+  flex: 1;
+  min-height: 0;
+  position: relative;
+  overflow: hidden;
+  border-radius: var(--card-radius);
+  transition: background-color var(--transition-duration) ease;
+}
+
+#english-section {
+  background-color: var(--english-card-color);
+}
+
+#hebrew-section {
+  background-color: var(--hebrew-card-color);
+}
+
+.content-area {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  font-size: 17px;
+  line-height: 1.5;
+  padding: var(--spacing-standard);
+  overflow-y: auto;
+  color: var(--card-text-color);
+}
+
+/* auto margins center content when it fits, but keep the top reachable when it scrolls */
+.content-area > * {
+  margin: auto;
+}
+
+#english-text {
+  font-size: clamp(24px, 7vw, 34px);
+  font-weight: 600;
+  text-align: center;
+}
+
+#english-text .example-text,
+#english-text .example-toggle {
+  font-size: 15px;
+  font-weight: 400;
+}
+
+/* Hidden-side placeholder */
+.reveal-placeholder {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  color: var(--reveal-hint-color);
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.reveal-placeholder svg {
+  width: 36px;
+  height: 36px;
+}
+
+/* Hebrew structured content */
+.hebrew-text {
+  width: 100%;
+  line-height: 1.5;
+  font-size: 17px;
+  font-weight: 400;
+}
+
+.form-group {
+  margin-bottom: calc(var(--spacing-standard) / 2);
+  padding: calc(var(--spacing-standard) / 4);
+}
+
+.label {
+  font-weight: 600;
+  color: var(--color-primary);
+  margin-right: var(--spacing-standard);
+}
+
+.spoken,
+.letters {
+  margin-right: var(--spacing-standard);
+  line-height: 1.5;
+}
+
+.example-section {
+  margin-top: calc(var(--spacing-standard) * 1.5);
+  padding-top: var(--spacing-standard);
+  border-top: 1px solid var(--border-subtle);
+}
+
+.example {
+  font-size: 0.9em;
+  opacity: 0.8;
+}
+
+.grammar-english {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--spacing-standard);
+  height: 100%;
+}
+
+.example-text {
+  opacity: 0.8;
+  font-style: italic;
+}
+
+.example-toggle {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: rgba(255, 255, 255, 0.55);
+  color: var(--card-text-color);
+  border: none;
+  border-radius: 10px;
+  padding: 6px 10px;
+  font-size: 13px;
+  z-index: 10;
+}
+
+[data-theme="nocturne"] .example-toggle {
+  background: rgba(0, 0, 0, 0.35);
+}
+
+/* ===== Footer ===== */
+.primary-button {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  background: var(--accent);
+  color: var(--on-accent);
+  border: none;
+  border-radius: var(--control-radius);
+  padding: 16px;
+  font-size: 17px;
+  font-weight: 600;
+  transition: filter 0.15s ease;
+}
+
+.primary-button:active {
+  filter: brightness(0.93);
+}
+
+.button-icon {
+  flex: none;
+  width: 22px;
+  height: 22px;
+}
+
+.feedback-container {
+  display: flex;
+  gap: var(--spacing-standard);
+  width: 100%;
+}
+
+.feedback-button {
+  flex: 1;
+  border: none;
+  border-radius: var(--control-radius);
+  padding: 16px;
+  font-size: 17px;
+  font-weight: 600;
+}
+
+.feedback-button.correct {
+  background: var(--correct-color);
+  color: var(--on-correct);
+}
+
+.feedback-button.mistake {
+  background: var(--mistake-color);
+  color: var(--on-mistake);
+}
+
+.footer-divider {
+  height: 1px;
+  background: var(--border-subtle);
+}
+
+.text-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  background: none;
+  border: none;
+  color: var(--section-label-color);
+  font-size: 16px;
+  font-weight: 600;
+  padding: 8px;
+}
+
+.text-button .button-icon {
+  width: 20px;
+  height: 20px;
+}
+
+/* Progress */
+#progress-display {
+  width: 100%;
+}
+
+.progress-container {
+  width: 100%;
+}
+
+.progress-bar {
+  width: 100%;
+  height: 6px;
+  background-color: var(--border-subtle);
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  background-color: var(--accent);
+  border-radius: 3px;
+  width: 0%;
+  transition: width 0.3s ease-in-out, background-color 0.2s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.progress-fill.mistake-flash {
+  animation: mistakeFlash 0.5s ease-in-out;
+}
+
+@keyframes mistakeFlash {
+  0% { background-color: var(--accent); }
+  50% { background-color: var(--mistake-color); }
+  100% { background-color: var(--accent); }
+}
+
+.progress-fill::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.25), transparent);
+  transform: translateX(-100%);
+  animation: progressShine 2s infinite;
+}
+
+@keyframes progressShine {
+  0% { transform: translateX(-100%); }
+  50%, 100% { transform: translateX(100%); }
+}
+
+.progress-text {
+  font-size: 13px;
+  text-align: center;
+  margin-top: 4px;
+  color: var(--muted-text);
+}
+
+/* ===== Menu page ===== */
+.menu-scroll {
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  padding-bottom: 4px;
+}
+
+.menu-brand {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 6px 4px 2px;
+}
+
+.menu-brand-icon {
+  width: 56px;
+  height: 56px;
+  border-radius: 14px;
+}
+
+.menu-brand-title {
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.menu-brand-tagline {
+  font-size: 14px;
+  color: var(--muted-text);
+}
+
+.menu-section-label {
+  text-transform: uppercase;
+  letter-spacing: 1.2px;
+  font-size: 12.5px;
+  font-weight: 600;
+  color: var(--section-label-color);
+  margin: 20px 4px 8px;
+}
+
+.menu-card {
+  background: var(--surface);
+  border-radius: var(--control-radius);
+  overflow: hidden;
+}
+
+.menu-row {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  min-height: 56px;
+  padding: 12px 14px;
+  background: none;
+  border: none;
+  text-align: left;
+  color: var(--text-color);
+  font-size: 16px;
+}
+
+.menu-row + .menu-row {
+  border-top: 1px solid var(--border-subtle);
+}
+
+.row-icon {
+  flex: none;
+  width: 24px;
+  height: 24px;
+  color: var(--icon-plain);
+}
+
+.row-icon.chip {
+  width: 36px;
+  height: 36px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.row-icon.chip svg {
+  width: 20px;
+  height: 20px;
+}
+
+.chip-accent {
+  background: var(--accent);
+  color: var(--on-accent);
+}
+
+.chip-accent-2 {
+  background: var(--accent-2);
+  color: var(--on-accent-2);
+}
+
+.icon-blue {
+  color: var(--icon-blue);
+}
+
+.icon-accent-2 {
+  color: var(--accent-2);
+}
+
+.row-text {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.row-title {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.row-value {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.row-value.accent { color: var(--accent); }
+.row-value.accent-2 { color: var(--accent-2); }
+.row-value.blue { color: var(--icon-blue); }
+
+.row-trailing {
+  flex: none;
+  font-size: 14px;
+  color: var(--muted-text);
+}
+
+.row-chevron {
+  flex: none;
+  width: 18px;
+  height: 18px;
+  color: var(--muted-text);
+}
+
+/* Lessons list */
+.lesson-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.lesson-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  min-height: 50px;
+  padding: 12px 14px;
+  background: var(--surface-alt);
+  border: none;
+  border-radius: 12px;
+  text-align: left;
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--text-color);
+}
+
+.lesson-row .row-icon {
+  width: 22px;
+  height: 22px;
+  color: inherit;
+  opacity: 0.75;
+}
+
+.lesson-row.active {
+  background: var(--active-lesson-bg);
+  color: var(--on-active-lesson);
+  font-weight: 600;
+}
+
+.lesson-row.active .row-icon {
+  opacity: 1;
+}
+
+/* Bottom bar */
+.menu-bottom-bar {
+  flex: none;
+  display: flex;
+  gap: 14px;
+  padding-top: 10px;
+}
+
+.bottom-pill {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  border: none;
+  border-radius: 999px;
+  padding: 14px;
+  font-size: 16px;
+  font-weight: 600;
+  background: var(--surface);
+  color: var(--text-color);
+  box-shadow: var(--shadow);
+}
+
+.bottom-pill.current {
+  background: var(--surface-alt);
+  cursor: default;
+}
+
+.bottom-pill .button-icon {
+  width: 20px;
+  height: 20px;
+}

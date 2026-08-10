@@ -3,77 +3,185 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-    <title>Hebrew Language Learning App</title>
+    <title>Speech Explorer</title>
 
     <!-- PWA -->
     <link rel="manifest" href="manifest.webmanifest">
-    <meta name="theme-color" content="#111827">
+    <meta name="theme-color" content="#F3EDE6">
     <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
     <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
     <script>
       if ('serviceWorker' in navigator) {
         window.addEventListener('load', () => navigator.serviceWorker.register('sw.js'));
       }
     </script>
 
-
     <!-- CSS imports -->
     <link rel="stylesheet" href="css/main.css">
-    
+
     <!-- JavaScript module import -->
     <script type="module" src="js/main.js"></script>
 </head>
 <body>
     <div class="app-container">
-        <header>
-            <div class="control-group">
-                <button id="menu-button" class="action-button">
-                    <span class="button-text">Menu</span>
-                </button>
-                <button id="switch-direction" class="direction-button">
-                    <span class="button-text">English → Hebrew</span>
-                </button>
-            </div>
-            
-            <div class="control-group" style="display: none;">
-                <select id="category-select" class="glass-select">
-                    <!-- Options populated by JavaScript -->
-                </select>
-            </div>
-        </header>
 
-        <main>
-            <div class="card-container">
-                <div class="language-card">
-                    <div id="english-section">
-                        <div class="content-area">
-                            <div id="english-text"></div>
+        <!-- ===== Practice page ===== -->
+        <div id="practice-page" class="page">
+            <header class="practice-header">
+                <button id="menu-button" class="icon-button" aria-label="Open menu"></button>
+                <div class="pill-select pill-accent">
+                    <span class="pill-label" id="category-pill-label">Basics</span>
+                    <span class="pill-chevron"></span>
+                    <select id="category-select" aria-label="Category"></select>
+                </div>
+                <div class="pill-select pill-accent-2">
+                    <span class="pill-label" id="chunk-pill-label">10 words</span>
+                    <span class="pill-chevron"></span>
+                    <select id="chunk-select" aria-label="Chunk size"></select>
+                </div>
+            </header>
+
+            <div id="context-label" class="context-label"></div>
+
+            <main>
+                <div class="card-container">
+                    <div class="language-card">
+                        <div id="english-section">
+                            <div class="content-area">
+                                <div id="english-text"></div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="language-card">
+                        <div id="hebrew-section">
+                            <div class="content-area">
+                                <div id="hebrew-content"></div>
+                            </div>
                         </div>
                     </div>
                 </div>
-                
-                <div class="language-card">
-                    <div id="hebrew-section">
-                        <div class="content-area">
-                            <div id="hebrew-content"></div>
-                        </div>
+            </main>
+
+            <footer>
+                <div id="progress-display">
+                    <div class="progress-container">
+                        <div class="progress-bar"><div class="progress-fill" style="width: 0%"></div></div>
+                        <div class="progress-text">0/10</div>
                     </div>
                 </div>
-            </div>
-        </main>
-        
-        <!-- Menu grid outside of main -->
-        <div id="menu-grid" class="menu-grid">
-            <!-- Menu items populated by JavaScript -->
+
+                <div id="feedback-buttons" class="feedback-container" style="display: none;">
+                    <button class="feedback-button correct"><span class="button-text">Correct</span></button>
+                    <button class="feedback-button mistake"><span class="button-text">Mistake</span></button>
+                </div>
+
+                <button id="show-continue" class="primary-button">
+                    <span class="button-icon" id="show-icon"></span>
+                    <span class="button-text">Show</span>
+                </button>
+
+                <div class="footer-divider"></div>
+
+                <button id="swap-direction" class="text-button">
+                    <span class="button-icon" id="swap-icon"></span>
+                    <span class="button-text" id="swap-label">Swap Direction</span>
+                </button>
+            </footer>
         </div>
 
-        <footer>
-            <button id="show-continue" class="action-button">
-                <span class="button-text">Show</span>
-            </button>
-            <!-- Progress display and feedback buttons added dynamically -->
-        </footer>
+        <!-- ===== Menu page ===== -->
+        <div id="menu-page" class="page hidden">
+            <div class="menu-scroll">
+                <div class="menu-brand">
+                    <img src="icons/icon-192.png" alt="" class="menu-brand-icon">
+                    <div>
+                        <h1 class="menu-brand-title">Speech Explorer</h1>
+                        <p class="menu-brand-tagline">Learn words. Build confidence.</p>
+                    </div>
+                </div>
+
+                <div class="menu-section-label">Learning Setup</div>
+                <div class="menu-card">
+                    <div class="menu-row has-select">
+                        <span class="row-icon chip chip-accent" data-icon="layers"></span>
+                        <span class="row-text">
+                            <span class="row-title">Category</span>
+                            <span class="row-value accent" id="category-row-value">Basics</span>
+                        </span>
+                        <span class="row-chevron"></span>
+                        <select id="category-select-menu" aria-label="Category"></select>
+                    </div>
+                    <div class="menu-row has-select">
+                        <span class="row-icon chip chip-accent-2" data-icon="textSize"></span>
+                        <span class="row-text">
+                            <span class="row-title">Chunk Size</span>
+                            <span class="row-value accent-2" id="chunk-row-value">10 words</span>
+                        </span>
+                        <span class="row-chevron"></span>
+                        <select id="chunk-select-menu" aria-label="Chunk size"></select>
+                    </div>
+                </div>
+
+                <div class="menu-section-label">Lessons</div>
+                <div id="lesson-list" class="lesson-list"></div>
+
+                <div class="menu-section-label">Preferences</div>
+                <div class="menu-card">
+                    <div class="menu-row has-select">
+                        <span class="row-icon icon-blue" data-icon="sound"></span>
+                        <span class="row-text">
+                            <span class="row-title">Sound Theme</span>
+                            <span class="row-value blue" id="sound-row-value">Adjacent</span>
+                        </span>
+                        <span class="row-chevron"></span>
+                        <select id="sound-select-menu" aria-label="Sound theme"></select>
+                    </div>
+                    <div class="menu-row has-select">
+                        <span class="row-icon icon-accent-2" data-icon="palette"></span>
+                        <span class="row-text">
+                            <span class="row-title">Color Theme</span>
+                            <span class="row-value accent-2" id="color-row-value">Pastel</span>
+                        </span>
+                        <span class="row-chevron"></span>
+                        <select id="color-select-menu" aria-label="Color theme"></select>
+                    </div>
+                </div>
+
+                <div class="menu-section-label">More</div>
+                <div class="menu-card">
+                    <button class="menu-row" id="language-row">
+                        <span class="row-icon" data-icon="globe"></span>
+                        <span class="row-text"><span class="row-title">Language</span></span>
+                        <span class="row-trailing" id="language-row-value">English → Hebrew</span>
+                        <span class="row-chevron"></span>
+                    </button>
+                    <button class="menu-row" id="about-row">
+                        <span class="row-icon" data-icon="info"></span>
+                        <span class="row-text"><span class="row-title">About the App</span></span>
+                        <span class="row-chevron"></span>
+                    </button>
+                    <button class="menu-row" id="help-row">
+                        <span class="row-icon" data-icon="help"></span>
+                        <span class="row-text"><span class="row-title">Help &amp; Support</span></span>
+                        <span class="row-chevron"></span>
+                    </button>
+                </div>
+            </div>
+
+            <div class="menu-bottom-bar">
+                <button class="bottom-pill current" disabled>
+                    <span class="button-icon" data-icon="menu"></span>
+                    <span class="button-text">Menu</span>
+                </button>
+                <button class="bottom-pill" id="home-button">
+                    <span class="button-icon" data-icon="home"></span>
+                    <span class="button-text">Home</span>
+                </button>
+            </div>
+        </div>
+
     </div>
 </body>
 </html>

@@ -6,7 +6,11 @@ class ChunkManager {
   initializeRandomization() {
     const filteredData = StateManager.get('filteredData');
     const masterIndices = shuffleArray([...Array(filteredData.length).keys()]);
-    StateManager.set('masterIndices', masterIndices);
+    // Completed indices refer to the previous selection — always start fresh
+    StateManager.update({
+      masterIndices,
+      completedChunkIndices: new Set(),
+    });
     this.initializeNewChunk();
   }
 

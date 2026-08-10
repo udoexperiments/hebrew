@@ -1,7 +1,14 @@
 // js/ui/UI.js
 import StateManager from '../managers/StateManager.js';
 import ContentFormatter from './ContentFormatter.js';
-import { FADE_DURATION } from '../config/constants.js';
+import { FADE_DURATION, CATEGORIES } from '../config/constants.js';
+import { ICONS } from './icons.js';
+
+const REVEAL_PLACEHOLDER = `
+  <div class="reveal-placeholder">
+    ${ICONS.sparkles}
+    <span>Reveal the translation</span>
+  </div>`;
 
 class UI {
   fadeElement(element, fadeIn = true) {
@@ -43,10 +50,10 @@ class UI {
         } else {
           englishText.innerText = entry.english;
         }
-        hebrewContent.innerHTML = "";
+        hebrewContent.innerHTML = REVEAL_PLACEHOLDER;
       } else {
         // Hebrew to English mode - show button on Hebrew card
-        englishText.innerText = "";
+        englishText.innerHTML = REVEAL_PLACEHOLDER;
         let hebrewHtml = ContentFormatter.formatHebrewContent(entry);
         
         // Add toggle button to Hebrew card if examples exist and we're in grammar category
@@ -62,6 +69,35 @@ class UI {
       this.fadeElement(hebrewContent, true);
       this.updateProgress();
     }, FADE_DURATION);
+
+    this.updateContextLabel();
+  }
+
+  // "What am I practicing" strip above the cards, e.g. "DAY OF THE WEEK"
+  updateContextLabel() {
+    const label = document.getElementById('context-label');
+    if (!label) return;
+
+    const category = StateManager.get('currentCategory');
+    const categoryText = (CATEGORIES.find((c) => c.value === category) || {}).text || category;
+
+    if (StateManager.get('allLessons')) {
+      label.textContent = `${categoryText} · All Lessons`;
+      return;
+    }
+
+    const currentLesson = StateManager.get('currentLesson');
+    const data = StateManager.get('data');
+    const lessonItem = data.find((item) => {
+      const num = typeof item.lesson === 'number'
+        ? item.lesson
+        : parseInt(String(item.lesson).replace('Lesson ', '').trim(), 10);
+      return num === currentLesson;
+    });
+
+    label.textContent = (lessonItem && lessonItem.word_type)
+      ? lessonItem.word_type
+      : `${categoryText} · Lesson ${currentLesson}`;
   }
 
   updateProgress() {
@@ -90,7 +126,12 @@ class UI {
   updateColorTheme(themeName) {
     document.documentElement.setAttribute('data-theme', themeName);
     document.body.setAttribute('data-theme', themeName);
-    console.log(`Theme updated to ${themeName}`);
+    // Keep the iOS status bar / browser chrome in sync with the theme background
+    const meta = document.querySelector('meta[name="theme-color"]');
+    if (meta) {
+      meta.content = getComputedStyle(document.documentElement)
+        .getPropertyValue('--background-color').trim();
+    }
   }
 
   toggleFeedbackButtons(show) {
@@ -99,7 +140,7 @@ class UI {
 
     if (feedbackButtons && showButton) {
       feedbackButtons.style.display = show ? "flex" : "none";
-      showButton.style.display = show ? "none" : "block";
+      showButton.style.display = show ? "none" : "flex";
       StateManager.set('showingFeedback', show);
     }
   }
