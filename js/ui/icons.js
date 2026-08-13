@@ -28,6 +28,8 @@ export const ICONS = {
   leaf: svg('<path d="M5 19C5 9 12 4 20 4c0 10-5 15-12 15"/><path d="M5 19c3-4 7-7 11-9"/>'),
   music: svg('<path d="M9 18V6l10-2v12"/><circle cx="6.5" cy="18" r="2.5"/><circle cx="16.5" cy="16" r="2.5"/>'),
   book: svg('<path d="M4 5a2 2 0 0 1 2-2h14v18H6a2 2 0 0 0-2 2V5z"/><line x1="8" y1="7" x2="16" y2="7"/>'),
+  close: svg('<line x1="6" y1="6" x2="18" y2="18"/><line x1="18" y1="6" x2="6" y2="18"/>'),
+  table: svg('<rect x="3" y="4" width="18" height="16" rx="2"/><line x1="3" y1="10" x2="21" y2="10"/><line x1="3" y1="15" x2="21" y2="15"/><line x1="12" y1="10" x2="12" y2="20"/>'),
 };
 
 // Keyword → icon mapping for lesson rows (matched against word_type text)

@@ -26,6 +26,22 @@ class MenuSystem {
     set('menu-button', ICONS.menu);
     set('show-icon', ICONS.eye);
     set('swap-icon', ICONS.swap);
+    set('chunk-peek', ICONS.table);
+    set('overlay-close', ICONS.close);
+  }
+
+  // Unique lessons of a dataset: Map of number → label (topic or "Lesson n")
+  lessonsOf(data) {
+    const lessons = new Map();
+    data.forEach((item) => {
+      const num = typeof item.lesson === 'number'
+        ? item.lesson
+        : parseInt(String(item.lesson).replace('Lesson ', '').trim(), 10);
+      if (!Number.isNaN(num) && !lessons.has(num)) {
+        lessons.set(num, item.word_type || `Lesson ${num}`);
+      }
+    });
+    return lessons;
   }
 
   fillSelect(select, options, currentValue) {
@@ -53,6 +69,15 @@ class MenuSystem {
     bind('chunk-select-menu', CHUNK_OPTIONS, 'chunkSize', (v) => EventHandlers.setChunkSize(v));
     bind('sound-select-menu', SOUND_THEMES, 'soundTheme', (v) => EventHandlers.setSoundTheme(v));
     bind('color-select-menu', COLOR_THEMES, 'colorTheme', (v) => EventHandlers.setColorTheme(v));
+
+    // Lesson pill: options depend on loaded data and are rebuilt in refresh()
+    const lessonSelect = document.getElementById('lesson-select');
+    if (lessonSelect) {
+      lessonSelect.addEventListener('change', (e) => {
+        const value = e.target.value;
+        EventHandlers.setLesson(value === 'all' ? 'all' : Number.parseInt(value, 10));
+      });
+    }
   }
 
   bindRows() {
@@ -73,17 +98,7 @@ class MenuSystem {
     if (!container) return;
     container.innerHTML = '';
 
-    const data = StateManager.get('data');
-    const lessons = new Map();
-    data.forEach((item) => {
-      const num = typeof item.lesson === 'number'
-        ? item.lesson
-        : parseInt(String(item.lesson).replace('Lesson ', '').trim(), 10);
-      if (!Number.isNaN(num) && !lessons.has(num)) {
-        lessons.set(num, item.word_type || `Lesson ${num}`);
-      }
-    });
-
+    const lessons = this.lessonsOf(StateManager.get('data'));
     const allLessons = StateManager.get('allLessons');
     const currentLesson = StateManager.get('currentLesson');
 
@@ -130,10 +145,27 @@ class MenuSystem {
       const el = document.getElementById(id);
       if (el) el.textContent = text;
     };
+    const allLessons = StateManager.get('allLessons');
+    const currentLesson = StateManager.get('currentLesson');
+    const lessons = this.lessonsOf(StateManager.get('data'));
+
     setText('category-pill-label', categoryText);
     setText('category-row-value', categoryText);
     setText('chunk-pill-label', `${chunkSize} words`);
     setText('chunk-row-value', `${chunkSize} words`);
+    setText('lesson-pill-label', allLessons
+      ? 'All'
+      : (lessons.get(currentLesson) || `Lesson ${currentLesson}`));
+
+    // Rebuild the lesson pill options for the current category
+    const lessonSelect = document.getElementById('lesson-select');
+    if (lessonSelect) {
+      const options = [{ value: 'all', text: 'All lessons' }].concat(
+        [...lessons.keys()].sort((a, b) => a - b)
+          .map((num) => ({ value: String(num), text: lessons.get(num) }))
+      );
+      this.fillSelect(lessonSelect, options, allLessons ? 'all' : String(currentLesson));
+    }
     setText('sound-row-value', soundText);
     setText('color-row-value', colorText);
     setText('language-row-value', direction);
@@ -157,10 +189,9 @@ class MenuSystem {
     const isMenuOpen = !StateManager.get('isMenuOpen');
     StateManager.set('isMenuOpen', isMenuOpen);
 
-    const practicePage = document.getElementById('practice-page');
-    const menuPage = document.getElementById('menu-page');
-    if (practicePage) practicePage.classList.toggle('hidden', isMenuOpen);
-    if (menuPage) menuPage.classList.toggle('hidden', !isMenuOpen);
+    // Slide transition: menu enters from the left, practice exits right
+    const slider = document.getElementById('page-slider');
+    if (slider) slider.classList.toggle('menu-open', isMenuOpen);
 
     if (isMenuOpen) this.refresh();
   }

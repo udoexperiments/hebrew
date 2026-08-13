@@ -25,6 +25,7 @@
 </head>
 <body>
     <div class="app-container">
+      <div id="page-slider" class="page-slider">
 
         <!-- ===== Practice page ===== -->
         <div id="practice-page" class="page">
@@ -40,9 +41,17 @@
                     <span class="pill-chevron"></span>
                     <select id="chunk-select" aria-label="Chunk size"></select>
                 </div>
+                <div class="pill-select pill-rose">
+                    <span class="pill-label" id="lesson-pill-label">All</span>
+                    <span class="pill-chevron"></span>
+                    <select id="lesson-select" aria-label="Lesson"></select>
+                </div>
             </header>
 
-            <div id="context-label" class="context-label"></div>
+            <div class="context-row">
+                <div id="context-label" class="context-label"></div>
+                <button id="chunk-peek" class="peek-button" aria-label="Show all words of this round"></button>
+            </div>
 
             <main>
                 <div class="card-container">
@@ -92,7 +101,7 @@
         </div>
 
         <!-- ===== Menu page ===== -->
-        <div id="menu-page" class="page hidden">
+        <div id="menu-page" class="page">
             <div class="menu-scroll">
                 <div class="menu-brand">
                     <img src="icons/icon-192.png" alt="" class="menu-brand-icon">
@@ -181,6 +190,27 @@
                 </button>
             </div>
         </div>
+
+      </div><!-- /page-slider -->
+
+      <!-- ===== Chunk overlay (study the current round) ===== -->
+      <div id="chunk-overlay" class="overlay hidden">
+          <div class="overlay-header">
+              <div>
+                  <div class="overlay-title">This Round</div>
+                  <div class="overlay-subtitle" id="overlay-context"></div>
+              </div>
+              <button id="overlay-close" class="icon-button" aria-label="Close"></button>
+          </div>
+          <div class="overlay-scroll">
+              <table class="chunk-table">
+                  <thead>
+                      <tr><th>English</th><th>Spoken</th><th class="th-letters">Letters</th></tr>
+                  </thead>
+                  <tbody id="chunk-table-body"></tbody>
+              </table>
+          </div>
+      </div>
 
     </div>
 </body>

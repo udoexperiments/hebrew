@@ -51,6 +51,11 @@
   color: var(--on-accent-2);
 }
 
+.pill-rose {
+  background: var(--active-lesson-bg);
+  color: var(--on-active-lesson);
+}
+
 .pill-label {
   overflow: hidden;
   text-overflow: ellipsis;
@@ -76,15 +81,44 @@
   cursor: pointer;
 }
 
-/* Context label above the cards */
+/* Context row above the cards: lesson label + round-peek button */
+.context-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 0 4px;
+}
+
 .context-label {
   text-transform: uppercase;
   letter-spacing: 1.5px;
   font-size: 13px;
   font-weight: 600;
   color: var(--section-label-color);
-  padding: 0 4px;
   min-height: 16px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.peek-button {
+  flex: none;
+  width: 34px;
+  height: 34px;
+  border: none;
+  border-radius: 10px;
+  background: var(--surface);
+  color: var(--section-label-color);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: var(--shadow);
+}
+
+.peek-button svg {
+  width: 18px;
+  height: 18px;
 }
 
 /* ===== Cards ===== */
@@ -137,9 +171,10 @@
   margin: auto;
 }
 
+/* Same type treatment as the Hebrew card content */
 #english-text {
-  font-size: clamp(24px, 7vw, 34px);
-  font-weight: 600;
+  font-size: 17px;
+  font-weight: 400;
   text-align: center;
 }
 
@@ -363,6 +398,86 @@
   text-align: center;
   margin-top: 4px;
   color: var(--muted-text);
+}
+
+/* ===== Chunk overlay ===== */
+.overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 60;
+  background: var(--background-color);
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-standard);
+  padding: max(var(--spacing-standard), env(safe-area-inset-top))
+    max(var(--spacing-standard), env(safe-area-inset-right))
+    max(var(--spacing-standard), env(safe-area-inset-bottom))
+    max(var(--spacing-standard), env(safe-area-inset-left));
+}
+
+.overlay-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.overlay-title {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.overlay-subtitle {
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--section-label-color);
+  margin-top: 2px;
+}
+
+.overlay-scroll {
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  background: var(--surface);
+  border-radius: var(--control-radius);
+}
+
+.chunk-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 15px;
+}
+
+.chunk-table th {
+  position: sticky;
+  top: 0;
+  background: var(--surface);
+  text-align: left;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--muted-text);
+  padding: 12px 12px 8px;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.chunk-table td {
+  padding: 10px 12px;
+  border-bottom: 1px solid var(--border-subtle);
+  vertical-align: top;
+}
+
+.chunk-table tr:last-child td {
+  border-bottom: none;
+}
+
+.chunk-table .td-letters,
+.chunk-table .th-letters {
+  text-align: right;
 }
 
 /* ===== Menu page ===== */

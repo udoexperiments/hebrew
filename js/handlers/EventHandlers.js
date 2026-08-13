@@ -81,14 +81,45 @@ class EventHandlers {
     this.refreshMenu();
   }
 
-  async setCategory(value) {
-    StateManager.update({
-      currentCategory: value,
-      allLessons: true,
-      currentLesson: 0,
-      isRevealed: false,
+  // Topic (word_type) of a lesson within a dataset, or null when unnamed/absent
+  lessonTopic(data, lessonNumber) {
+    const item = data.find((entry) => {
+      const num = typeof entry.lesson === 'number'
+        ? entry.lesson
+        : parseInt(String(entry.lesson).replace('Lesson ', '').trim(), 10);
+      return num === lessonNumber;
     });
+    return item ? { exists: true, topic: item.word_type || null } : { exists: false, topic: null };
+  }
+
+  async setCategory(value) {
+    const previousCategory = StateManager.get('currentCategory');
+    const previousLesson = StateManager.get('currentLesson');
+    const hadLesson = !StateManager.get('allLessons') && previousLesson > 0;
+    const previousTopic = hadLesson
+      ? this.lessonTopic(StateManager.get('data'), previousLesson).topic
+      : null;
+
+    StateManager.update({ currentCategory: value, isRevealed: false });
     await DataService.load(value);
+
+    // Keep the lesson when the new category has "the same" lesson:
+    // same number with the same topic name, or same number within the same
+    // category family (sentences_present/past/future) when lessons are unnamed.
+    let keepLesson = false;
+    if (hadLesson) {
+      const next = this.lessonTopic(StateManager.get('data'), previousLesson);
+      if (next.exists) {
+        const sameFamily = previousCategory.split('_')[0] === value.split('_')[0];
+        keepLesson = (previousTopic || next.topic)
+          ? previousTopic === next.topic
+          : sameFamily;
+      }
+    }
+    StateManager.update(keepLesson
+      ? { allLessons: false, currentLesson: previousLesson }
+      : { allLessons: true, currentLesson: 0 });
+
     DataService.filterByLesson();
     ChunkManager.initializeRandomization();
     UI.toggleFeedbackButtons(false);

@@ -19,7 +19,10 @@ class App {
       DataService.load(currentCategory),
     ]);
     DataService.filterByLesson();
-    ChunkManager.initializeRandomization();
+    // Resume the saved round if it still matches the restored selection
+    if (!StateManager.restoreChunkProgress()) {
+      ChunkManager.initializeRandomization();
+    }
 
     // Build UI
     MenuSystem.init();
@@ -38,6 +41,10 @@ class App {
     on('home-button', () => MenuSystem.toggle());
     on('show-continue', () => EventHandlers.reveal());
     on('swap-direction', () => EventHandlers.toggleDirection());
+    on('chunk-peek', () => UI.openChunkOverlay());
+    on('overlay-close', () => UI.closeChunkOverlay());
+
+    App.setupSwipeNavigation();
 
     // Tapping the hidden card also reveals the answer (bigger target than the button)
     ['english-section', 'hebrew-section'].forEach((id) => {
@@ -56,6 +63,44 @@ class App {
       feedbackButtons.querySelector('.mistake').addEventListener('click', () => EventHandlers.handleMistake());
     }
 
+    // Global function for toggling grammar examples (assigned below)
+    App.registerExampleToggle();
+  }
+
+  // Swipe right opens the menu, swipe left closes it (mirrors the slide transition)
+  static setupSwipeNavigation() {
+    const slider = document.getElementById('page-slider');
+    if (!slider) return;
+
+    let startX = 0;
+    let startY = 0;
+    let tracking = false;
+
+    slider.addEventListener('touchstart', (e) => {
+      if (e.touches.length !== 1) return;
+      startX = e.touches[0].clientX;
+      startY = e.touches[0].clientY;
+      tracking = true;
+    }, { passive: true });
+
+    slider.addEventListener('touchend', (e) => {
+      if (!tracking) return;
+      tracking = false;
+
+      const overlay = document.getElementById('chunk-overlay');
+      if (overlay && !overlay.classList.contains('hidden')) return;
+
+      const deltaX = e.changedTouches[0].clientX - startX;
+      const deltaY = e.changedTouches[0].clientY - startY;
+      if (Math.abs(deltaX) < 60 || Math.abs(deltaY) > 50) return;
+
+      const isMenuOpen = StateManager.get('isMenuOpen');
+      if (deltaX > 0 && !isMenuOpen) MenuSystem.toggle();
+      if (deltaX < 0 && isMenuOpen) MenuSystem.toggle();
+    }, { passive: true });
+  }
+
+  static registerExampleToggle() {
     // Global function for toggling grammar examples
     window.toggleExample = function (button) {
       const allToggles = document.querySelectorAll('.example-toggle');

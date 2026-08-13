@@ -32,17 +32,43 @@ body {
     max(var(--spacing-standard), env(safe-area-inset-left));
 }
 
-/* Page containers (practice / menu) */
-.page {
+/* Page slider: menu sits left of the practice page; swiping right reveals it */
+.page-slider {
+  position: relative;
   flex: 1;
   min-height: 0;
+  overflow: hidden;
+}
+
+.page {
+  position: absolute;
+  inset: 0;
   display: flex;
   flex-direction: column;
   gap: var(--spacing-standard);
+  transition: transform 0.3s ease;
+  will-change: transform;
+}
+
+#menu-page {
+  transform: translateX(-102%);
+}
+
+.page-slider.menu-open #menu-page {
+  transform: translateX(0);
+}
+
+.page-slider.menu-open #practice-page {
+  transform: translateX(102%);
 }
 
 .hidden {
   display: none !important;
+}
+
+/* Prevent iOS double-tap zoom while keeping pinch zoom */
+* {
+  touch-action: manipulation;
 }
 
 main {

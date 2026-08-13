@@ -123,6 +123,63 @@ class UI {
     }
   }
 
+  // Compact primary fields per category for the round-overview table
+  primaryFields(entry) {
+    switch (StateManager.get('currentCategory')) {
+      case 'nouns':
+        return { spoken: entry.hebrew_spoken_singular, letters: entry.hebrew_letters_singular };
+      case 'verbs':
+        return { spoken: entry.hebrew_spoken_general, letters: entry.hebrew_letters_general };
+      case 'adjectives':
+        return { spoken: entry.hebrew_spoken_male, letters: entry.hebrew_letters_male };
+      default:
+        return { spoken: entry.hebrew_spoken, letters: entry.hebrew_letters };
+    }
+  }
+
+  openChunkOverlay() {
+    const overlay = document.getElementById('chunk-overlay');
+    const body = document.getElementById('chunk-table-body');
+    const context = document.getElementById('overlay-context');
+    if (!overlay || !body) return;
+
+    const filteredData = StateManager.get('filteredData');
+    const currentChunkIndices = StateManager.get('currentChunkIndices');
+
+    body.innerHTML = '';
+    currentChunkIndices.forEach((index) => {
+      const entry = filteredData[index];
+      if (!entry) return;
+      const fields = this.primaryFields(entry);
+      const row = document.createElement('tr');
+
+      const english = document.createElement('td');
+      english.textContent = entry.english || '';
+
+      const spoken = document.createElement('td');
+      spoken.textContent = fields.spoken || '';
+
+      const letters = document.createElement('td');
+      letters.className = 'td-letters';
+      letters.setAttribute('lang', 'he');
+      letters.setAttribute('dir', 'rtl');
+      letters.textContent = fields.letters || '';
+
+      row.append(english, spoken, letters);
+      body.appendChild(row);
+    });
+
+    const label = document.getElementById('context-label');
+    if (context && label) context.textContent = label.textContent;
+
+    overlay.classList.remove('hidden');
+  }
+
+  closeChunkOverlay() {
+    const overlay = document.getElementById('chunk-overlay');
+    if (overlay) overlay.classList.add('hidden');
+  }
+
   updateColorTheme(themeName) {
     document.documentElement.setAttribute('data-theme', themeName);
     document.body.setAttribute('data-theme', themeName);

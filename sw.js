@@ -1,7 +1,7 @@
 // Service worker: precaches the whole app so it works fully offline.
 // Strategy: stale-while-revalidate — serve from cache instantly, refresh the
 // cache in the background when online, so content updates arrive on the next launch.
-const CACHE = 'hebrew-app-v3';
+const CACHE = 'hebrew-app-v4';
 
 const PRECACHE = [
   './',
