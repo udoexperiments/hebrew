@@ -70,14 +70,6 @@ class MenuSystem {
     bind('sound-select-menu', SOUND_THEMES, 'soundTheme', (v) => EventHandlers.setSoundTheme(v));
     bind('color-select-menu', COLOR_THEMES, 'colorTheme', (v) => EventHandlers.setColorTheme(v));
 
-    // Lesson pill: options depend on loaded data and are rebuilt in refresh()
-    const lessonSelect = document.getElementById('lesson-select');
-    if (lessonSelect) {
-      lessonSelect.addEventListener('change', (e) => {
-        const value = e.target.value;
-        EventHandlers.setLesson(value === 'all' ? 'all' : Number.parseInt(value, 10));
-      });
-    }
   }
 
   bindRows() {
@@ -87,7 +79,7 @@ class MenuSystem {
     };
     on('language-row', () => EventHandlers.toggleDirection());
     on('about-row', () =>
-      alert('Speech Explorer\n\nA personal Hebrew learning app.\nWord data and audio are stored on your device — the app works fully offline.'));
+      alert('Vocabulary Trainer\n\nA personal Hebrew learning app.\nWord data and audio are stored on your device — the app works fully offline.'));
     on('help-row', () =>
       alert('How to practice:\n\n1. Pick a category and lesson in the menu.\n2. Read the card, recall the translation.\n3. Tap Show (or the lower card) to reveal it.\n4. Mark yourself Correct or Mistake — mistakes return later in the round.\n\nA round covers your chosen chunk of words; the bar shows progress.'));
   }
@@ -145,27 +137,10 @@ class MenuSystem {
       const el = document.getElementById(id);
       if (el) el.textContent = text;
     };
-    const allLessons = StateManager.get('allLessons');
-    const currentLesson = StateManager.get('currentLesson');
-    const lessons = this.lessonsOf(StateManager.get('data'));
-
     setText('category-pill-label', categoryText);
     setText('category-row-value', categoryText);
     setText('chunk-pill-label', `${chunkSize} words`);
     setText('chunk-row-value', `${chunkSize} words`);
-    setText('lesson-pill-label', allLessons
-      ? 'All'
-      : (lessons.get(currentLesson) || `Lesson ${currentLesson}`));
-
-    // Rebuild the lesson pill options for the current category
-    const lessonSelect = document.getElementById('lesson-select');
-    if (lessonSelect) {
-      const options = [{ value: 'all', text: 'All lessons' }].concat(
-        [...lessons.keys()].sort((a, b) => a - b)
-          .map((num) => ({ value: String(num), text: lessons.get(num) }))
-      );
-      this.fillSelect(lessonSelect, options, allLessons ? 'all' : String(currentLesson));
-    }
     setText('sound-row-value', soundText);
     setText('color-row-value', colorText);
     setText('language-row-value', direction);

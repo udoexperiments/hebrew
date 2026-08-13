@@ -51,11 +51,6 @@
   color: var(--on-accent-2);
 }
 
-.pill-rose {
-  background: var(--active-lesson-bg);
-  color: var(--on-active-lesson);
-}
-
 .pill-label {
   overflow: hidden;
   text-overflow: ellipsis;

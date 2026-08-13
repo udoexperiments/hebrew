@@ -1,6 +1,6 @@
 {
-  "name": "Speech Explorer",
-  "short_name": "Hebrew",
+  "name": "Vocabulary Trainer",
+  "short_name": "Vocabulary",
   "description": "Hebrew language learning flashcards",
   "start_url": "./",
   "scope": "./",
